@@ -1,33 +1,40 @@
-name: Sync Spotify Chordfylan
+
+name: Sync Last.fm Chordfylan
+
 on:
   schedule:
-    - cron: '15 23 * * *' # 06:15 WIB (UTC+7)
+    - cron: '15 23 * * *'
   workflow_dispatch:
+
 permissions:
   contents: write
+
 concurrency:
-  group: spotify-chordfylan-sync
+  group: lastfm-chordfylan-sync
   cancel-in-progress: false
+
 jobs:
   sync:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-      - uses: actions/setup-node@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: '24'
+
       - name: Test matching
         run: npm test
-      - name: Sync Spotify and Blogger
+
+      - name: Sync Last.fm and Blogger
         env:
-          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          SPOTIFY_PLAYLIST_ID: ${{ vars.SPOTIFY_PLAYLIST_ID }}
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           BLOG_URL: https://www.chordfylan.com
         run: npm run sync
+
       - name: Commit JSON if changed
         run: |
           git config user.name "github-actions[bot]"
@@ -36,6 +43,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Tidak ada perubahan"
           else
-            git commit -m "chore: sync Spotify chord widget"
+            git commit -m "chore: sync Last.fm chord widget"
             git push
           fi
