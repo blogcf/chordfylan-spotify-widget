@@ -1,31 +1,14 @@
 {
-  "schemaVersion": 1,
-  "updatedAt": "2026-10-18T09:40:58.308Z",
-  "source": "Last.fm Top Tracks - Indonesia",
+  "schemaVersion": 2,
+  "updatedAt": "2026-10-18T09:56:33.264Z",
+  "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
-  "candidates": 50,
+  "candidates": 500,
   "indexedPosts": 7079,
-  "matchCount": 6,
+  "verifiedIndonesianTracks": 51,
+  "matchCount": 10,
   "matches": [
-    {
-      "rank": 34,
-      "title": "Teh Hijau",
-      "artist": "Tulus",
-      "articleTitle": "Teh Hijau - Tulus",
-      "url": "https://www.chordfylan.com/2026/10/teh-hijau-tulus.html",
-      "sourceUrl": "https://www.last.fm/music/Tulus/_/Teh+Hijau",
-      "matchScore": 1
-    },
-    {
-      "rank": 39,
-      "title": "Creep",
-      "artist": "Radiohead",
-      "articleTitle": "Creep - Radiohead",
-      "url": "https://www.chordfylan.com/2019/08/creep-radiohead.html",
-      "sourceUrl": "https://www.last.fm/music/Radiohead/_/Creep",
-      "matchScore": 1
-    },
     {
       "rank": 42,
       "title": "Anything You Want",
@@ -33,7 +16,12 @@
       "articleTitle": "Anything You Want - Reality Club",
       "url": "https://www.chordfylan.com/2023/05/chord-anything-you-want-reality-club.html",
       "sourceUrl": "https://www.last.fm/music/Reality+Club/_/Anything+You+Want",
-      "matchScore": 1
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "70427aaf-7e0c-46a5-a04f-177eeb98d80e",
+        "url": "https://musicbrainz.org/artist/70427aaf-7e0c-46a5-a04f-177eeb98d80e"
+      }
     },
     {
       "rank": 44,
@@ -42,16 +30,12 @@
       "articleTitle": "Everything U Are - Hindia",
       "url": "https://www.chordfylan.com/2026/10/everything-u-are-hindia.html",
       "sourceUrl": "https://www.last.fm/music/Hindia/_/everything+u+are",
-      "matchScore": 1
-    },
-    {
-      "rank": 48,
-      "title": "The Only Exception",
-      "artist": "Paramore",
-      "articleTitle": "The Only Exception - Paramore",
-      "url": "https://www.chordfylan.com/2019/08/the-only-exception-paramore.html",
-      "sourceUrl": "https://www.last.fm/music/Paramore/_/The+Only+Exception",
-      "matchScore": 1
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
+        "url": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
+      }
     },
     {
       "rank": 50,
@@ -60,7 +44,110 @@
       "articleTitle": "Terbuang Dalam Waktu - Barasuara",
       "url": "https://www.chordfylan.com/2023/09/terbuang-dalam-waktu-barasuara.html",
       "sourceUrl": "https://www.last.fm/music/Barasuara/_/Terbuang+Dalam+Waktu",
-      "matchScore": 1
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "21a3321e-1ddf-499f-90cb-f92eaae072ce",
+        "url": "https://musicbrainz.org/artist/21a3321e-1ddf-499f-90cb-f92eaae072ce"
+      }
+    },
+    {
+      "rank": 82,
+      "title": "Ada titik-titik di ujung doa",
+      "artist": "Sal Priadi",
+      "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
+      "url": "https://www.chordfylan.com/2026/10/ada-titik-titik-di-ujung-doa-sal-priadi.html",
+      "sourceUrl": "https://www.last.fm/music/Sal+Priadi/_/Ada+titik-titik+di+ujung+doa",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "b789cb1f-3805-4c1c-ac6c-c6cca2787f55",
+        "url": "https://musicbrainz.org/artist/b789cb1f-3805-4c1c-ac6c-c6cca2787f55"
+      }
+    },
+    {
+      "rank": 85,
+      "title": "MMG (My Mine Gueh)",
+      "artist": "Naykilla",
+      "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
+      "url": "https://www.chordfylan.com/2026/10/mmg-my-mine-gueh-naykilla.html",
+      "sourceUrl": "https://www.last.fm/music/Naykilla/_/MMG+(My+Mine+Gueh)",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "06c095fd-512a-4bcd-9c0c-1bda68b29848",
+        "url": "https://musicbrainz.org/artist/06c095fd-512a-4bcd-9c0c-1bda68b29848"
+      }
+    },
+    {
+      "rank": 114,
+      "title": "kota ini tak sama tanpamu",
+      "artist": "Nadhif Basalamah",
+      "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
+      "url": "https://www.chordfylan.com/2026/10/kota-ini-tak-sama-tanpamu-nadhif.html",
+      "sourceUrl": "https://www.last.fm/music/Nadhif+Basalamah/_/kota+ini+tak+sama+tanpamu",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "ccbc2142-b78c-4f52-b5a5-e4869910c123",
+        "url": "https://musicbrainz.org/artist/ccbc2142-b78c-4f52-b5a5-e4869910c123"
+      }
+    },
+    {
+      "rank": 137,
+      "title": "Alexandra",
+      "artist": "Reality Club",
+      "articleTitle": "Alexandra - Reality Club",
+      "url": "https://www.chordfylan.com/2023/05/chord-alexandra-reality-club.html",
+      "sourceUrl": "https://www.last.fm/music/Reality+Club/_/Alexandra",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "70427aaf-7e0c-46a5-a04f-177eeb98d80e",
+        "url": "https://musicbrainz.org/artist/70427aaf-7e0c-46a5-a04f-177eeb98d80e"
+      }
+    },
+    {
+      "rank": 163,
+      "title": "Dunia Yang Nanti",
+      "artist": "Raim Laode",
+      "articleTitle": "Dunia Yang Nanti - Raim Laode",
+      "url": "https://www.chordfylan.com/2026/10/dunia-yang-nanti-raim-laode.html",
+      "sourceUrl": "https://www.last.fm/music/Raim+Laode/_/Dunia+Yang+Nanti",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "12221a55-3afe-4c16-bac7-38f550e1f6be",
+        "url": "https://musicbrainz.org/artist/12221a55-3afe-4c16-bac7-38f550e1f6be"
+      }
+    },
+    {
+      "rank": 206,
+      "title": "Iqro'",
+      "artist": "Raim Laode",
+      "articleTitle": "Iqro - Raim Laode",
+      "url": "https://www.chordfylan.com/2026/10/iqro-raim-laode.html",
+      "sourceUrl": "https://www.last.fm/music/Raim+Laode/_/Iqro%27",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "12221a55-3afe-4c16-bac7-38f550e1f6be",
+        "url": "https://musicbrainz.org/artist/12221a55-3afe-4c16-bac7-38f550e1f6be"
+      }
+    },
+    {
+      "rank": 207,
+      "title": "Kuning",
+      "artist": "rumahsakit",
+      "articleTitle": "Kuning - Rumahsakit",
+      "url": "https://www.chordfylan.com/2023/07/kuning-rumahsakit.html",
+      "sourceUrl": "https://www.last.fm/music/rumahsakit/_/Kuning",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "255b6820-69d9-49ed-b745-57959ab316b8",
+        "url": "https://musicbrainz.org/artist/255b6820-69d9-49ed-b745-57959ab316b8"
+      }
     }
   ]
 }

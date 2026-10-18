@@ -1,0 +1,1649 @@
+{
+  "olivia rodrigo": {
+    "name": "Olivia Rodrigo",
+    "checkedAt": "2026-10-18T09:52:36.540Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+      "verificationUrl": "https://musicbrainz.org/artist/6925db17-f35e-42f3-a4eb-84ee6bf5d4b0"
+    }
+  },
+  "bts": {
+    "name": "BTS",
+    "checkedAt": "2026-10-18T09:52:37.488Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "adela": {
+    "name": "ADÉLA",
+    "checkedAt": "2026-10-18T09:52:38.736Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "the 1975": {
+    "name": "The 1975",
+    "checkedAt": "2026-10-18T09:52:39.987Z",
+    "result": {
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "5b6ebfe0-f72b-4902-bba9-74c8af0f1af0",
+      "verificationUrl": "https://musicbrainz.org/artist/5b6ebfe0-f72b-4902-bba9-74c8af0f1af0"
+    }
+  },
+  "malcolm todd": {
+    "name": "Malcolm Todd",
+    "checkedAt": "2026-10-18T09:52:41.231Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d",
+      "verificationUrl": "https://musicbrainz.org/artist/6c2a79b8-2b5c-4c2d-b495-6a446811bf9d"
+    }
+  },
+  "agust d": {
+    "name": "Agust D",
+    "checkedAt": "2026-10-18T09:52:42.627Z",
+    "result": {
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "f09d2950-e3c6-47b2-b21c-2bad2cd3f616",
+      "verificationUrl": "https://musicbrainz.org/artist/f09d2950-e3c6-47b2-b21c-2bad2cd3f616"
+    }
+  },
+  "katy perry": {
+    "name": "Katy Perry",
+    "checkedAt": "2026-10-18T09:52:43.743Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "122d63fc-8671-43e4-9752-34e846d62a9c",
+      "verificationUrl": "https://musicbrainz.org/artist/122d63fc-8671-43e4-9752-34e846d62a9c"
+    }
+  },
+  "daniel caesar": {
+    "name": "Daniel Caesar",
+    "checkedAt": "2026-10-18T09:52:44.985Z",
+    "result": {
+      "status": "foreign",
+      "country": "CA",
+      "mbid": "b46e298d-d3a5-4695-a03e-63e8c523b23e",
+      "verificationUrl": "https://musicbrainz.org/artist/b46e298d-d3a5-4695-a03e-63e8c523b23e"
+    }
+  },
+  "rm": {
+    "name": "RM",
+    "checkedAt": "2026-10-18T09:52:46.235Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "the script": {
+    "name": "The Script",
+    "checkedAt": "2026-10-18T09:52:47.488Z",
+    "result": {
+      "status": "foreign",
+      "country": "IE",
+      "mbid": "4c98aa1b-34eb-4336-987f-5e50aa059c00",
+      "verificationUrl": "https://musicbrainz.org/artist/4c98aa1b-34eb-4336-987f-5e50aa059c00"
+    }
+  },
+  "jimin": {
+    "name": "Jimin",
+    "checkedAt": "2026-10-18T09:52:50.366Z",
+    "result": {
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "d2582c77-6b0f-4b2f-802f-8f3cad1a5fec",
+      "verificationUrl": "https://musicbrainz.org/artist/d2582c77-6b0f-4b2f-802f-8f3cad1a5fec"
+    }
+  },
+  "j hope": {
+    "name": "j-hope",
+    "checkedAt": "2026-10-18T09:52:50.516Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "ariana grande": {
+    "name": "Ariana Grande",
+    "checkedAt": "2026-10-18T09:52:53.390Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+      "verificationUrl": "https://musicbrainz.org/artist/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387"
+    }
+  },
+  "shawn mendes": {
+    "name": "Shawn Mendes",
+    "checkedAt": "2026-10-18T09:52:53.533Z",
+    "result": {
+      "status": "foreign",
+      "country": "CA",
+      "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
+      "verificationUrl": "https://musicbrainz.org/artist/b7d92248-97e3-4450-8057-6fe06738f735"
+    }
+  },
+  "tulus": {
+    "name": "Tulus",
+    "checkedAt": "2026-10-18T09:52:56.413Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "billie eilish": {
+    "name": "Billie Eilish",
+    "checkedAt": "2026-10-18T09:52:56.564Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "sombr": {
+    "name": "sombr",
+    "checkedAt": "2026-10-18T09:52:59.436Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "502cf908-9921-48bc-bf0e-265c881c0156",
+      "verificationUrl": "https://musicbrainz.org/artist/502cf908-9921-48bc-bf0e-265c881c0156"
+    }
+  },
+  "bleachers": {
+    "name": "Bleachers",
+    "checkedAt": "2026-10-18T09:52:59.583Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "58e235fc-f6ea-4614-9ed4-9855a5665ae1",
+      "verificationUrl": "https://musicbrainz.org/artist/58e235fc-f6ea-4614-9ed4-9855a5665ae1"
+    }
+  },
+  "arctic monkeys": {
+    "name": "Arctic Monkeys",
+    "checkedAt": "2026-10-18T09:53:02.457Z",
+    "result": {
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a",
+      "verificationUrl": "https://musicbrainz.org/artist/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a"
+    }
+  },
+  "radiohead": {
+    "name": "Radiohead",
+    "checkedAt": "2026-10-18T09:53:02.605Z",
+    "result": {
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+      "verificationUrl": "https://musicbrainz.org/artist/a74b1b7f-71a5-4011-9441-d0b5e4122711"
+    }
+  },
+  "green day": {
+    "name": "Green Day",
+    "checkedAt": "2026-10-18T09:53:05.510Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "084308bd-1654-436f-ba03-df6697104e19",
+      "verificationUrl": "https://musicbrainz.org/artist/084308bd-1654-436f-ba03-df6697104e19"
+    }
+  },
+  "reality club": {
+    "name": "Reality Club",
+    "checkedAt": "2026-10-18T09:53:05.695Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "70427aaf-7e0c-46a5-a04f-177eeb98d80e",
+      "verificationUrl": "https://musicbrainz.org/artist/70427aaf-7e0c-46a5-a04f-177eeb98d80e"
+    }
+  },
+  "hindia": {
+    "name": "Hindia",
+    "checkedAt": "2026-10-18T09:53:08.533Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
+      "verificationUrl": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
+    }
+  },
+  "jin": {
+    "name": "Jin",
+    "checkedAt": "2026-10-18T09:53:08.717Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "justin bieber": {
+    "name": "Justin Bieber",
+    "checkedAt": "2026-10-18T09:53:11.555Z",
+    "result": {
+      "status": "foreign",
+      "country": "CA",
+      "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+      "verificationUrl": "https://musicbrainz.org/artist/e0140a67-e4d1-4f13-8a01-364355bee46e"
+    }
+  },
+  "paramore": {
+    "name": "Paramore",
+    "checkedAt": "2026-10-18T09:53:11.703Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "barasuara": {
+    "name": "Barasuara",
+    "checkedAt": "2026-10-18T09:53:12.953Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "21a3321e-1ddf-499f-90cb-f92eaae072ce",
+      "verificationUrl": "https://musicbrainz.org/artist/21a3321e-1ddf-499f-90cb-f92eaae072ce"
+    }
+  },
+  "the goo goo dolls": {
+    "name": "The Goo Goo Dolls",
+    "checkedAt": "2026-10-18T09:53:14.280Z",
+    "result": {
+      "status": "unverified",
+      "reason": "artist_not_found"
+    }
+  },
+  "niki": {
+    "name": "Niki",
+    "checkedAt": "2026-10-18T09:53:15.461Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "gigi perez": {
+    "name": "Gigi Perez",
+    "checkedAt": "2026-10-18T09:53:16.706Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "8ab64ebd-200e-47af-a3fc-92540e186214"
+    }
+  },
+  "ravyn lenae": {
+    "name": "Ravyn Lenae",
+    "checkedAt": "2026-10-18T09:53:19.579Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "94c64122-dbd4-4927-b2fa-f204b0b4b0c2",
+      "verificationUrl": "https://musicbrainz.org/artist/94c64122-dbd4-4927-b2fa-f204b0b4b0c2"
+    }
+  },
+  "steve lacy": {
+    "name": "Steve Lacy",
+    "checkedAt": "2026-10-18T09:53:19.726Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "backstreet boys": {
+    "name": "Backstreet Boys",
+    "checkedAt": "2026-10-18T09:53:20.997Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "2f569e60-0a1b-4fb9-95a4-3dc1525d1aad",
+      "verificationUrl": "https://musicbrainz.org/artist/2f569e60-0a1b-4fb9-95a4-3dc1525d1aad"
+    }
+  },
+  "ashe": {
+    "name": "Ashe",
+    "checkedAt": "2026-10-18T09:53:22.231Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "djo": {
+    "name": "Djo",
+    "checkedAt": "2026-10-18T09:53:23.482Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "coldplay": {
+    "name": "Coldplay",
+    "checkedAt": "2026-10-18T09:53:24.731Z",
+    "result": {
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+      "verificationUrl": "https://musicbrainz.org/artist/cc197bad-dc9c-440d-a5b5-d52ba2e14234"
+    }
+  },
+  "cigarettes after sex": {
+    "name": "Cigarettes After Sex",
+    "checkedAt": "2026-10-18T09:53:27.605Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "34557d8f-ee4a-44ab-ae6e-49bb8ac604d0",
+      "verificationUrl": "https://musicbrainz.org/artist/34557d8f-ee4a-44ab-ae6e-49bb8ac604d0"
+    }
+  },
+  "perunggu": {
+    "name": "Perunggu",
+    "checkedAt": "2026-10-18T09:53:27.750Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "54c4a836-5417-49cf-a0c3-4cd9f0ba617c",
+      "verificationUrl": "https://musicbrainz.org/artist/54c4a836-5417-49cf-a0c3-4cd9f0ba617c"
+    }
+  },
+  "bruno mars": {
+    "name": "Bruno Mars",
+    "checkedAt": "2026-10-18T09:53:29.005Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+      "verificationUrl": "https://musicbrainz.org/artist/afb680f2-b6eb-4cd7-a70b-a63b25c763d5"
+    }
+  },
+  "clairo": {
+    "name": "Clairo",
+    "checkedAt": "2026-10-18T09:53:30.252Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "d786f59b-1836-4ddb-8393-ab753edbe984",
+      "verificationUrl": "https://musicbrainz.org/artist/d786f59b-1836-4ddb-8393-ab753edbe984"
+    }
+  },
+  "hearts2hearts": {
+    "name": "Hearts2Hearts",
+    "checkedAt": "2026-10-18T09:53:31.505Z",
+    "result": {
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "066080a4-84c7-46c6-91d3-dc10d572749b",
+      "verificationUrl": "https://musicbrainz.org/artist/066080a4-84c7-46c6-91d3-dc10d572749b"
+    }
+  },
+  "alex crichton": {
+    "name": "Alex Crichton",
+    "checkedAt": "2026-10-18T09:53:32.753Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "40af1757-8c0d-4ceb-9268-016efdc936b9"
+    }
+  },
+  "enau": {
+    "name": "eńau",
+    "checkedAt": "2026-10-18T09:53:35.628Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "mitski": {
+    "name": "Mitski",
+    "checkedAt": "2026-10-18T09:53:35.783Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
+      "verificationUrl": "https://musicbrainz.org/artist/fa58cf24-0e44-421d-8519-8bf461dcfaa5"
+    }
+  },
+  "sal priadi": {
+    "name": "Sal Priadi",
+    "checkedAt": "2026-10-18T09:53:37.098Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "b789cb1f-3805-4c1c-ac6c-c6cca2787f55",
+      "verificationUrl": "https://musicbrainz.org/artist/b789cb1f-3805-4c1c-ac6c-c6cca2787f55"
+    }
+  },
+  "feast": {
+    "name": ".Feast",
+    "checkedAt": "2026-10-18T09:53:38.276Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "naykilla": {
+    "name": "Naykilla",
+    "checkedAt": "2026-10-18T09:53:39.527Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "06c095fd-512a-4bcd-9c0c-1bda68b29848",
+      "verificationUrl": "https://musicbrainz.org/artist/06c095fd-512a-4bcd-9c0c-1bda68b29848"
+    }
+  },
+  "my chemical romance": {
+    "name": "My Chemical Romance",
+    "checkedAt": "2026-10-18T09:53:40.775Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
+      "verificationUrl": "https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13"
+    }
+  },
+  "she and him": {
+    "name": "She & Him",
+    "checkedAt": "2026-10-18T09:53:43.649Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "fb821608-35fd-4a45-a4b2-1a0537cee111",
+      "verificationUrl": "https://musicbrainz.org/artist/fb821608-35fd-4a45-a4b2-1a0537cee111"
+    }
+  },
+  "the weeknd": {
+    "name": "The Weeknd",
+    "checkedAt": "2026-10-18T09:53:45.421Z",
+    "result": {
+      "status": "foreign",
+      "country": "CA",
+      "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+      "verificationUrl": "https://musicbrainz.org/artist/c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+    }
+  },
+  "overnight": {
+    "name": "Overnight",
+    "checkedAt": "2026-10-18T09:53:45.571Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "wave to earth": {
+    "name": "wave to earth",
+    "checkedAt": "2026-10-18T09:53:46.831Z",
+    "result": {
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "89e95aa3-bd49-4af3-9c87-0d88b2093bb0",
+      "verificationUrl": "https://musicbrainz.org/artist/89e95aa3-bd49-4af3-9c87-0d88b2093bb0"
+    }
+  },
+  "jung kook": {
+    "name": "Jung Kook",
+    "checkedAt": "2026-10-18T09:53:48.111Z",
+    "result": {
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "23c8056b-ee13-4cfc-a772-2f5292e35bb5",
+      "verificationUrl": "https://musicbrainz.org/artist/23c8056b-ee13-4cfc-a772-2f5292e35bb5"
+    }
+  },
+  "sienna spiro": {
+    "name": "Sienna Spiro",
+    "checkedAt": "2026-10-18T09:53:49.323Z",
+    "result": {
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "ea696191-407a-4bf2-8302-7e05f6c163c5",
+      "verificationUrl": "https://musicbrainz.org/artist/ea696191-407a-4bf2-8302-7e05f6c163c5"
+    }
+  },
+  "cortis": {
+    "name": "CORTIS",
+    "checkedAt": "2026-10-18T09:53:50.671Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "lord huron": {
+    "name": "Lord Huron",
+    "checkedAt": "2026-10-18T09:53:51.821Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "51c76d97-0635-433c-b26d-66beb81657f8",
+      "verificationUrl": "https://musicbrainz.org/artist/51c76d97-0635-433c-b26d-66beb81657f8"
+    }
+  },
+  "nadhif basalamah": {
+    "name": "Nadhif Basalamah",
+    "checkedAt": "2026-10-18T09:53:53.166Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "ccbc2142-b78c-4f52-b5a5-e4869910c123",
+      "verificationUrl": "https://musicbrainz.org/artist/ccbc2142-b78c-4f52-b5a5-e4869910c123"
+    }
+  },
+  "v": {
+    "name": "V",
+    "checkedAt": "2026-10-18T09:53:54.325Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "41ece0f7-91f6-4c87-982c-3a39c5a02586"
+    }
+  },
+  "magnolia celebration": {
+    "name": "Magnolia Celebration",
+    "checkedAt": "2026-10-18T09:53:55.739Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "19dfedb5-4b99-4069-b3a8-28f17cc7c383",
+      "verificationUrl": "https://musicbrainz.org/artist/19dfedb5-4b99-4069-b3a8-28f17cc7c383"
+    }
+  },
+  "lady gaga": {
+    "name": "Lady Gaga",
+    "checkedAt": "2026-10-18T09:53:56.819Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+      "verificationUrl": "https://musicbrainz.org/artist/650e7db6-b795-4eb5-a702-5ea2fc46c848"
+    }
+  },
+  "rumahsakit": {
+    "name": "rumahsakit",
+    "checkedAt": "2026-10-18T09:53:58.070Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "255b6820-69d9-49ed-b745-57959ab316b8",
+      "verificationUrl": "https://musicbrainz.org/artist/255b6820-69d9-49ed-b745-57959ab316b8"
+    }
+  },
+  "boa": {
+    "name": "bôa",
+    "checkedAt": "2026-10-18T09:53:59.323Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "the walters": {
+    "name": "The Walters",
+    "checkedAt": "2026-10-18T09:54:00.567Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "61cdb045-7f89-4eb1-b3ed-35db94d9ab99"
+    }
+  },
+  "the marias": {
+    "name": "The Marías",
+    "checkedAt": "2026-10-18T09:54:01.850Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "7a3970c9-ecd8-4eee-a267-4d8c77d97ff3"
+    }
+  },
+  "the neighbourhood": {
+    "name": "The Neighbourhood",
+    "checkedAt": "2026-10-18T09:54:03.074Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "joji": {
+    "name": "Joji",
+    "checkedAt": "2026-10-18T09:54:04.327Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "one direction": {
+    "name": "One Direction",
+    "checkedAt": "2026-10-18T09:54:05.569Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "1a425bbd-cca4-4b2c-aeb7-71cb176c828a"
+    }
+  },
+  "harry styles": {
+    "name": "Harry Styles",
+    "checkedAt": "2026-10-18T09:54:06.823Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427"
+    }
+  },
+  "ricky montgomery": {
+    "name": "Ricky Montgomery",
+    "checkedAt": "2026-10-18T09:54:12.881Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "c1f1cf38-1fee-4106-871d-ac392a28b91a"
+    }
+  },
+  "lngshot": {
+    "name": "LNGSHOT",
+    "checkedAt": "2026-10-18T09:54:13.027Z",
+    "result": {
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "31e181a5-a927-4e9a-b97b-301002ddd9e0",
+      "verificationUrl": "https://musicbrainz.org/artist/31e181a5-a927-4e9a-b97b-301002ddd9e0"
+    }
+  },
+  "gracie abrams": {
+    "name": "Gracie Abrams",
+    "checkedAt": "2026-10-18T09:54:14.289Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "f7441bc7-d7de-4813-a2fc-31a4033d396d",
+      "verificationUrl": "https://musicbrainz.org/artist/f7441bc7-d7de-4813-a2fc-31a4033d396d"
+    }
+  },
+  "chappell roan": {
+    "name": "Chappell Roan",
+    "checkedAt": "2026-10-18T09:54:15.527Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "56a55378-f155-48de-80a5-d80104221267",
+      "verificationUrl": "https://musicbrainz.org/artist/56a55378-f155-48de-80a5-d80104221267"
+    }
+  },
+  "keane": {
+    "name": "Keane",
+    "checkedAt": "2026-10-18T09:54:16.784Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "tyler the creator": {
+    "name": "Tyler, The Creator",
+    "checkedAt": "2026-10-18T09:54:19.654Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+      "verificationUrl": "https://musicbrainz.org/artist/f6beac20-5dfe-4d1f-ae02-0b0a740aafd6"
+    }
+  },
+  "girl in red": {
+    "name": "girl in red",
+    "checkedAt": "2026-10-18T09:54:19.882Z",
+    "result": {
+      "status": "foreign",
+      "country": "NO",
+      "mbid": "4ae429fe-735c-4968-8253-a591421b1bd0",
+      "verificationUrl": "https://musicbrainz.org/artist/4ae429fe-735c-4968-8253-a591421b1bd0"
+    }
+  },
+  "olivia dean": {
+    "name": "Olivia Dean",
+    "checkedAt": "2026-10-18T09:54:22.680Z",
+    "result": {
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "15e0d608-0869-429b-898d-3d8db3ecedd5",
+      "verificationUrl": "https://musicbrainz.org/artist/15e0d608-0869-429b-898d-3d8db3ecedd5"
+    }
+  },
+  "her s": {
+    "name": "Her's",
+    "checkedAt": "2026-10-18T09:54:22.830Z",
+    "result": {
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "da357978-095d-4621-a7ee-2c0f336c5e8a",
+      "verificationUrl": "https://musicbrainz.org/artist/da357978-095d-4621-a7ee-2c0f336c5e8a"
+    }
+  },
+  "newjeans": {
+    "name": "NewJeans",
+    "checkedAt": "2026-10-18T09:54:24.076Z",
+    "result": {
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "49204a7a-ed85-407a-828f-6fd46f1d8126",
+      "verificationUrl": "https://musicbrainz.org/artist/49204a7a-ed85-407a-828f-6fd46f1d8126"
+    }
+  },
+  "raim laode": {
+    "name": "Raim Laode",
+    "checkedAt": "2026-10-18T09:54:25.334Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "12221a55-3afe-4c16-bac7-38f550e1f6be",
+      "verificationUrl": "https://musicbrainz.org/artist/12221a55-3afe-4c16-bac7-38f550e1f6be"
+    }
+  },
+  "maroon 5": {
+    "name": "Maroon 5",
+    "checkedAt": "2026-10-18T09:54:26.573Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
+      "verificationUrl": "https://musicbrainz.org/artist/0ab49580-c84f-44d4-875f-d83760ea2cfe"
+    }
+  },
+  "aespa": {
+    "name": "aespa",
+    "checkedAt": "2026-10-18T09:54:27.855Z",
+    "result": {
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "b51c672b-85e0-48fe-8648-470a2422229f",
+      "verificationUrl": "https://musicbrainz.org/artist/b51c672b-85e0-48fe-8648-470a2422229f"
+    }
+  },
+  "laufey": {
+    "name": "Laufey",
+    "checkedAt": "2026-10-18T09:54:30.705Z",
+    "result": {
+      "status": "foreign",
+      "country": "IS",
+      "mbid": "21a89505-10a9-4ac0-8388-833bc07b9f86",
+      "verificationUrl": "https://musicbrainz.org/artist/21a89505-10a9-4ac0-8388-833bc07b9f86"
+    }
+  },
+  "tv girl": {
+    "name": "TV Girl",
+    "checkedAt": "2026-10-18T09:54:30.852Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "38f0c7ac-46eb-49ca-b3ab-c785ccd05a60",
+      "verificationUrl": "https://musicbrainz.org/artist/38f0c7ac-46eb-49ca-b3ab-c785ccd05a60"
+    }
+  },
+  "rex orange county": {
+    "name": "Rex Orange County",
+    "checkedAt": "2026-10-18T09:54:32.103Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87"
+    }
+  },
+  "adrian khalif": {
+    "name": "Adrian Khalif",
+    "checkedAt": "2026-10-18T09:54:33.350Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "e4d60785-e409-4c96-8d36-a7a62b45b6cf"
+    }
+  },
+  "charlie puth": {
+    "name": "Charlie Puth",
+    "checkedAt": "2026-10-18T09:54:34.609Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+      "verificationUrl": "https://musicbrainz.org/artist/525f1f1c-03f0-4bc8-8dfd-e7521f87631b"
+    }
+  },
+  "marcell": {
+    "name": "Marcell",
+    "checkedAt": "2026-10-18T09:54:37.480Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "sufjan stevens": {
+    "name": "Sufjan Stevens",
+    "checkedAt": "2026-10-18T09:54:37.654Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c",
+      "verificationUrl": "https://musicbrainz.org/artist/01d3c51b-9b98-418a-8d8e-37f6fab59d8c"
+    }
+  },
+  "cup of joe": {
+    "name": "Cup of Joe",
+    "checkedAt": "2026-10-18T09:54:38.876Z",
+    "result": {
+      "status": "foreign",
+      "country": "PH",
+      "mbid": "430df530-9866-4a30-9381-67ee3f79e3c7",
+      "verificationUrl": "https://musicbrainz.org/artist/430df530-9866-4a30-9381-67ee3f79e3c7"
+    }
+  },
+  "lizzy mcalpine": {
+    "name": "Lizzy McAlpine",
+    "checkedAt": "2026-10-18T09:54:41.777Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "ee0b11de-0c8a-4267-9886-198f4579e1db"
+    }
+  },
+  "tame impala": {
+    "name": "Tame Impala",
+    "checkedAt": "2026-10-18T09:54:43.548Z",
+    "result": {
+      "status": "foreign",
+      "country": "AU",
+      "mbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+      "verificationUrl": "https://musicbrainz.org/artist/63aa26c3-d59b-4da4-84ac-716b54f1ef4d"
+    }
+  },
+  "swedish house mafia": {
+    "name": "Swedish House Mafia",
+    "checkedAt": "2026-10-18T09:54:43.697Z",
+    "result": {
+      "status": "foreign",
+      "country": "SE",
+      "mbid": "99075985-0d80-4692-a15e-b16f78831792",
+      "verificationUrl": "https://musicbrainz.org/artist/99075985-0d80-4692-a15e-b16f78831792"
+    }
+  },
+  "illit": {
+    "name": "ILLIT",
+    "checkedAt": "2026-10-18T09:54:44.950Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "new west": {
+    "name": "New West",
+    "checkedAt": "2026-10-18T09:54:47.824Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "taylor swift": {
+    "name": "Taylor Swift",
+    "checkedAt": "2026-10-18T09:54:47.972Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "sza": {
+    "name": "SZA",
+    "checkedAt": "2026-10-18T09:54:49.259Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+      "verificationUrl": "https://musicbrainz.org/artist/272989c8-5535-492d-a25c-9f58803e027f"
+    }
+  },
+  "hoobastank": {
+    "name": "Hoobastank",
+    "checkedAt": "2026-10-18T09:54:50.497Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "2fa0d3ac-b64c-401a-b0a1-4915ba6cc157",
+      "verificationUrl": "https://musicbrainz.org/artist/2fa0d3ac-b64c-401a-b0a1-4915ba6cc157"
+    }
+  },
+  "beabadoobee": {
+    "name": "beabadoobee",
+    "checkedAt": "2026-10-18T09:54:51.722Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "88d17133-abbc-42db-9526-4e2c1db60336"
+    }
+  },
+  "the cranberries": {
+    "name": "The Cranberries",
+    "checkedAt": "2026-10-18T09:54:53.141Z",
+    "result": {
+      "status": "foreign",
+      "country": "IE",
+      "mbid": "c98d40fd-f6cf-4b26-883e-eaa515ee2851",
+      "verificationUrl": "https://musicbrainz.org/artist/c98d40fd-f6cf-4b26-883e-eaa515ee2851"
+    }
+  },
+  "rihanna": {
+    "name": "Rihanna",
+    "checkedAt": "2026-10-18T09:54:54.227Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "dua lipa": {
+    "name": "Dua Lipa",
+    "checkedAt": "2026-10-18T09:54:55.482Z",
+    "result": {
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+      "verificationUrl": "https://musicbrainz.org/artist/6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f"
+    }
+  },
+  "conan gray": {
+    "name": "Conan Gray",
+    "checkedAt": "2026-10-18T09:54:56.725Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "850a8b03-98a7-4fd3-afbd-5e5520b4ef5f",
+      "verificationUrl": "https://musicbrainz.org/artist/850a8b03-98a7-4fd3-afbd-5e5520b4ef5f"
+    }
+  },
+  "jeff buckley": {
+    "name": "Jeff Buckley",
+    "checkedAt": "2026-10-18T09:54:57.979Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "e6e879c0-3d56-4f12-b3c5-3ce459661a8e",
+      "verificationUrl": "https://musicbrainz.org/artist/e6e879c0-3d56-4f12-b3c5-3ce459661a8e"
+    }
+  },
+  "dominic fike": {
+    "name": "Dominic Fike",
+    "checkedAt": "2026-10-18T09:55:00.911Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "e337c918-098f-418e-97a2-81dc224b1bf9"
+    }
+  },
+  "oasis": {
+    "name": "Oasis",
+    "checkedAt": "2026-10-18T09:55:01.078Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "tinashe": {
+    "name": "Tinashe",
+    "checkedAt": "2026-10-18T09:55:02.324Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "evanescence": {
+    "name": "Evanescence",
+    "checkedAt": "2026-10-18T09:55:03.600Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "f4a31f0a-51dd-4fa7-986d-3095c40c5ed9",
+      "verificationUrl": "https://musicbrainz.org/artist/f4a31f0a-51dd-4fa7-986d-3095c40c5ed9"
+    }
+  },
+  "mazzy star": {
+    "name": "Mazzy Star",
+    "checkedAt": "2026-10-18T09:55:04.870Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "c48d4327-8122-4286-af66-05e1ee6ac4d8",
+      "verificationUrl": "https://musicbrainz.org/artist/c48d4327-8122-4286-af66-05e1ee6ac4d8"
+    }
+  },
+  "lauv": {
+    "name": "Lauv",
+    "checkedAt": "2026-10-18T09:55:06.058Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+      "verificationUrl": "https://musicbrainz.org/artist/c0ef2ba5-a7b7-40ea-bd27-30acccfcac11"
+    }
+  },
+  "sabrina carpenter": {
+    "name": "Sabrina Carpenter",
+    "checkedAt": "2026-10-18T09:55:07.310Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
+      "verificationUrl": "https://musicbrainz.org/artist/1882fe91-cdd9-49c9-9956-8e06a3810bd4"
+    }
+  },
+  "pinkpantheress": {
+    "name": "PinkPantheress",
+    "checkedAt": "2026-10-18T09:55:08.626Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d"
+    }
+  },
+  "slowdive": {
+    "name": "Slowdive",
+    "checkedAt": "2026-10-18T09:55:09.813Z",
+    "result": {
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "a16371b9-7d36-497a-a9d4-42b0a0440c5e",
+      "verificationUrl": "https://musicbrainz.org/artist/a16371b9-7d36-497a-a9d4-42b0a0440c5e"
+    }
+  },
+  "pamungkas": {
+    "name": "Pamungkas",
+    "checkedAt": "2026-10-18T09:55:11.067Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "5ff9766f-828e-4078-8e0f-f67c31e5b527",
+      "verificationUrl": "https://musicbrainz.org/artist/5ff9766f-828e-4078-8e0f-f67c31e5b527"
+    }
+  },
+  "the lantis": {
+    "name": "The Lantis",
+    "checkedAt": "2026-10-18T09:55:12.318Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "676a26c4-dd64-4b35-b614-9ad4e2c30416",
+      "verificationUrl": "https://musicbrainz.org/artist/676a26c4-dd64-4b35-b614-9ad4e2c30416"
+    }
+  },
+  "the killers": {
+    "name": "The Killers",
+    "checkedAt": "2026-10-18T09:55:13.567Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "phoebe bridgers": {
+    "name": "Phoebe Bridgers",
+    "checkedAt": "2026-10-18T09:55:14.932Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "96855c21-b832-4366-ba12-0d2330c36a86",
+      "verificationUrl": "https://musicbrainz.org/artist/96855c21-b832-4366-ba12-0d2330c36a86"
+    }
+  },
+  "noah": {
+    "name": "Noah",
+    "checkedAt": "2026-10-18T09:55:16.069Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "sheila on 7": {
+    "name": "Sheila on 7",
+    "checkedAt": "2026-10-18T09:55:17.319Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "f39c0afd-e66a-492b-ab1e-9b6acf98614a",
+      "verificationUrl": "https://musicbrainz.org/artist/f39c0afd-e66a-492b-ab1e-9b6acf98614a"
+    }
+  },
+  "omar apollo": {
+    "name": "Omar Apollo",
+    "checkedAt": "2026-10-18T09:55:18.568Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "0b966a38-5ad9-43c1-b86b-c07079523165",
+      "verificationUrl": "https://musicbrainz.org/artist/0b966a38-5ad9-43c1-b86b-c07079523165"
+    }
+  },
+  "kahitna": {
+    "name": "Kahitna",
+    "checkedAt": "2026-10-18T09:55:19.817Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "d9190b3f-3888-4cf9-b60e-25af432e5450",
+      "verificationUrl": "https://musicbrainz.org/artist/d9190b3f-3888-4cf9-b60e-25af432e5450"
+    }
+  },
+  "mac miller": {
+    "name": "Mac Miller",
+    "checkedAt": "2026-10-18T09:55:21.069Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "katseye": {
+    "name": "KATSEYE",
+    "checkedAt": "2026-10-18T09:55:22.317Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "abbf7d85-9a7f-4a6c-80bd-bf71f2c7d520",
+      "verificationUrl": "https://musicbrainz.org/artist/abbf7d85-9a7f-4a6c-80bd-bf71f2c7d520"
+    }
+  },
+  "the chainsmokers": {
+    "name": "The Chainsmokers",
+    "checkedAt": "2026-10-18T09:55:23.741Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "91a81925-92f9-4fc9-b897-93cf01226282",
+      "verificationUrl": "https://musicbrainz.org/artist/91a81925-92f9-4fc9-b897-93cf01226282"
+    }
+  },
+  "temper city": {
+    "name": "Temper City",
+    "checkedAt": "2026-10-18T09:55:24.819Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "c74a9a82-29bf-486d-bf93-b4516ac3e338"
+    }
+  },
+  "keyshia cole": {
+    "name": "Keyshia Cole",
+    "checkedAt": "2026-10-18T09:55:26.069Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "ef73e6ed-9096-4ddb-9799-b94874d0ce33",
+      "verificationUrl": "https://musicbrainz.org/artist/ef73e6ed-9096-4ddb-9799-b94874d0ce33"
+    }
+  },
+  "enhypen": {
+    "name": "ENHYPEN",
+    "checkedAt": "2026-10-18T09:55:27.319Z",
+    "result": {
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "95663592-1447-4579-90f7-c94733476667",
+      "verificationUrl": "https://musicbrainz.org/artist/95663592-1447-4579-90f7-c94733476667"
+    }
+  },
+  "akbar chalay": {
+    "name": "Akbar Chalay",
+    "checkedAt": "2026-10-18T09:55:28.566Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "f6876dae-50d0-41b5-afe9-55d4d2f07285"
+    }
+  },
+  "avenged sevenfold": {
+    "name": "Avenged Sevenfold",
+    "checkedAt": "2026-10-18T09:55:29.953Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "24e1b53c-3085-4581-8472-0b0088d2508c",
+      "verificationUrl": "https://musicbrainz.org/artist/24e1b53c-3085-4581-8472-0b0088d2508c"
+    }
+  },
+  "frank ocean": {
+    "name": "Frank Ocean",
+    "checkedAt": "2026-10-18T09:55:31.239Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
+      "verificationUrl": "https://musicbrainz.org/artist/e520459c-dff4-491d-a6e4-c97be35e0044"
+    }
+  },
+  "dongker": {
+    "name": "Dongker",
+    "checkedAt": "2026-10-18T09:55:32.323Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "305f5994-7ae7-4d22-88c6-117cb7a29c5f",
+      "verificationUrl": "https://musicbrainz.org/artist/305f5994-7ae7-4d22-88c6-117cb7a29c5f"
+    }
+  },
+  "lana del rey": {
+    "name": "Lana Del Rey",
+    "checkedAt": "2026-10-18T09:55:33.574Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "tuide": {
+    "name": "Tuide",
+    "checkedAt": "2026-10-18T09:55:34.869Z",
+    "result": {
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "6cb31c35-8fab-4e23-997e-387b0d589d13",
+      "verificationUrl": "https://musicbrainz.org/artist/6cb31c35-8fab-4e23-997e-387b0d589d13"
+    }
+  },
+  "miguel": {
+    "name": "Miguel",
+    "checkedAt": "2026-10-18T09:55:36.198Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "285e1285-aecc-478f-a8da-0c8cf69e1217",
+      "verificationUrl": "https://musicbrainz.org/artist/285e1285-aecc-478f-a8da-0c8cf69e1217"
+    }
+  },
+  "hivi": {
+    "name": "Hivi!",
+    "checkedAt": "2026-10-18T09:55:38.955Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "e7a38829-94ea-47e8-9010-b27446b4cc6c",
+      "verificationUrl": "https://musicbrainz.org/artist/e7a38829-94ea-47e8-9010-b27446b4cc6c"
+    }
+  },
+  "sixpence none the richer": {
+    "name": "Sixpence None the Richer",
+    "checkedAt": "2026-10-18T09:55:39.104Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "c2c70ed6-5f10-445c-969f-2c16bc9a4c2e",
+      "verificationUrl": "https://musicbrainz.org/artist/c2c70ed6-5f10-445c-969f-2c16bc9a4c2e"
+    }
+  },
+  "dj snake": {
+    "name": "DJ Snake",
+    "checkedAt": "2026-10-18T09:55:40.356Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "the strokes": {
+    "name": "The Strokes",
+    "checkedAt": "2026-10-18T09:55:41.588Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "f181961b-20f7-459e-89de-920ef03c7ed0",
+      "verificationUrl": "https://musicbrainz.org/artist/f181961b-20f7-459e-89de-920ef03c7ed0"
+    }
+  },
+  "ten2five": {
+    "name": "Ten2Five",
+    "checkedAt": "2026-10-18T09:55:42.852Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "79da84d8-b138-4164-89e0-862b96240ffa",
+      "verificationUrl": "https://musicbrainz.org/artist/79da84d8-b138-4164-89e0-862b96240ffa"
+    }
+  },
+  "payung teduh": {
+    "name": "Payung Teduh",
+    "checkedAt": "2026-10-18T09:55:44.112Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "aaa019b7-d9ac-4cc3-a35e-0e0cebb6a8bc",
+      "verificationUrl": "https://musicbrainz.org/artist/aaa019b7-d9ac-4cc3-a35e-0e0cebb6a8bc"
+    }
+  },
+  "the police": {
+    "name": "The Police",
+    "checkedAt": "2026-10-18T09:55:46.987Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "twice": {
+    "name": "TWICE",
+    "checkedAt": "2026-10-18T09:55:47.154Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "suki waterhouse": {
+    "name": "Suki Waterhouse",
+    "checkedAt": "2026-10-18T09:55:48.384Z",
+    "result": {
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "8389ff77-a7a4-4ba4-bf1b-17ded47d41a1",
+      "verificationUrl": "https://musicbrainz.org/artist/8389ff77-a7a4-4ba4-bf1b-17ded47d41a1"
+    }
+  },
+  "nmixx": {
+    "name": "NMIXX",
+    "checkedAt": "2026-10-18T09:55:49.766Z",
+    "result": {
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "2d623e82-73e2-4179-9c44-e963980f2d58",
+      "verificationUrl": "https://musicbrainz.org/artist/2d623e82-73e2-4179-9c44-e963980f2d58"
+    }
+  },
+  "charli xcx": {
+    "name": "Charli xcx",
+    "checkedAt": "2026-10-18T09:55:50.888Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "260b6184-8828-48eb-945c-bc4cb6fc34ca"
+    }
+  },
+  "the adams": {
+    "name": "The Adams",
+    "checkedAt": "2026-10-18T09:55:52.133Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "kehlani": {
+    "name": "Kehlani",
+    "checkedAt": "2026-10-18T09:55:55.005Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "3260ce89-5eb0-4c6a-89c7-379c0dfc2ab9",
+      "verificationUrl": "https://musicbrainz.org/artist/3260ce89-5eb0-4c6a-89c7-379c0dfc2ab9"
+    }
+  },
+  "mac demarco": {
+    "name": "Mac DeMarco",
+    "checkedAt": "2026-10-18T09:55:55.150Z",
+    "result": {
+      "status": "foreign",
+      "country": "CA",
+      "mbid": "f2492c31-54a8-4347-a1fc-f81f72873bbf",
+      "verificationUrl": "https://musicbrainz.org/artist/f2492c31-54a8-4347-a1fc-f81f72873bbf"
+    }
+  },
+  "ellie goulding": {
+    "name": "Ellie Goulding",
+    "checkedAt": "2026-10-18T09:55:56.406Z",
+    "result": {
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
+      "verificationUrl": "https://musicbrainz.org/artist/33ca19f4-18c8-4411-98df-ac23890ce9f5"
+    }
+  },
+  "linkin park": {
+    "name": "Linkin Park",
+    "checkedAt": "2026-10-18T09:55:57.649Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "dhruv": {
+    "name": "dhruv",
+    "checkedAt": "2026-10-18T09:55:58.911Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "57f8c80b-7255-4913-a096-713c6c6c51b4"
+    }
+  },
+  "zara larsson": {
+    "name": "Zara Larsson",
+    "checkedAt": "2026-10-18T09:56:00.178Z",
+    "result": {
+      "status": "foreign",
+      "country": "SE",
+      "mbid": "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
+      "verificationUrl": "https://musicbrainz.org/artist/134e6410-6954-45d1-bd4a-0f2d2ad5471d"
+    }
+  },
+  "justin timberlake": {
+    "name": "Justin Timberlake",
+    "checkedAt": "2026-10-18T09:56:03.028Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "596ffa74-3d08-44ef-b113-765d43d12738",
+      "verificationUrl": "https://musicbrainz.org/artist/596ffa74-3d08-44ef-b113-765d43d12738"
+    }
+  },
+  "sidney gish": {
+    "name": "Sidney Gish",
+    "checkedAt": "2026-10-18T09:56:03.218Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "9cfabb8c-24a3-498d-b383-bb5324cfe30f"
+    }
+  },
+  "chase atlantic": {
+    "name": "Chase Atlantic",
+    "checkedAt": "2026-10-18T09:56:06.050Z",
+    "result": {
+      "status": "foreign",
+      "country": "AU",
+      "mbid": "ecab255c-3af3-4154-87ec-2685041ce297",
+      "verificationUrl": "https://musicbrainz.org/artist/ecab255c-3af3-4154-87ec-2685041ce297"
+    }
+  },
+  "taeyang": {
+    "name": "TAEYANG",
+    "checkedAt": "2026-10-18T09:56:06.195Z",
+    "result": {
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "d84e5667-3cbe-4556-b551-9d7e4be95d71",
+      "verificationUrl": "https://musicbrainz.org/artist/d84e5667-3cbe-4556-b551-9d7e4be95d71"
+    }
+  },
+  "for revenge": {
+    "name": "For Revenge",
+    "checkedAt": "2026-10-18T09:56:07.452Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "3058e843-fba5-4d7a-a1fa-c3a057d0da9b",
+      "verificationUrl": "https://musicbrainz.org/artist/3058e843-fba5-4d7a-a1fa-c3a057d0da9b"
+    }
+  },
+  "kendrick lamar": {
+    "name": "Kendrick Lamar",
+    "checkedAt": "2026-10-18T09:56:08.698Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+      "verificationUrl": "https://musicbrainz.org/artist/381086ea-f511-4aba-bdf9-71c753dc5077"
+    }
+  },
+  "nadin amizah": {
+    "name": "Nadin Amizah",
+    "checkedAt": "2026-10-18T09:56:09.962Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "b123f290-a519-4618-a3b0-8ec03e53e027",
+      "verificationUrl": "https://musicbrainz.org/artist/b123f290-a519-4618-a3b0-8ec03e53e027"
+    }
+  },
+  "addison rae": {
+    "name": "Addison Rae",
+    "checkedAt": "2026-10-18T09:56:11.270Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "610b71d9-fa78-47d6-9073-083922e73840",
+      "verificationUrl": "https://musicbrainz.org/artist/610b71d9-fa78-47d6-9073-083922e73840"
+    }
+  },
+  "panchiko": {
+    "name": "Panchiko",
+    "checkedAt": "2026-10-18T09:56:12.452Z",
+    "result": {
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "8f64d6ea-3f6c-408c-b2e0-e5334b28dae9",
+      "verificationUrl": "https://musicbrainz.org/artist/8f64d6ea-3f6c-408c-b2e0-e5334b28dae9"
+    }
+  },
+  "eleanor whisper": {
+    "name": "Eleanor Whisper",
+    "checkedAt": "2026-10-18T09:56:13.703Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "339a327f-e1bb-46c7-95c1-e06daa174ca9",
+      "verificationUrl": "https://musicbrainz.org/artist/339a327f-e1bb-46c7-95c1-e06daa174ca9"
+    }
+  },
+  "alkateri": {
+    "name": "Alkateri",
+    "checkedAt": "2026-10-18T09:56:15.046Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "680723e4-28da-4889-bca7-e05517ba10b4",
+      "verificationUrl": "https://musicbrainz.org/artist/680723e4-28da-4889-bca7-e05517ba10b4"
+    }
+  },
+  "the smiths": {
+    "name": "The Smiths",
+    "checkedAt": "2026-10-18T09:56:16.206Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "fstvlst": {
+    "name": "FSTVLST",
+    "checkedAt": "2026-10-18T09:56:19.075Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "d1f09125-b9a1-4551-acab-ef71623b147e",
+      "verificationUrl": "https://musicbrainz.org/artist/d1f09125-b9a1-4551-acab-ef71623b147e"
+    }
+  },
+  "onerepublic": {
+    "name": "OneRepublic",
+    "checkedAt": "2026-10-18T09:56:19.221Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "c33c2065-b1c3-4406-b066-d33a9e2ea71a",
+      "verificationUrl": "https://musicbrainz.org/artist/c33c2065-b1c3-4406-b066-d33a9e2ea71a"
+    }
+  },
+  "nidji": {
+    "name": "Nidji",
+    "checkedAt": "2026-10-18T09:56:20.473Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "68796993-42b1-4f36-8570-6c0dbe2e7caa",
+      "verificationUrl": "https://musicbrainz.org/artist/68796993-42b1-4f36-8570-6c0dbe2e7caa"
+    }
+  },
+  "don toliver": {
+    "name": "Don Toliver",
+    "checkedAt": "2026-10-18T09:56:21.725Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+      "verificationUrl": "https://musicbrainz.org/artist/a0723a3c-4135-438e-85c5-012712144ede"
+    }
+  },
+  "dewa 19": {
+    "name": "Dewa 19",
+    "checkedAt": "2026-10-18T09:56:22.974Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "a36d5b2b-ccd3-47ec-83fb-73bd69f5687c",
+      "verificationUrl": "https://musicbrainz.org/artist/a36d5b2b-ccd3-47ec-83fb-73bd69f5687c"
+    }
+  },
+  "lisa": {
+    "name": "Lisa",
+    "checkedAt": "2026-10-18T09:56:24.258Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "kiiikiii": {
+    "name": "KiiiKiii",
+    "checkedAt": "2026-10-18T09:56:25.475Z",
+    "result": {
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "bdbc7927-6ff5-4a64-a2dd-9756323008e1",
+      "verificationUrl": "https://musicbrainz.org/artist/bdbc7927-6ff5-4a64-a2dd-9756323008e1"
+    }
+  },
+  "nirvana": {
+    "name": "Nirvana",
+    "checkedAt": "2026-10-18T09:56:26.726Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "keshi": {
+    "name": "keshi",
+    "checkedAt": "2026-10-18T09:56:29.604Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "ee74db56-c264-4c23-9504-29e2d8078f36",
+      "verificationUrl": "https://musicbrainz.org/artist/ee74db56-c264-4c23-9504-29e2d8078f36"
+    }
+  },
+  "the cure": {
+    "name": "The Cure",
+    "checkedAt": "2026-10-18T09:56:30.036Z",
+    "result": {
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+      "verificationUrl": "https://musicbrainz.org/artist/69ee3720-a7cb-4402-b48d-a02c366f2bcf"
+    }
+  },
+  "cafune": {
+    "name": "Cafuné",
+    "checkedAt": "2026-10-18T09:56:31.043Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "ed sheeran": {
+    "name": "Ed Sheeran",
+    "checkedAt": "2026-10-18T09:56:32.254Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  }
+}
