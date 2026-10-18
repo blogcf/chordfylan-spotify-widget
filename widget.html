@@ -1,45 +1,43 @@
-<div id="cfSpotifyTop10" data-url="GANTI_DENGAN_URL_GITHUB_PAGES/chart.json">
-  <div class="cf-head"><strong>♫ TOP CHORD PLAYLIST</strong><small>Spotify × Chordfylan</small></div>
-  <p class="cf-status">Memuat playlist...</p>
-  <ol class="cf-list"></ol>
-  <div class="cf-footer"><span class="cf-date"></span><a class="cf-source" href="https://open.spotify.com/" target="_blank" rel="noopener noreferrer">Lihat playlist Spotify ↗</a></div>
+<div id="cfIndoChart" data-url="https://blogcf.github.io/chordfylan-spotify-widget/chart.json">
+  <header><strong>TOP 10 CHORD ARTIS INDONESIA</strong><small>Last.fm × MusicBrainz × Chordfylan</small></header>
+  <p class="cf-message">Memuat tangga lagu...</p>
+  <ol class="cf-songs"></ol>
+  <footer><span class="cf-updated"></span><a href="https://www.last.fm" target="_blank" rel="noopener noreferrer">Sumber ranking: Last.fm</a></footer>
 </div>
 <style>
-#cfSpotifyTop10{font-family:Arial,sans-serif;background:#fff;border:1px solid #ddd;border-radius:12px;overflow:hidden;color:#222}
-#cfSpotifyTop10 .cf-head{background:#191919;color:white;padding:15px;display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap}
-#cfSpotifyTop10 .cf-head small{color:#1db954;font-size:11px}
-#cfSpotifyTop10 .cf-status{padding:14px;font-size:12px;color:#777;margin:0}
-#cfSpotifyTop10 .cf-list{margin:0;padding:0;list-style:none}
-#cfSpotifyTop10 .cf-list li{border-bottom:1px solid #eee;padding:11px 14px;display:flex;gap:12px;align-items:center}
-#cfSpotifyTop10 .cf-rank{font-size:17px;font-weight:bold;color:#1db954;min-width:28px}
-#cfSpotifyTop10 .cf-item{min-width:0;flex:1}
-#cfSpotifyTop10 .cf-item a{display:block;font-size:13px;font-weight:bold;color:#222;text-decoration:none;line-height:1.4}
-#cfSpotifyTop10 .cf-item a:hover{color:#12813b}
-#cfSpotifyTop10 .cf-item small{display:block;color:#777;margin-top:3px;font-size:11px}
-#cfSpotifyTop10 .cf-footer{padding:11px 14px;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font-size:10px;color:#777}
-#cfSpotifyTop10 .cf-footer a{color:#12813b;text-decoration:none}
+#cfIndoChart{font:14px Arial,sans-serif;border:1px solid #ddd;border-radius:12px;overflow:hidden;background:#fff;color:#222}
+#cfIndoChart header{background:#2d4fc1;color:#fff;padding:15px;display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px}
+#cfIndoChart header small{font-size:11px;opacity:.85}
+#cfIndoChart .cf-message{padding:14px;color:#777;margin:0}
+#cfIndoChart .cf-songs{list-style:none;padding:0;margin:0}
+#cfIndoChart .cf-songs li{display:flex;gap:12px;align-items:center;padding:12px 14px;border-top:1px solid #eee}
+#cfIndoChart .cf-num{font-size:18px;font-weight:bold;color:#2d4fc1;min-width:28px}
+#cfIndoChart .cf-song{min-width:0;flex:1}
+#cfIndoChart .cf-song a{font-weight:bold;color:#222;text-decoration:none}
+#cfIndoChart .cf-song a:hover{color:#2d4fc1}
+#cfIndoChart .cf-song small{display:block;color:#777;margin-top:3px}
+#cfIndoChart footer{display:flex;flex-wrap:wrap;gap:8px;justify-content:space-between;padding:12px 14px;color:#777;font-size:11px}
+#cfIndoChart footer a{color:#2d4fc1;text-decoration:none}
 </style>
 <script>
 (function(){
-  var root=document.getElementById('cfSpotifyTop10');
-  if(!root)return;
-  var url=root.getAttribute('data-url');
-  var status=root.querySelector('.cf-status'),list=root.querySelector('.cf-list');
-  if(!/^https:\/\//i.test(url)){status.textContent='Konfigurasi JSON belum diisi.';return;}
-  fetch(url,{cache:'no-cache'}).then(function(r){if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(function(data){
-    if(!Array.isArray(data.matches))throw Error('Format data tidak valid');
-    list.replaceChildren();
-    data.matches.slice(0,10).forEach(function(m){
-      if(!/^https:\/\//i.test(m.url||''))return;
-      var li=document.createElement('li'),rank=document.createElement('span'),box=document.createElement('div'),a=document.createElement('a'),artist=document.createElement('small');
-      rank.className='cf-rank';rank.textContent=String(m.rank).padStart(2,'0');
-      box.className='cf-item';a.href=m.url;a.textContent=m.articleTitle||m.title;artist.textContent=m.artist||'';
-      box.append(a,artist);li.append(rank,box);list.append(li);
-    });
-    status.style.display=list.children.length?'none':'block';
-    if(!list.children.length)status.textContent='Belum ada artikel chord yang cocok.';
-    if(data.updatedAt&&!isNaN(Date.parse(data.updatedAt)))root.querySelector('.cf-date').textContent='Diperbarui '+new Date(data.updatedAt).toLocaleDateString('id-ID',{day:'numeric',month:'short',year:'numeric'});
-    if(/^https:\/\/open\.spotify\.com\/playlist\/[A-Za-z0-9]+$/.test(data.playlistUrl||''))root.querySelector('.cf-source').href=data.playlistUrl;
-  }).catch(function(err){status.textContent='Gagal memuat widget: '+err.message;});
+  var root=document.getElementById('cfIndoChart');if(!root)return;
+  var message=root.querySelector('.cf-message'),list=root.querySelector('.cf-songs');
+  fetch(root.getAttribute('data-url'),{cache:'no-cache'})
+    .then(function(r){if(!r.ok)throw Error('HTTP '+r.status);return r.json()})
+    .then(function(data){
+      if(!Array.isArray(data.matches))throw Error('Format chart.json tidak valid');
+      list.replaceChildren();
+      data.matches.slice(0,10).forEach(function(song,index){
+        if(!/^https:\/\//.test(song.url||''))return;
+        var li=document.createElement('li'),num=document.createElement('span'),box=document.createElement('div'),a=document.createElement('a'),artist=document.createElement('small');
+        num.className='cf-num';num.textContent=String(index+1).padStart(2,'0');
+        box.className='cf-song';a.href=song.url;a.textContent=song.articleTitle||song.title;
+        artist.textContent=(song.artist||'')+' · Posisi Last.fm #'+song.rank;
+        box.append(a,artist);li.append(num,box);list.append(li);
+      });
+      if(list.children.length){message.hidden=true}else{message.textContent='Belum ada artikel yang cocok dengan artis Indonesia terverifikasi.'}
+      if(data.updatedAt){root.querySelector('.cf-updated').textContent='Diperbarui: '+new Date(data.updatedAt).toLocaleDateString('id-ID',{day:'numeric',month:'short',year:'numeric'})}
+    }).catch(function(err){message.textContent='Gagal memuat chart: '+err.message});
 })();
 </script>

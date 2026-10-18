@@ -1,8 +1,15 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {matchTracks} from '../src/matcher.mjs';
-const tracks=[{rank:1,title:'Hati-Hati di Jalan',artists:['Tulus'],spotifyUrl:'https://open.spotify.com/track/example'},{rank:2,title:'Monokrom',artists:['Tulus'],spotifyUrl:'https://open.spotify.com/track/example2'}];
-const posts=[{title:'Tulus - Hati Hati Di Jalan Chord',url:'https://www.chordfylan.com/a'},{title:'Artis Lain - Monokrom',url:'https://www.chordfylan.com/b'}];
-test('hanya artis dan lagu cocok, ranking asli terjaga',()=>{
- const r=matchTracks(tracks,posts);assert.equal(r.matches.length,1);assert.equal(r.matches[0].rank,1);
+import {matchTracks, scoreMatch, normalize} from '../src/matcher.mjs';
+test('Indonesian artist English song title matches', () => {
+  const tracks = [{rank:1,title:'Anything You Want',artists:['Reality Club'],sourceUrl:''}];
+  const posts = [{title:'Chord Anything You Want - Reality Club',url:'https://www.chordfylan.com/test'}];
+  assert.equal(matchTracks(tracks,posts).matches.length,1);
 });
+test('Different artist rejected', () => {
+  assert.equal(scoreMatch({title:'Creep',artists:['Radiohead']},{title:'Creep - Tulus'}),0);
+});
+test('Title reversal works', () => {
+  assert.ok(scoreMatch({title:'Teh Hijau',artists:['Tulus']},{title:'Tulus - Teh Hijau'}) >= 0.92);
+});
+test('normalize removes punctuation',()=>assert.equal(normalize('Everything U Are!'),'everything u are'));
