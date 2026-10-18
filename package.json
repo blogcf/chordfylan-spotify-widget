@@ -1,0 +1,1 @@
+{"name":"chordfylan-spotify-widget","version":"1.0.0","private":true,"type":"module","scripts":{"auth":"node src/auth.mjs","sync":"node src/sync.mjs","test":"node --test tests/*.test.mjs"},"engines":{"node":">=22"}}
