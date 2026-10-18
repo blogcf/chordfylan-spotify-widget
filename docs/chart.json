@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-18T09:40:58.308Z",
+  "source": "Last.fm Top Tracks - Indonesia",
+  "sourceUrl": "https://www.last.fm",
+  "country": "Indonesia",
+  "candidates": 50,
+  "indexedPosts": 7079,
+  "matchCount": 6,
+  "matches": [
+    {
+      "rank": 34,
+      "title": "Teh Hijau",
+      "artist": "Tulus",
+      "articleTitle": "Teh Hijau - Tulus",
+      "url": "https://www.chordfylan.com/2026/10/teh-hijau-tulus.html",
+      "sourceUrl": "https://www.last.fm/music/Tulus/_/Teh+Hijau",
+      "matchScore": 1
+    },
+    {
+      "rank": 39,
+      "title": "Creep",
+      "artist": "Radiohead",
+      "articleTitle": "Creep - Radiohead",
+      "url": "https://www.chordfylan.com/2019/08/creep-radiohead.html",
+      "sourceUrl": "https://www.last.fm/music/Radiohead/_/Creep",
+      "matchScore": 1
+    },
+    {
+      "rank": 42,
+      "title": "Anything You Want",
+      "artist": "Reality Club",
+      "articleTitle": "Anything You Want - Reality Club",
+      "url": "https://www.chordfylan.com/2023/05/chord-anything-you-want-reality-club.html",
+      "sourceUrl": "https://www.last.fm/music/Reality+Club/_/Anything+You+Want",
+      "matchScore": 1
+    },
+    {
+      "rank": 44,
+      "title": "everything u are",
+      "artist": "Hindia",
+      "articleTitle": "Everything U Are - Hindia",
+      "url": "https://www.chordfylan.com/2026/10/everything-u-are-hindia.html",
+      "sourceUrl": "https://www.last.fm/music/Hindia/_/everything+u+are",
+      "matchScore": 1
+    },
+    {
+      "rank": 48,
+      "title": "The Only Exception",
+      "artist": "Paramore",
+      "articleTitle": "The Only Exception - Paramore",
+      "url": "https://www.chordfylan.com/2019/08/the-only-exception-paramore.html",
+      "sourceUrl": "https://www.last.fm/music/Paramore/_/The+Only+Exception",
+      "matchScore": 1
+    },
+    {
+      "rank": 50,
+      "title": "Terbuang Dalam Waktu",
+      "artist": "Barasuara",
+      "articleTitle": "Terbuang Dalam Waktu - Barasuara",
+      "url": "https://www.chordfylan.com/2023/09/terbuang-dalam-waktu-barasuara.html",
+      "sourceUrl": "https://www.last.fm/music/Barasuara/_/Terbuang+Dalam+Waktu",
+      "matchScore": 1
+    }
+  ]
+}
