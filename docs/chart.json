@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-18T09:56:33.264Z",
+  "updatedAt": "2026-10-19T01:18:48.258Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7079,
-  "verifiedIndonesianTracks": 51,
+  "indexedPosts": 7090,
+  "verifiedIndonesianTracks": 53,
   "matchCount": 10,
   "matches": [
     {
@@ -24,7 +24,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 45,
       "title": "everything u are",
       "artist": "Hindia",
       "articleTitle": "Everything U Are - Hindia",
@@ -38,7 +38,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 55,
       "title": "Terbuang Dalam Waktu",
       "artist": "Barasuara",
       "articleTitle": "Terbuang Dalam Waktu - Barasuara",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "rank": 82,
+      "rank": 80,
       "title": "Ada titik-titik di ujung doa",
       "artist": "Sal Priadi",
       "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "rank": 85,
+      "rank": 95,
       "title": "MMG (My Mine Gueh)",
       "artist": "Naykilla",
       "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
@@ -80,7 +80,7 @@
       }
     },
     {
-      "rank": 114,
+      "rank": 131,
       "title": "kota ini tak sama tanpamu",
       "artist": "Nadhif Basalamah",
       "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "rank": 137,
+      "rank": 146,
       "title": "Alexandra",
       "artist": "Reality Club",
       "articleTitle": "Alexandra - Reality Club",
@@ -108,7 +108,7 @@
       }
     },
     {
-      "rank": 163,
+      "rank": 152,
       "title": "Dunia Yang Nanti",
       "artist": "Raim Laode",
       "articleTitle": "Dunia Yang Nanti - Raim Laode",
@@ -122,7 +122,7 @@
       }
     },
     {
-      "rank": 206,
+      "rank": 192,
       "title": "Iqro'",
       "artist": "Raim Laode",
       "articleTitle": "Iqro - Raim Laode",
@@ -136,17 +136,17 @@
       }
     },
     {
-      "rank": 207,
-      "title": "Kuning",
-      "artist": "rumahsakit",
-      "articleTitle": "Kuning - Rumahsakit",
-      "url": "https://www.chordfylan.com/2023/07/kuning-rumahsakit.html",
-      "sourceUrl": "https://www.last.fm/music/rumahsakit/_/Kuning",
+      "rank": 193,
+      "title": "Rumah Ke Rumah",
+      "artist": "Hindia",
+      "articleTitle": "Rumah Ke Rumah - Hindia",
+      "url": "https://www.chordfylan.com/2020/04/rumah-ke-rumah-hindia.html",
+      "sourceUrl": "https://www.last.fm/music/Hindia/_/Rumah+Ke+Rumah",
       "matchScore": 1,
       "artistVerification": {
         "provider": "MusicBrainz",
-        "mbid": "255b6820-69d9-49ed-b745-57959ab316b8",
-        "url": "https://musicbrainz.org/artist/255b6820-69d9-49ed-b745-57959ab316b8"
+        "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
+        "url": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
       }
     }
   ]

@@ -1645,5 +1645,81 @@
       "status": "unverified",
       "reason": "ambiguous_name"
     }
+  },
+  "a2o": {
+    "name": "A2O",
+    "checkedAt": "2026-10-19T01:18:38.931Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "443feb36-d097-4279-9a7d-c78010020daf"
+    }
+  },
+  "lealona": {
+    "name": "Lealona",
+    "checkedAt": "2026-10-19T01:18:39.054Z",
+    "result": {
+      "status": "unverified",
+      "reason": "artist_not_found"
+    }
+  },
+  "hotel ugly": {
+    "name": "Hotel Ugly",
+    "checkedAt": "2026-10-19T01:18:40.304Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "d1338719-b2e2-45d6-a457-671232f553d4"
+    }
+  },
+  "andra and the backbone": {
+    "name": "Andra & The Backbone",
+    "checkedAt": "2026-10-19T01:18:41.563Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "f2a5a7a1-5274-437f-a760-bab4b3d50b90",
+      "verificationUrl": "https://musicbrainz.org/artist/f2a5a7a1-5274-437f-a760-bab4b3d50b90"
+    }
+  },
+  "twenty one pilots": {
+    "name": "Twenty One Pilots",
+    "checkedAt": "2026-10-19T01:18:42.804Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+      "verificationUrl": "https://musicbrainz.org/artist/a6c6897a-7415-4f8d-b5a5-3a5e05f3be67"
+    }
+  },
+  "ifan seventeen": {
+    "name": "Ifan Seventeen",
+    "checkedAt": "2026-10-19T01:18:45.555Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "009c06cd-e360-4fcf-b3d8-2ef370b58b93",
+      "verificationUrl": "https://musicbrainz.org/artist/009c06cd-e360-4fcf-b3d8-2ef370b58b93"
+    }
+  },
+  "masdo": {
+    "name": "Masdo",
+    "checkedAt": "2026-10-19T01:18:46.942Z",
+    "result": {
+      "status": "foreign",
+      "country": "MY",
+      "mbid": "f87dfa35-e8f4-48d8-89c0-ccaefbd32bc3",
+      "verificationUrl": "https://musicbrainz.org/artist/f87dfa35-e8f4-48d8-89c0-ccaefbd32bc3"
+    }
+  },
+  "strawberry guy": {
+    "name": "Strawberry Guy",
+    "checkedAt": "2026-10-19T01:18:47.067Z",
+    "result": {
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "287cb25a-9b05-474c-9ad1-38046a46c37f",
+      "verificationUrl": "https://musicbrainz.org/artist/287cb25a-9b05-474c-9ad1-38046a46c37f"
+    }
   }
 }
