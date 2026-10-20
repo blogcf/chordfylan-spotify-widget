@@ -1721,5 +1721,15 @@
       "mbid": "287cb25a-9b05-474c-9ad1-38046a46c37f",
       "verificationUrl": "https://musicbrainz.org/artist/287cb25a-9b05-474c-9ad1-38046a46c37f"
     }
+  },
+  "slayyyter": {
+    "name": "Slayyyter",
+    "checkedAt": "2026-10-20T01:51:49.802Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+      "verificationUrl": "https://musicbrainz.org/artist/9058d01e-8afc-47a4-8664-621fb5f159c0"
+    }
   }
 }
