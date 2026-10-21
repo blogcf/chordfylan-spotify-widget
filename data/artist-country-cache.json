@@ -1731,5 +1731,25 @@
       "mbid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
       "verificationUrl": "https://musicbrainz.org/artist/9058d01e-8afc-47a4-8664-621fb5f159c0"
     }
+  },
+  "piche kota": {
+    "name": "Piche Kota",
+    "checkedAt": "2026-10-21T01:38:22.363Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "8b6b1a9d-e111-40a7-b4dc-0defea4d4e48",
+      "verificationUrl": "https://musicbrainz.org/artist/8b6b1a9d-e111-40a7-b4dc-0defea4d4e48"
+    }
+  },
+  "zedd": {
+    "name": "Zedd",
+    "checkedAt": "2026-10-21T01:38:22.550Z",
+    "result": {
+      "status": "foreign",
+      "country": "DE",
+      "mbid": "56c4b861-0922-4c3a-a9b9-3bfcb00f8274",
+      "verificationUrl": "https://musicbrainz.org/artist/56c4b861-0922-4c3a-a9b9-3bfcb00f8274"
+    }
   }
 }

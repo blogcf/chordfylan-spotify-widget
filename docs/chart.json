@@ -1,30 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-20T01:51:50.472Z",
+  "updatedAt": "2026-10-21T01:38:23.626Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7101,
-  "verifiedIndonesianTracks": 53,
+  "indexedPosts": 7118,
+  "verifiedIndonesianTracks": 56,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 39,
-      "title": "everything u are",
-      "artist": "Hindia",
-      "articleTitle": "Everything U Are - Hindia",
-      "url": "https://www.chordfylan.com/2026/10/everything-u-are-hindia.html",
-      "sourceUrl": "https://www.last.fm/music/Hindia/_/everything+u+are",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
-        "url": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
-      }
-    },
-    {
-      "rank": 48,
+      "rank": 41,
       "title": "Anything You Want",
       "artist": "Reality Club",
       "articleTitle": "Anything You Want - Reality Club",
@@ -38,7 +24,21 @@
       }
     },
     {
-      "rank": 58,
+      "rank": 42,
+      "title": "everything u are",
+      "artist": "Hindia",
+      "articleTitle": "Everything U Are - Hindia",
+      "url": "https://www.chordfylan.com/2026/10/everything-u-are-hindia.html",
+      "sourceUrl": "https://www.last.fm/music/Hindia/_/everything+u+are",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
+        "url": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
+      }
+    },
+    {
+      "rank": 61,
       "title": "Terbuang Dalam Waktu",
       "artist": "Barasuara",
       "articleTitle": "Terbuang Dalam Waktu - Barasuara",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "rank": 74,
+      "rank": 64,
       "title": "Ada titik-titik di ujung doa",
       "artist": "Sal Priadi",
       "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
@@ -80,20 +80,6 @@
       }
     },
     {
-      "rank": 137,
-      "title": "Dunia Yang Nanti",
-      "artist": "Raim Laode",
-      "articleTitle": "Dunia Yang Nanti - Raim Laode",
-      "url": "https://www.chordfylan.com/2026/10/dunia-yang-nanti-raim-laode.html",
-      "sourceUrl": "https://www.last.fm/music/Raim+Laode/_/Dunia+Yang+Nanti",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "12221a55-3afe-4c16-bac7-38f550e1f6be",
-        "url": "https://musicbrainz.org/artist/12221a55-3afe-4c16-bac7-38f550e1f6be"
-      }
-    },
-    {
       "rank": 140,
       "title": "kota ini tak sama tanpamu",
       "artist": "Nadhif Basalamah",
@@ -108,21 +94,21 @@
       }
     },
     {
-      "rank": 164,
-      "title": "Alexandra",
-      "artist": "Reality Club",
-      "articleTitle": "Alexandra - Reality Club",
-      "url": "https://www.chordfylan.com/2023/05/chord-alexandra-reality-club.html",
-      "sourceUrl": "https://www.last.fm/music/Reality+Club/_/Alexandra",
+      "rank": 142,
+      "title": "Dunia Yang Nanti",
+      "artist": "Raim Laode",
+      "articleTitle": "Dunia Yang Nanti - Raim Laode",
+      "url": "https://www.chordfylan.com/2026/10/dunia-yang-nanti-raim-laode.html",
+      "sourceUrl": "https://www.last.fm/music/Raim+Laode/_/Dunia+Yang+Nanti",
       "matchScore": 1,
       "artistVerification": {
         "provider": "MusicBrainz",
-        "mbid": "70427aaf-7e0c-46a5-a04f-177eeb98d80e",
-        "url": "https://musicbrainz.org/artist/70427aaf-7e0c-46a5-a04f-177eeb98d80e"
+        "mbid": "12221a55-3afe-4c16-bac7-38f550e1f6be",
+        "url": "https://musicbrainz.org/artist/12221a55-3afe-4c16-bac7-38f550e1f6be"
       }
     },
     {
-      "rank": 177,
+      "rank": 152,
       "title": "Iqro'",
       "artist": "Raim Laode",
       "articleTitle": "Iqro - Raim Laode",
@@ -136,7 +122,7 @@
       }
     },
     {
-      "rank": 178,
+      "rank": 168,
       "title": "Rumah Ke Rumah",
       "artist": "Hindia",
       "articleTitle": "Rumah Ke Rumah - Hindia",
@@ -147,6 +133,20 @@
         "provider": "MusicBrainz",
         "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
         "url": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
+      }
+    },
+    {
+      "rank": 170,
+      "title": "Alexandra",
+      "artist": "Reality Club",
+      "articleTitle": "Alexandra - Reality Club",
+      "url": "https://www.chordfylan.com/2023/05/chord-alexandra-reality-club.html",
+      "sourceUrl": "https://www.last.fm/music/Reality+Club/_/Alexandra",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "70427aaf-7e0c-46a5-a04f-177eeb98d80e",
+        "url": "https://musicbrainz.org/artist/70427aaf-7e0c-46a5-a04f-177eeb98d80e"
       }
     }
   ]
