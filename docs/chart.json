@@ -1,30 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-21T01:38:23.626Z",
+  "updatedAt": "2026-10-22T01:33:12.554Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7118,
-  "verifiedIndonesianTracks": 56,
+  "indexedPosts": 7125,
+  "verifiedIndonesianTracks": 59,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 41,
-      "title": "Anything You Want",
-      "artist": "Reality Club",
-      "articleTitle": "Anything You Want - Reality Club",
-      "url": "https://www.chordfylan.com/2023/05/chord-anything-you-want-reality-club.html",
-      "sourceUrl": "https://www.last.fm/music/Reality+Club/_/Anything+You+Want",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "70427aaf-7e0c-46a5-a04f-177eeb98d80e",
-        "url": "https://musicbrainz.org/artist/70427aaf-7e0c-46a5-a04f-177eeb98d80e"
-      }
-    },
-    {
-      "rank": 42,
+      "rank": 40,
       "title": "everything u are",
       "artist": "Hindia",
       "articleTitle": "Everything U Are - Hindia",
@@ -38,7 +24,21 @@
       }
     },
     {
-      "rank": 61,
+      "rank": 43,
+      "title": "Anything You Want",
+      "artist": "Reality Club",
+      "articleTitle": "Anything You Want - Reality Club",
+      "url": "https://www.chordfylan.com/2023/05/chord-anything-you-want-reality-club.html",
+      "sourceUrl": "https://www.last.fm/music/Reality+Club/_/Anything+You+Want",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "70427aaf-7e0c-46a5-a04f-177eeb98d80e",
+        "url": "https://musicbrainz.org/artist/70427aaf-7e0c-46a5-a04f-177eeb98d80e"
+      }
+    },
+    {
+      "rank": 59,
       "title": "Terbuang Dalam Waktu",
       "artist": "Barasuara",
       "articleTitle": "Terbuang Dalam Waktu - Barasuara",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "rank": 64,
+      "rank": 61,
       "title": "Ada titik-titik di ujung doa",
       "artist": "Sal Priadi",
       "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "rank": 94,
+      "rank": 89,
       "title": "MMG (My Mine Gueh)",
       "artist": "Naykilla",
       "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
@@ -80,7 +80,7 @@
       }
     },
     {
-      "rank": 140,
+      "rank": 100,
       "title": "kota ini tak sama tanpamu",
       "artist": "Nadhif Basalamah",
       "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
@@ -94,21 +94,7 @@
       }
     },
     {
-      "rank": 142,
-      "title": "Dunia Yang Nanti",
-      "artist": "Raim Laode",
-      "articleTitle": "Dunia Yang Nanti - Raim Laode",
-      "url": "https://www.chordfylan.com/2026/10/dunia-yang-nanti-raim-laode.html",
-      "sourceUrl": "https://www.last.fm/music/Raim+Laode/_/Dunia+Yang+Nanti",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "12221a55-3afe-4c16-bac7-38f550e1f6be",
-        "url": "https://musicbrainz.org/artist/12221a55-3afe-4c16-bac7-38f550e1f6be"
-      }
-    },
-    {
-      "rank": 152,
+      "rank": 109,
       "title": "Iqro'",
       "artist": "Raim Laode",
       "articleTitle": "Iqro - Raim Laode",
@@ -122,7 +108,21 @@
       }
     },
     {
-      "rank": 168,
+      "rank": 141,
+      "title": "Dunia Yang Nanti",
+      "artist": "Raim Laode",
+      "articleTitle": "Dunia Yang Nanti - Raim Laode",
+      "url": "https://www.chordfylan.com/2026/10/dunia-yang-nanti-raim-laode.html",
+      "sourceUrl": "https://www.last.fm/music/Raim+Laode/_/Dunia+Yang+Nanti",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "12221a55-3afe-4c16-bac7-38f550e1f6be",
+        "url": "https://musicbrainz.org/artist/12221a55-3afe-4c16-bac7-38f550e1f6be"
+      }
+    },
+    {
+      "rank": 142,
       "title": "Rumah Ke Rumah",
       "artist": "Hindia",
       "articleTitle": "Rumah Ke Rumah - Hindia",
@@ -136,7 +136,7 @@
       }
     },
     {
-      "rank": 170,
+      "rank": 164,
       "title": "Alexandra",
       "artist": "Reality Club",
       "articleTitle": "Alexandra - Reality Club",
