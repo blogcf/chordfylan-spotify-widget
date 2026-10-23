@@ -1751,5 +1751,23 @@
       "mbid": "56c4b861-0922-4c3a-a9b9-3bfcb00f8274",
       "verificationUrl": "https://musicbrainz.org/artist/56c4b861-0922-4c3a-a9b9-3bfcb00f8274"
     }
+  },
+  "tate mcrae": {
+    "name": "Tate McRae",
+    "checkedAt": "2026-10-23T01:33:26.016Z",
+    "result": {
+      "status": "foreign",
+      "country": "CA",
+      "mbid": "f9133869-f87c-459c-9aa7-2f176cda7e06",
+      "verificationUrl": "https://musicbrainz.org/artist/f9133869-f87c-459c-9aa7-2f176cda7e06"
+    }
+  },
+  "muse": {
+    "name": "Muse",
+    "checkedAt": "2026-10-23T01:33:26.841Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
   }
 }
