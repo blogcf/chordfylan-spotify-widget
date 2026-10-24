@@ -1769,5 +1769,33 @@
       "status": "unverified",
       "reason": "ambiguous_name"
     }
+  },
+  "a2o lite": {
+    "name": "A2O LITE",
+    "checkedAt": "2026-10-24T01:37:41.302Z",
+    "result": {
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "d0ebbbd9-eae8-4469-8ecb-9dcde740d343",
+      "verificationUrl": "https://musicbrainz.org/artist/d0ebbbd9-eae8-4469-8ecb-9dcde740d343"
+    }
+  },
+  "madison beer": {
+    "name": "Madison Beer",
+    "checkedAt": "2026-10-24T01:37:42.145Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "749ef494-8518-4b49-b685-63d8e728d25c",
+      "verificationUrl": "https://musicbrainz.org/artist/749ef494-8518-4b49-b685-63d8e728d25c"
+    }
+  },
+  "sore": {
+    "name": "Sore",
+    "checkedAt": "2026-10-24T01:37:43.403Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
   }
 }

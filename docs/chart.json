@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-23T01:33:28.327Z",
+  "updatedAt": "2026-10-24T01:37:44.270Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7172,
+  "indexedPosts": 7208,
   "verifiedIndonesianTracks": 57,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 40,
+      "rank": 42,
       "title": "Anything You Want",
       "artist": "Reality Club",
       "articleTitle": "Anything You Want - Reality Club",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 46,
       "title": "everything u are",
       "artist": "Hindia",
       "articleTitle": "Everything U Are - Hindia",
@@ -38,7 +38,7 @@
       }
     },
     {
-      "rank": 55,
+      "rank": 53,
       "title": "Terbuang Dalam Waktu",
       "artist": "Barasuara",
       "articleTitle": "Terbuang Dalam Waktu - Barasuara",
@@ -66,21 +66,7 @@
       }
     },
     {
-      "rank": 98,
-      "title": "MMG (My Mine Gueh)",
-      "artist": "Naykilla",
-      "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
-      "url": "https://www.chordfylan.com/2026/10/mmg-my-mine-gueh-naykilla.html",
-      "sourceUrl": "https://www.last.fm/music/Naykilla/_/MMG+(My+Mine+Gueh)",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "06c095fd-512a-4bcd-9c0c-1bda68b29848",
-        "url": "https://musicbrainz.org/artist/06c095fd-512a-4bcd-9c0c-1bda68b29848"
-      }
-    },
-    {
-      "rank": 101,
+      "rank": 96,
       "title": "Iqro'",
       "artist": "Raim Laode",
       "articleTitle": "Iqro - Raim Laode",
@@ -94,7 +80,21 @@
       }
     },
     {
-      "rank": 107,
+      "rank": 100,
+      "title": "MMG (My Mine Gueh)",
+      "artist": "Naykilla",
+      "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
+      "url": "https://www.chordfylan.com/2026/10/mmg-my-mine-gueh-naykilla.html",
+      "sourceUrl": "https://www.last.fm/music/Naykilla/_/MMG+(My+Mine+Gueh)",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "06c095fd-512a-4bcd-9c0c-1bda68b29848",
+        "url": "https://musicbrainz.org/artist/06c095fd-512a-4bcd-9c0c-1bda68b29848"
+      }
+    },
+    {
+      "rank": 114,
       "title": "kota ini tak sama tanpamu",
       "artist": "Nadhif Basalamah",
       "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
@@ -108,7 +108,7 @@
       }
     },
     {
-      "rank": 138,
+      "rank": 116,
       "title": "Rumah Ke Rumah",
       "artist": "Hindia",
       "articleTitle": "Rumah Ke Rumah - Hindia",
@@ -122,7 +122,7 @@
       }
     },
     {
-      "rank": 143,
+      "rank": 141,
       "title": "Dunia Yang Nanti",
       "artist": "Raim Laode",
       "articleTitle": "Dunia Yang Nanti - Raim Laode",
@@ -136,7 +136,7 @@
       }
     },
     {
-      "rank": 187,
+      "rank": 173,
       "title": "Alexandra",
       "artist": "Reality Club",
       "articleTitle": "Alexandra - Reality Club",
