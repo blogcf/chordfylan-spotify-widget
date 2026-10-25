@@ -1797,5 +1797,25 @@
       "status": "unverified",
       "reason": "ambiguous_name"
     }
+  },
+  "le sserafim": {
+    "name": "LE SSERAFIM",
+    "checkedAt": "2026-10-25T01:13:00.847Z",
+    "result": {
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "1ee37742-1e3d-4e61-84d2-bc85f4c1459a",
+      "verificationUrl": "https://musicbrainz.org/artist/1ee37742-1e3d-4e61-84d2-bc85f4c1459a"
+    }
+  },
+  "beach house": {
+    "name": "Beach House",
+    "checkedAt": "2026-10-25T01:13:01.546Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "d5cc67b8-1cc4-453b-96e8-44487acdebea",
+      "verificationUrl": "https://musicbrainz.org/artist/d5cc67b8-1cc4-453b-96e8-44487acdebea"
+    }
   }
 }
