@@ -1817,5 +1817,39 @@
       "mbid": "d5cc67b8-1cc4-453b-96e8-44487acdebea",
       "verificationUrl": "https://musicbrainz.org/artist/d5cc67b8-1cc4-453b-96e8-44487acdebea"
     }
+  },
+  "kanye west": {
+    "name": "Kanye West",
+    "checkedAt": "2026-10-26T01:13:50.140Z",
+    "result": {
+      "status": "unverified",
+      "reason": "artist_not_found"
+    }
+  },
+  "ive": {
+    "name": "IVE",
+    "checkedAt": "2026-10-26T01:13:50.887Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "lany": {
+    "name": "Lany",
+    "checkedAt": "2026-10-26T01:13:52.137Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "the cardigans": {
+    "name": "The Cardigans",
+    "checkedAt": "2026-10-26T01:13:53.386Z",
+    "result": {
+      "status": "foreign",
+      "country": "SE",
+      "mbid": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+      "verificationUrl": "https://musicbrainz.org/artist/3e55d51d-687f-4a9d-af96-2fabccf802e5"
+    }
   }
 }

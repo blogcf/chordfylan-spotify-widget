@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-25T01:13:02.830Z",
+  "updatedAt": "2026-10-26T01:13:54.277Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7274,
-  "verifiedIndonesianTracks": 56,
+  "indexedPosts": 7312,
+  "verifiedIndonesianTracks": 55,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 43,
+      "rank": 41,
       "title": "Anything You Want",
       "artist": "Reality Club",
       "articleTitle": "Anything You Want - Reality Club",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "rank": 45,
+      "rank": 46,
       "title": "everything u are",
       "artist": "Hindia",
       "articleTitle": "Everything U Are - Hindia",
@@ -38,7 +38,7 @@
       }
     },
     {
-      "rank": 53,
+      "rank": 51,
       "title": "Terbuang Dalam Waktu",
       "artist": "Barasuara",
       "articleTitle": "Terbuang Dalam Waktu - Barasuara",
@@ -52,7 +52,21 @@
       }
     },
     {
-      "rank": 68,
+      "rank": 60,
+      "title": "Ini Abadi",
+      "artist": "Perunggu",
+      "articleTitle": "Ini Abadi - Perunggu",
+      "url": "https://www.chordfylan.com/2026/10/ini-abadi-perunggu.html",
+      "sourceUrl": "https://www.last.fm/music/Perunggu/_/Ini+Abadi",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "54c4a836-5417-49cf-a0c3-4cd9f0ba617c",
+        "url": "https://musicbrainz.org/artist/54c4a836-5417-49cf-a0c3-4cd9f0ba617c"
+      }
+    },
+    {
+      "rank": 73,
       "title": "Ada titik-titik di ujung doa",
       "artist": "Sal Priadi",
       "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
@@ -66,7 +80,7 @@
       }
     },
     {
-      "rank": 82,
+      "rank": 81,
       "title": "Iqro'",
       "artist": "Raim Laode",
       "articleTitle": "Iqro - Raim Laode",
@@ -80,21 +94,7 @@
       }
     },
     {
-      "rank": 121,
-      "title": "MMG (My Mine Gueh)",
-      "artist": "Naykilla",
-      "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
-      "url": "https://www.chordfylan.com/2026/10/mmg-my-mine-gueh-naykilla.html",
-      "sourceUrl": "https://www.last.fm/music/Naykilla/_/MMG+(My+Mine+Gueh)",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "06c095fd-512a-4bcd-9c0c-1bda68b29848",
-        "url": "https://musicbrainz.org/artist/06c095fd-512a-4bcd-9c0c-1bda68b29848"
-      }
-    },
-    {
-      "rank": 124,
+      "rank": 125,
       "title": "Rumah Ke Rumah",
       "artist": "Hindia",
       "articleTitle": "Rumah Ke Rumah - Hindia",
@@ -108,21 +108,21 @@
       }
     },
     {
-      "rank": 128,
-      "title": "kota ini tak sama tanpamu",
-      "artist": "Nadhif Basalamah",
-      "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
-      "url": "https://www.chordfylan.com/2026/10/kota-ini-tak-sama-tanpamu-nadhif.html",
-      "sourceUrl": "https://www.last.fm/music/Nadhif+Basalamah/_/kota+ini+tak+sama+tanpamu",
+      "rank": 129,
+      "title": "MMG (My Mine Gueh)",
+      "artist": "Naykilla",
+      "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
+      "url": "https://www.chordfylan.com/2026/10/mmg-my-mine-gueh-naykilla.html",
+      "sourceUrl": "https://www.last.fm/music/Naykilla/_/MMG+(My+Mine+Gueh)",
       "matchScore": 1,
       "artistVerification": {
         "provider": "MusicBrainz",
-        "mbid": "ccbc2142-b78c-4f52-b5a5-e4869910c123",
-        "url": "https://musicbrainz.org/artist/ccbc2142-b78c-4f52-b5a5-e4869910c123"
+        "mbid": "06c095fd-512a-4bcd-9c0c-1bda68b29848",
+        "url": "https://musicbrainz.org/artist/06c095fd-512a-4bcd-9c0c-1bda68b29848"
       }
     },
     {
-      "rank": 146,
+      "rank": 138,
       "title": "Dunia Yang Nanti",
       "artist": "Raim Laode",
       "articleTitle": "Dunia Yang Nanti - Raim Laode",
@@ -136,17 +136,17 @@
       }
     },
     {
-      "rank": 212,
-      "title": "Alexandra",
-      "artist": "Reality Club",
-      "articleTitle": "Alexandra - Reality Club",
-      "url": "https://www.chordfylan.com/2023/05/chord-alexandra-reality-club.html",
-      "sourceUrl": "https://www.last.fm/music/Reality+Club/_/Alexandra",
+      "rank": 149,
+      "title": "kota ini tak sama tanpamu",
+      "artist": "Nadhif Basalamah",
+      "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
+      "url": "https://www.chordfylan.com/2026/10/kota-ini-tak-sama-tanpamu-nadhif.html",
+      "sourceUrl": "https://www.last.fm/music/Nadhif+Basalamah/_/kota+ini+tak+sama+tanpamu",
       "matchScore": 1,
       "artistVerification": {
         "provider": "MusicBrainz",
-        "mbid": "70427aaf-7e0c-46a5-a04f-177eeb98d80e",
-        "url": "https://musicbrainz.org/artist/70427aaf-7e0c-46a5-a04f-177eeb98d80e"
+        "mbid": "ccbc2142-b78c-4f52-b5a5-e4869910c123",
+        "url": "https://musicbrainz.org/artist/ccbc2142-b78c-4f52-b5a5-e4869910c123"
       }
     }
   ]
