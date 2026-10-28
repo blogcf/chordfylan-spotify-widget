@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-27T02:06:57.960Z",
+  "updatedAt": "2026-10-28T02:18:37.880Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7320,
-  "verifiedIndonesianTracks": 54,
+  "indexedPosts": 7361,
+  "verifiedIndonesianTracks": 53,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 42,
+      "rank": 46,
       "title": "Anything You Want",
       "artist": "Reality Club",
       "articleTitle": "Anything You Want - Reality Club",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "rank": 58,
+      "rank": 59,
       "title": "Ini Abadi",
       "artist": "Perunggu",
       "articleTitle": "Ini Abadi - Perunggu",
@@ -66,21 +66,7 @@
       }
     },
     {
-      "rank": 78,
-      "title": "Ada titik-titik di ujung doa",
-      "artist": "Sal Priadi",
-      "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
-      "url": "https://www.chordfylan.com/2026/10/ada-titik-titik-di-ujung-doa-sal-priadi.html",
-      "sourceUrl": "https://www.last.fm/music/Sal+Priadi/_/Ada+titik-titik+di+ujung+doa",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "b789cb1f-3805-4c1c-ac6c-c6cca2787f55",
-        "url": "https://musicbrainz.org/artist/b789cb1f-3805-4c1c-ac6c-c6cca2787f55"
-      }
-    },
-    {
-      "rank": 81,
+      "rank": 75,
       "title": "Iqro'",
       "artist": "Raim Laode",
       "articleTitle": "Iqro - Raim Laode",
@@ -94,21 +80,21 @@
       }
     },
     {
-      "rank": 135,
-      "title": "Rumah Ke Rumah",
-      "artist": "Hindia",
-      "articleTitle": "Rumah Ke Rumah - Hindia",
-      "url": "https://www.chordfylan.com/2020/04/rumah-ke-rumah-hindia.html",
-      "sourceUrl": "https://www.last.fm/music/Hindia/_/Rumah+Ke+Rumah",
+      "rank": 87,
+      "title": "Ada titik-titik di ujung doa",
+      "artist": "Sal Priadi",
+      "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
+      "url": "https://www.chordfylan.com/2026/10/ada-titik-titik-di-ujung-doa-sal-priadi.html",
+      "sourceUrl": "https://www.last.fm/music/Sal+Priadi/_/Ada+titik-titik+di+ujung+doa",
       "matchScore": 1,
       "artistVerification": {
         "provider": "MusicBrainz",
-        "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
-        "url": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
+        "mbid": "b789cb1f-3805-4c1c-ac6c-c6cca2787f55",
+        "url": "https://musicbrainz.org/artist/b789cb1f-3805-4c1c-ac6c-c6cca2787f55"
       }
     },
     {
-      "rank": 146,
+      "rank": 137,
       "title": "Dunia Yang Nanti",
       "artist": "Raim Laode",
       "articleTitle": "Dunia Yang Nanti - Raim Laode",
@@ -122,7 +108,7 @@
       }
     },
     {
-      "rank": 148,
+      "rank": 145,
       "title": "MMG (My Mine Gueh)",
       "artist": "Naykilla",
       "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
@@ -136,17 +122,31 @@
       }
     },
     {
-      "rank": 161,
-      "title": "kota ini tak sama tanpamu",
-      "artist": "Nadhif Basalamah",
-      "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
-      "url": "https://www.chordfylan.com/2026/10/kota-ini-tak-sama-tanpamu-nadhif.html",
-      "sourceUrl": "https://www.last.fm/music/Nadhif+Basalamah/_/kota+ini+tak+sama+tanpamu",
+      "rank": 149,
+      "title": "Rumah Ke Rumah",
+      "artist": "Hindia",
+      "articleTitle": "Rumah Ke Rumah - Hindia",
+      "url": "https://www.chordfylan.com/2020/04/rumah-ke-rumah-hindia.html",
+      "sourceUrl": "https://www.last.fm/music/Hindia/_/Rumah+Ke+Rumah",
       "matchScore": 1,
       "artistVerification": {
         "provider": "MusicBrainz",
-        "mbid": "ccbc2142-b78c-4f52-b5a5-e4869910c123",
-        "url": "https://musicbrainz.org/artist/ccbc2142-b78c-4f52-b5a5-e4869910c123"
+        "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
+        "url": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
+      }
+    },
+    {
+      "rank": 161,
+      "title": "33x",
+      "artist": "Perunggu",
+      "articleTitle": "33X - Perunggu",
+      "url": "https://www.chordfylan.com/2026/10/33x-perunggu.html",
+      "sourceUrl": "https://www.last.fm/music/Perunggu/_/33x",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "54c4a836-5417-49cf-a0c3-4cd9f0ba617c",
+        "url": "https://musicbrainz.org/artist/54c4a836-5417-49cf-a0c3-4cd9f0ba617c"
       }
     }
   ]
