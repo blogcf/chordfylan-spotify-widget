@@ -1861,5 +1861,15 @@
       "mbid": "cf0dbc16-4e24-4957-b5b4-955c8978f690",
       "verificationUrl": "https://musicbrainz.org/artist/cf0dbc16-4e24-4957-b5b4-955c8978f690"
     }
+  },
+  "p nk": {
+    "name": "P!nk",
+    "checkedAt": "2026-10-29T02:28:33.714Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "f4d5cc07-3bc9-4836-9b15-88a08359bc63",
+      "verificationUrl": "https://musicbrainz.org/artist/f4d5cc07-3bc9-4836-9b15-88a08359bc63"
+    }
   }
 }
