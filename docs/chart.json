@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-29T02:28:34.781Z",
+  "updatedAt": "2026-10-30T02:38:17.725Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7395,
+  "indexedPosts": 7404,
   "verifiedIndonesianTracks": 53,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 47,
+      "rank": 46,
       "title": "everything u are",
       "artist": "Hindia",
       "articleTitle": "Everything U Are - Hindia",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 49,
       "title": "Terbuang Dalam Waktu",
       "artist": "Barasuara",
       "articleTitle": "Terbuang Dalam Waktu - Barasuara",
@@ -38,7 +38,7 @@
       }
     },
     {
-      "rank": 51,
+      "rank": 50,
       "title": "Anything You Want",
       "artist": "Reality Club",
       "articleTitle": "Anything You Want - Reality Club",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "rank": 61,
+      "rank": 64,
       "title": "Ini Abadi",
       "artist": "Perunggu",
       "articleTitle": "Ini Abadi - Perunggu",
@@ -66,21 +66,7 @@
       }
     },
     {
-      "rank": 79,
-      "title": "Iqro'",
-      "artist": "Raim Laode",
-      "articleTitle": "Iqro - Raim Laode",
-      "url": "https://www.chordfylan.com/2026/10/iqro-raim-laode.html",
-      "sourceUrl": "https://www.last.fm/music/Raim+Laode/_/Iqro%27",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "12221a55-3afe-4c16-bac7-38f550e1f6be",
-        "url": "https://musicbrainz.org/artist/12221a55-3afe-4c16-bac7-38f550e1f6be"
-      }
-    },
-    {
-      "rank": 84,
+      "rank": 85,
       "title": "Ada titik-titik di ujung doa",
       "artist": "Sal Priadi",
       "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
@@ -94,7 +80,21 @@
       }
     },
     {
-      "rank": 133,
+      "rank": 99,
+      "title": "Iqro'",
+      "artist": "Raim Laode",
+      "articleTitle": "Iqro - Raim Laode",
+      "url": "https://www.chordfylan.com/2026/10/iqro-raim-laode.html",
+      "sourceUrl": "https://www.last.fm/music/Raim+Laode/_/Iqro%27",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "12221a55-3afe-4c16-bac7-38f550e1f6be",
+        "url": "https://musicbrainz.org/artist/12221a55-3afe-4c16-bac7-38f550e1f6be"
+      }
+    },
+    {
+      "rank": 149,
       "title": "Dunia Yang Nanti",
       "artist": "Raim Laode",
       "articleTitle": "Dunia Yang Nanti - Raim Laode",
@@ -108,21 +108,7 @@
       }
     },
     {
-      "rank": 145,
-      "title": "MMG (My Mine Gueh)",
-      "artist": "Naykilla",
-      "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
-      "url": "https://www.chordfylan.com/2026/10/mmg-my-mine-gueh-naykilla.html",
-      "sourceUrl": "https://www.last.fm/music/Naykilla/_/MMG+(My+Mine+Gueh)",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "06c095fd-512a-4bcd-9c0c-1bda68b29848",
-        "url": "https://musicbrainz.org/artist/06c095fd-512a-4bcd-9c0c-1bda68b29848"
-      }
-    },
-    {
-      "rank": 158,
+      "rank": 156,
       "title": "33x",
       "artist": "Perunggu",
       "articleTitle": "33X - Perunggu",
@@ -136,7 +122,21 @@
       }
     },
     {
-      "rank": 172,
+      "rank": 159,
+      "title": "MMG (My Mine Gueh)",
+      "artist": "Naykilla",
+      "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
+      "url": "https://www.chordfylan.com/2026/10/mmg-my-mine-gueh-naykilla.html",
+      "sourceUrl": "https://www.last.fm/music/Naykilla/_/MMG+(My+Mine+Gueh)",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "06c095fd-512a-4bcd-9c0c-1bda68b29848",
+        "url": "https://musicbrainz.org/artist/06c095fd-512a-4bcd-9c0c-1bda68b29848"
+      }
+    },
+    {
+      "rank": 173,
       "title": "Rumah Ke Rumah",
       "artist": "Hindia",
       "articleTitle": "Rumah Ke Rumah - Hindia",
