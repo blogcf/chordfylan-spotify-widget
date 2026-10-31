@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-30T02:38:17.725Z",
+  "updatedAt": "2026-10-31T02:25:48.022Z",
   "candidates": 500,
-  "verifiedIndonesianTracks": 53,
+  "verifiedIndonesianTracks": 49,
   "artistChecks": [
     {
       "name": "Olivia Rodrigo",
@@ -49,16 +49,21 @@
       "verificationUrl": "https://musicbrainz.org/artist/122d63fc-8671-43e4-9752-34e846d62a9c"
     },
     {
-      "name": "Daniel Caesar",
-      "status": "foreign",
-      "country": "CA",
-      "mbid": "b46e298d-d3a5-4695-a03e-63e8c523b23e",
-      "verificationUrl": "https://musicbrainz.org/artist/b46e298d-d3a5-4695-a03e-63e8c523b23e"
+      "name": "Ashe",
+      "status": "unverified",
+      "reason": "ambiguous_name"
     },
     {
       "name": "RM",
       "status": "unverified",
       "reason": "ambiguous_name"
+    },
+    {
+      "name": "Daniel Caesar",
+      "status": "foreign",
+      "country": "CA",
+      "mbid": "b46e298d-d3a5-4695-a03e-63e8c523b23e",
+      "verificationUrl": "https://musicbrainz.org/artist/b46e298d-d3a5-4695-a03e-63e8c523b23e"
     },
     {
       "name": "sombr",
@@ -68,33 +73,11 @@
       "verificationUrl": "https://musicbrainz.org/artist/502cf908-9921-48bc-bf0e-265c881c0156"
     },
     {
-      "name": "Ashe",
-      "status": "unverified",
-      "reason": "ambiguous_name"
-    },
-    {
       "name": "The Script",
       "status": "foreign",
       "country": "IE",
       "mbid": "4c98aa1b-34eb-4336-987f-5e50aa059c00",
       "verificationUrl": "https://musicbrainz.org/artist/4c98aa1b-34eb-4336-987f-5e50aa059c00"
-    },
-    {
-      "name": "Ariana Grande",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
-      "verificationUrl": "https://musicbrainz.org/artist/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387"
-    },
-    {
-      "name": "Tulus",
-      "status": "unverified",
-      "reason": "ambiguous_name"
-    },
-    {
-      "name": "Paramore",
-      "status": "unverified",
-      "reason": "ambiguous_name"
     },
     {
       "name": "Radiohead",
@@ -104,16 +87,26 @@
       "verificationUrl": "https://musicbrainz.org/artist/a74b1b7f-71a5-4011-9441-d0b5e4122711"
     },
     {
+      "name": "Paramore",
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    },
+    {
+      "name": "Ariana Grande",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+      "verificationUrl": "https://musicbrainz.org/artist/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387"
+    },
+    {
       "name": "j-hope",
       "status": "unverified",
       "reason": "ambiguous_name"
     },
     {
-      "name": "Shawn Mendes",
-      "status": "foreign",
-      "country": "CA",
-      "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
-      "verificationUrl": "https://musicbrainz.org/artist/b7d92248-97e3-4450-8057-6fe06738f735"
+      "name": "Tulus",
+      "status": "unverified",
+      "reason": "ambiguous_name"
     },
     {
       "name": "Jimin",
@@ -123,17 +116,14 @@
       "verificationUrl": "https://musicbrainz.org/artist/d2582c77-6b0f-4b2f-802f-8f3cad1a5fec"
     },
     {
-      "name": "Billie Eilish",
-      "status": "unverified",
-      "reason": "ambiguous_name"
+      "name": "Shawn Mendes",
+      "status": "foreign",
+      "country": "CA",
+      "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
+      "verificationUrl": "https://musicbrainz.org/artist/b7d92248-97e3-4450-8057-6fe06738f735"
     },
     {
       "name": "Jin",
-      "status": "unverified",
-      "reason": "ambiguous_name"
-    },
-    {
-      "name": "Niki",
       "status": "unverified",
       "reason": "ambiguous_name"
     },
@@ -145,16 +135,21 @@
       "verificationUrl": "https://musicbrainz.org/artist/58e235fc-f6ea-4614-9ed4-9855a5665ae1"
     },
     {
+      "name": "Billie Eilish",
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    },
+    {
+      "name": "Niki",
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    },
+    {
       "name": "Hindia",
       "status": "indonesian",
       "country": "ID",
       "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
       "verificationUrl": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
-    },
-    {
-      "name": "Djo",
-      "status": "unverified",
-      "reason": "ambiguous_name"
     },
     {
       "name": "Barasuara",
@@ -164,20 +159,6 @@
       "verificationUrl": "https://musicbrainz.org/artist/21a3321e-1ddf-499f-90cb-f92eaae072ce"
     },
     {
-      "name": "Reality Club",
-      "status": "indonesian",
-      "country": "ID",
-      "mbid": "70427aaf-7e0c-46a5-a04f-177eeb98d80e",
-      "verificationUrl": "https://musicbrainz.org/artist/70427aaf-7e0c-46a5-a04f-177eeb98d80e"
-    },
-    {
-      "name": "Clairo",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "d786f59b-1836-4ddb-8393-ab753edbe984",
-      "verificationUrl": "https://musicbrainz.org/artist/d786f59b-1836-4ddb-8393-ab753edbe984"
-    },
-    {
       "name": "A2O LITE",
       "status": "foreign",
       "country": "KR",
@@ -185,9 +166,21 @@
       "verificationUrl": "https://musicbrainz.org/artist/d0ebbbd9-eae8-4469-8ecb-9dcde740d343"
     },
     {
+      "name": "Djo",
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    },
+    {
       "name": "Steve Lacy",
       "status": "unverified",
       "reason": "ambiguous_name"
+    },
+    {
+      "name": "Reality Club",
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "70427aaf-7e0c-46a5-a04f-177eeb98d80e",
+      "verificationUrl": "https://musicbrainz.org/artist/70427aaf-7e0c-46a5-a04f-177eeb98d80e"
     },
     {
       "name": "Arctic Monkeys",
@@ -197,25 +190,11 @@
       "verificationUrl": "https://musicbrainz.org/artist/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a"
     },
     {
-      "name": "Green Day",
+      "name": "Clairo",
       "status": "foreign",
       "country": "US",
-      "mbid": "084308bd-1654-436f-ba03-df6697104e19",
-      "verificationUrl": "https://musicbrainz.org/artist/084308bd-1654-436f-ba03-df6697104e19"
-    },
-    {
-      "name": "My Chemical Romance",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
-      "verificationUrl": "https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13"
-    },
-    {
-      "name": "Tate McRae",
-      "status": "foreign",
-      "country": "CA",
-      "mbid": "f9133869-f87c-459c-9aa7-2f176cda7e06",
-      "verificationUrl": "https://musicbrainz.org/artist/f9133869-f87c-459c-9aa7-2f176cda7e06"
+      "mbid": "d786f59b-1836-4ddb-8393-ab753edbe984",
+      "verificationUrl": "https://musicbrainz.org/artist/d786f59b-1836-4ddb-8393-ab753edbe984"
     },
     {
       "name": "Justin Bieber",
@@ -225,18 +204,25 @@
       "verificationUrl": "https://musicbrainz.org/artist/e0140a67-e4d1-4f13-8a01-364355bee46e"
     },
     {
-      "name": "Perunggu",
-      "status": "indonesian",
-      "country": "ID",
-      "mbid": "54c4a836-5417-49cf-a0c3-4cd9f0ba617c",
-      "verificationUrl": "https://musicbrainz.org/artist/54c4a836-5417-49cf-a0c3-4cd9f0ba617c"
+      "name": "My Chemical Romance",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
+      "verificationUrl": "https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13"
     },
     {
-      "name": "Jung Kook",
+      "name": "Green Day",
       "status": "foreign",
-      "country": "KR",
-      "mbid": "23c8056b-ee13-4cfc-a772-2f5292e35bb5",
-      "verificationUrl": "https://musicbrainz.org/artist/23c8056b-ee13-4cfc-a772-2f5292e35bb5"
+      "country": "US",
+      "mbid": "084308bd-1654-436f-ba03-df6697104e19",
+      "verificationUrl": "https://musicbrainz.org/artist/084308bd-1654-436f-ba03-df6697104e19"
+    },
+    {
+      "name": "Tate McRae",
+      "status": "foreign",
+      "country": "CA",
+      "mbid": "f9133869-f87c-459c-9aa7-2f176cda7e06",
+      "verificationUrl": "https://musicbrainz.org/artist/f9133869-f87c-459c-9aa7-2f176cda7e06"
     },
     {
       "name": "Gigi Perez",
@@ -245,11 +231,11 @@
       "mbid": "8ab64ebd-200e-47af-a3fc-92540e186214"
     },
     {
-      "name": "Cigarettes After Sex",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "34557d8f-ee4a-44ab-ae6e-49bb8ac604d0",
-      "verificationUrl": "https://musicbrainz.org/artist/34557d8f-ee4a-44ab-ae6e-49bb8ac604d0"
+      "name": "Perunggu",
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "54c4a836-5417-49cf-a0c3-4cd9f0ba617c",
+      "verificationUrl": "https://musicbrainz.org/artist/54c4a836-5417-49cf-a0c3-4cd9f0ba617c"
     },
     {
       "name": "LNGSHOT",
@@ -259,15 +245,23 @@
       "verificationUrl": "https://musicbrainz.org/artist/31e181a5-a927-4e9a-b97b-301002ddd9e0"
     },
     {
-      "name": "Alex Crichton",
-      "status": "unverified",
-      "reason": "country_missing",
-      "mbid": "40af1757-8c0d-4ceb-9268-016efdc936b9"
-    },
-    {
       "name": "The Goo Goo Dolls",
       "status": "unverified",
       "reason": "artist_not_found"
+    },
+    {
+      "name": "Jung Kook",
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "23c8056b-ee13-4cfc-a772-2f5292e35bb5",
+      "verificationUrl": "https://musicbrainz.org/artist/23c8056b-ee13-4cfc-a772-2f5292e35bb5"
+    },
+    {
+      "name": "Bruno Mars",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+      "verificationUrl": "https://musicbrainz.org/artist/afb680f2-b6eb-4cd7-a70b-a63b25c763d5"
     },
     {
       "name": "Hearts2Hearts",
@@ -277,6 +271,24 @@
       "verificationUrl": "https://musicbrainz.org/artist/066080a4-84c7-46c6-91d3-dc10d572749b"
     },
     {
+      "name": "Cigarettes After Sex",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "34557d8f-ee4a-44ab-ae6e-49bb8ac604d0",
+      "verificationUrl": "https://musicbrainz.org/artist/34557d8f-ee4a-44ab-ae6e-49bb8ac604d0"
+    },
+    {
+      "name": "Alex Crichton",
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "40af1757-8c0d-4ceb-9268-016efdc936b9"
+    },
+    {
+      "name": ".Feast",
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    },
+    {
       "name": "Ravyn Lenae",
       "status": "foreign",
       "country": "US",
@@ -284,12 +296,7 @@
       "verificationUrl": "https://musicbrainz.org/artist/94c64122-dbd4-4927-b2fa-f204b0b4b0c2"
     },
     {
-      "name": "eńau",
-      "status": "unverified",
-      "reason": "ambiguous_name"
-    },
-    {
-      "name": ".Feast",
+      "name": "Overnight",
       "status": "unverified",
       "reason": "ambiguous_name"
     },
@@ -301,7 +308,34 @@
       "verificationUrl": "https://musicbrainz.org/artist/b789cb1f-3805-4c1c-ac6c-c6cca2787f55"
     },
     {
-      "name": "Overnight",
+      "name": "rumahsakit",
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "255b6820-69d9-49ed-b745-57959ab316b8",
+      "verificationUrl": "https://musicbrainz.org/artist/255b6820-69d9-49ed-b745-57959ab316b8"
+    },
+    {
+      "name": "V",
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "41ece0f7-91f6-4c87-982c-3a39c5a02586"
+    },
+    {
+      "name": "Coldplay",
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+      "verificationUrl": "https://musicbrainz.org/artist/cc197bad-dc9c-440d-a5b5-d52ba2e14234"
+    },
+    {
+      "name": "Mitski",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
+      "verificationUrl": "https://musicbrainz.org/artist/fa58cf24-0e44-421d-8519-8bf461dcfaa5"
+    },
+    {
+      "name": "bôa",
       "status": "unverified",
       "reason": "ambiguous_name"
     },
@@ -312,57 +346,9 @@
       "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427"
     },
     {
-      "name": "rumahsakit",
-      "status": "indonesian",
-      "country": "ID",
-      "mbid": "255b6820-69d9-49ed-b745-57959ab316b8",
-      "verificationUrl": "https://musicbrainz.org/artist/255b6820-69d9-49ed-b745-57959ab316b8"
-    },
-    {
-      "name": "Bruno Mars",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
-      "verificationUrl": "https://musicbrainz.org/artist/afb680f2-b6eb-4cd7-a70b-a63b25c763d5"
-    },
-    {
-      "name": "Mitski",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
-      "verificationUrl": "https://musicbrainz.org/artist/fa58cf24-0e44-421d-8519-8bf461dcfaa5"
-    },
-    {
-      "name": "Magnolia Celebration",
-      "status": "indonesian",
-      "country": "ID",
-      "mbid": "19dfedb5-4b99-4069-b3a8-28f17cc7c383",
-      "verificationUrl": "https://musicbrainz.org/artist/19dfedb5-4b99-4069-b3a8-28f17cc7c383"
-    },
-    {
-      "name": "V",
-      "status": "unverified",
-      "reason": "country_missing",
-      "mbid": "41ece0f7-91f6-4c87-982c-3a39c5a02586"
-    },
-    {
-      "name": "CORTIS",
+      "name": "eńau",
       "status": "unverified",
       "reason": "ambiguous_name"
-    },
-    {
-      "name": "Raim Laode",
-      "status": "indonesian",
-      "country": "ID",
-      "mbid": "12221a55-3afe-4c16-bac7-38f550e1f6be",
-      "verificationUrl": "https://musicbrainz.org/artist/12221a55-3afe-4c16-bac7-38f550e1f6be"
-    },
-    {
-      "name": "Coldplay",
-      "status": "foreign",
-      "country": "GB",
-      "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
-      "verificationUrl": "https://musicbrainz.org/artist/cc197bad-dc9c-440d-a5b5-d52ba2e14234"
     },
     {
       "name": "wave to earth",
@@ -372,18 +358,66 @@
       "verificationUrl": "https://musicbrainz.org/artist/89e95aa3-bd49-4af3-9c87-0d88b2093bb0"
     },
     {
+      "name": "CORTIS",
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    },
+    {
+      "name": "Magnolia Celebration",
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "19dfedb5-4b99-4069-b3a8-28f17cc7c383",
+      "verificationUrl": "https://musicbrainz.org/artist/19dfedb5-4b99-4069-b3a8-28f17cc7c383"
+    },
+    {
+      "name": "Raim Laode",
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "12221a55-3afe-4c16-bac7-38f550e1f6be",
+      "verificationUrl": "https://musicbrainz.org/artist/12221a55-3afe-4c16-bac7-38f550e1f6be"
+    },
+    {
+      "name": "Sienna Spiro",
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "ea696191-407a-4bf2-8302-7e05f6c163c5",
+      "verificationUrl": "https://musicbrainz.org/artist/ea696191-407a-4bf2-8302-7e05f6c163c5"
+    },
+    {
+      "name": "Rex Orange County",
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87"
+    },
+    {
       "name": "Adrian Khalif",
       "status": "unverified",
       "reason": "country_missing",
       "mbid": "e4d60785-e409-4c96-8d36-a7a62b45b6cf"
     },
     {
-      "name": "bôa",
-      "status": "unverified",
-      "reason": "ambiguous_name"
+      "name": "The Cranberries",
+      "status": "foreign",
+      "country": "IE",
+      "mbid": "c98d40fd-f6cf-4b26-883e-eaa515ee2851",
+      "verificationUrl": "https://musicbrainz.org/artist/c98d40fd-f6cf-4b26-883e-eaa515ee2851"
     },
     {
-      "name": "Keane",
+      "name": "She & Him",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "fb821608-35fd-4a45-a4b2-1a0537cee111",
+      "verificationUrl": "https://musicbrainz.org/artist/fb821608-35fd-4a45-a4b2-1a0537cee111"
+    },
+    {
+      "name": "The Weeknd",
+      "status": "foreign",
+      "country": "CA",
+      "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+      "verificationUrl": "https://musicbrainz.org/artist/c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+    },
+    {
+      "name": "The Neighbourhood",
       "status": "unverified",
       "reason": "ambiguous_name"
     },
@@ -395,10 +429,9 @@
       "verificationUrl": "https://musicbrainz.org/artist/2f569e60-0a1b-4fb9-95a4-3dc1525d1aad"
     },
     {
-      "name": "One Direction",
+      "name": "Keane",
       "status": "unverified",
-      "reason": "country_missing",
-      "mbid": "1a425bbd-cca4-4b2c-aeb7-71cb176c828a"
+      "reason": "ambiguous_name"
     },
     {
       "name": "NewJeans",
@@ -408,37 +441,17 @@
       "verificationUrl": "https://musicbrainz.org/artist/49204a7a-ed85-407a-828f-6fd46f1d8126"
     },
     {
-      "name": "The Neighbourhood",
-      "status": "unverified",
-      "reason": "ambiguous_name"
-    },
-    {
-      "name": "Sienna Spiro",
-      "status": "foreign",
-      "country": "GB",
-      "mbid": "ea696191-407a-4bf2-8302-7e05f6c163c5",
-      "verificationUrl": "https://musicbrainz.org/artist/ea696191-407a-4bf2-8302-7e05f6c163c5"
-    },
-    {
-      "name": "The Cranberries",
-      "status": "foreign",
-      "country": "IE",
-      "mbid": "c98d40fd-f6cf-4b26-883e-eaa515ee2851",
-      "verificationUrl": "https://musicbrainz.org/artist/c98d40fd-f6cf-4b26-883e-eaa515ee2851"
-    },
-    {
-      "name": "The Weeknd",
-      "status": "foreign",
-      "country": "CA",
-      "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
-      "verificationUrl": "https://musicbrainz.org/artist/c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
-    },
-    {
-      "name": "TV Girl",
+      "name": "Chappell Roan",
       "status": "foreign",
       "country": "US",
-      "mbid": "38f0c7ac-46eb-49ca-b3ab-c785ccd05a60",
-      "verificationUrl": "https://musicbrainz.org/artist/38f0c7ac-46eb-49ca-b3ab-c785ccd05a60"
+      "mbid": "56a55378-f155-48de-80a5-d80104221267",
+      "verificationUrl": "https://musicbrainz.org/artist/56a55378-f155-48de-80a5-d80104221267"
+    },
+    {
+      "name": "One Direction",
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "1a425bbd-cca4-4b2c-aeb7-71cb176c828a"
     },
     {
       "name": "aespa",
@@ -446,20 +459,6 @@
       "country": "KR",
       "mbid": "b51c672b-85e0-48fe-8648-470a2422229f",
       "verificationUrl": "https://musicbrainz.org/artist/b51c672b-85e0-48fe-8648-470a2422229f"
-    },
-    {
-      "name": "She & Him",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "fb821608-35fd-4a45-a4b2-1a0537cee111",
-      "verificationUrl": "https://musicbrainz.org/artist/fb821608-35fd-4a45-a4b2-1a0537cee111"
-    },
-    {
-      "name": "Chappell Roan",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "56a55378-f155-48de-80a5-d80104221267",
-      "verificationUrl": "https://musicbrainz.org/artist/56a55378-f155-48de-80a5-d80104221267"
     },
     {
       "name": "ILLIT",
@@ -474,13 +473,14 @@
       "verificationUrl": "https://musicbrainz.org/artist/51c76d97-0635-433c-b26d-66beb81657f8"
     },
     {
-      "name": "Rex Orange County",
-      "status": "unverified",
-      "reason": "country_missing",
-      "mbid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87"
+      "name": "TV Girl",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "38f0c7ac-46eb-49ca-b3ab-c785ccd05a60",
+      "verificationUrl": "https://musicbrainz.org/artist/38f0c7ac-46eb-49ca-b3ab-c785ccd05a60"
     },
     {
-      "name": "Marcell",
+      "name": "Joji",
       "status": "unverified",
       "reason": "ambiguous_name"
     },
@@ -491,6 +491,45 @@
       "mbid": "7a3970c9-ecd8-4eee-a267-4d8c77d97ff3"
     },
     {
+      "name": "Lauv",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+      "verificationUrl": "https://musicbrainz.org/artist/c0ef2ba5-a7b7-40ea-bd27-30acccfcac11"
+    },
+    {
+      "name": "Marcell",
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    },
+    {
+      "name": "Olivia Dean",
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "15e0d608-0869-429b-898d-3d8db3ecedd5",
+      "verificationUrl": "https://musicbrainz.org/artist/15e0d608-0869-429b-898d-3d8db3ecedd5"
+    },
+    {
+      "name": "The Walters",
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "61cdb045-7f89-4eb1-b3ed-35db94d9ab99"
+    },
+    {
+      "name": "Nadhif Basalamah",
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "ccbc2142-b78c-4f52-b5a5-e4869910c123",
+      "verificationUrl": "https://musicbrainz.org/artist/ccbc2142-b78c-4f52-b5a5-e4869910c123"
+    },
+    {
+      "name": "Cup of Joe",
+      "status": "foreign",
+      "country": "PH",
+      "mbid": "430df530-9866-4a30-9381-67ee3f79e3c7",
+      "verificationUrl": "https://musicbrainz.org/artist/430df530-9866-4a30-9381-67ee3f79e3c7"
+    },
+    {
       "name": "Tame Impala",
       "status": "foreign",
       "country": "AU",
@@ -498,16 +537,10 @@
       "verificationUrl": "https://musicbrainz.org/artist/63aa26c3-d59b-4da4-84ac-716b54f1ef4d"
     },
     {
-      "name": "Joji",
+      "name": "beabadoobee",
       "status": "unverified",
-      "reason": "ambiguous_name"
-    },
-    {
-      "name": "Naykilla",
-      "status": "indonesian",
-      "country": "ID",
-      "mbid": "06c095fd-512a-4bcd-9c0c-1bda68b29848",
-      "verificationUrl": "https://musicbrainz.org/artist/06c095fd-512a-4bcd-9c0c-1bda68b29848"
+      "reason": "country_missing",
+      "mbid": "88d17133-abbc-42db-9526-4e2c1db60336"
     },
     {
       "name": "Lizzy McAlpine",
@@ -516,11 +549,11 @@
       "mbid": "ee0b11de-0c8a-4267-9886-198f4579e1db"
     },
     {
-      "name": "girl in red",
-      "status": "foreign",
-      "country": "NO",
-      "mbid": "4ae429fe-735c-4968-8253-a591421b1bd0",
-      "verificationUrl": "https://musicbrainz.org/artist/4ae429fe-735c-4968-8253-a591421b1bd0"
+      "name": "Naykilla",
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "06c095fd-512a-4bcd-9c0c-1bda68b29848",
+      "verificationUrl": "https://musicbrainz.org/artist/06c095fd-512a-4bcd-9c0c-1bda68b29848"
     },
     {
       "name": "KATSEYE",
@@ -537,76 +570,30 @@
       "verificationUrl": "https://musicbrainz.org/artist/f7441bc7-d7de-4813-a2fc-31a4033d396d"
     },
     {
-      "name": "beabadoobee",
-      "status": "unverified",
-      "reason": "country_missing",
-      "mbid": "88d17133-abbc-42db-9526-4e2c1db60336"
-    },
-    {
-      "name": "Lauv",
+      "name": "Jeff Buckley",
       "status": "foreign",
       "country": "US",
-      "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
-      "verificationUrl": "https://musicbrainz.org/artist/c0ef2ba5-a7b7-40ea-bd27-30acccfcac11"
+      "mbid": "e6e879c0-3d56-4f12-b3c5-3ce459661a8e",
+      "verificationUrl": "https://musicbrainz.org/artist/e6e879c0-3d56-4f12-b3c5-3ce459661a8e"
     },
     {
-      "name": "Ricky Montgomery",
-      "status": "unverified",
-      "reason": "country_missing",
-      "mbid": "c1f1cf38-1fee-4106-871d-ac392a28b91a"
-    },
-    {
-      "name": "Evanescence",
+      "name": "girl in red",
       "status": "foreign",
-      "country": "US",
-      "mbid": "f4a31f0a-51dd-4fa7-986d-3095c40c5ed9",
-      "verificationUrl": "https://musicbrainz.org/artist/f4a31f0a-51dd-4fa7-986d-3095c40c5ed9"
+      "country": "NO",
+      "mbid": "4ae429fe-735c-4968-8253-a591421b1bd0",
+      "verificationUrl": "https://musicbrainz.org/artist/4ae429fe-735c-4968-8253-a591421b1bd0"
     },
     {
-      "name": "Cup of Joe",
-      "status": "foreign",
-      "country": "PH",
-      "mbid": "430df530-9866-4a30-9381-67ee3f79e3c7",
-      "verificationUrl": "https://musicbrainz.org/artist/430df530-9866-4a30-9381-67ee3f79e3c7"
-    },
-    {
-      "name": "Olivia Dean",
-      "status": "foreign",
-      "country": "GB",
-      "mbid": "15e0d608-0869-429b-898d-3d8db3ecedd5",
-      "verificationUrl": "https://musicbrainz.org/artist/15e0d608-0869-429b-898d-3d8db3ecedd5"
-    },
-    {
-      "name": "Laufey",
-      "status": "foreign",
-      "country": "IS",
-      "mbid": "21a89505-10a9-4ac0-8388-833bc07b9f86",
-      "verificationUrl": "https://musicbrainz.org/artist/21a89505-10a9-4ac0-8388-833bc07b9f86"
-    },
-    {
-      "name": "Nadhif Basalamah",
-      "status": "indonesian",
-      "country": "ID",
-      "mbid": "ccbc2142-b78c-4f52-b5a5-e4869910c123",
-      "verificationUrl": "https://musicbrainz.org/artist/ccbc2142-b78c-4f52-b5a5-e4869910c123"
-    },
-    {
-      "name": "The Walters",
-      "status": "unverified",
-      "reason": "country_missing",
-      "mbid": "61cdb045-7f89-4eb1-b3ed-35db94d9ab99"
-    },
-    {
-      "name": "Miguel",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "285e1285-aecc-478f-a8da-0c8cf69e1217",
-      "verificationUrl": "https://musicbrainz.org/artist/285e1285-aecc-478f-a8da-0c8cf69e1217"
-    },
-    {
-      "name": "Oasis",
+      "name": "Taylor Swift",
       "status": "unverified",
       "reason": "ambiguous_name"
+    },
+    {
+      "name": "Hoobastank",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "2fa0d3ac-b64c-401a-b0a1-4915ba6cc157",
+      "verificationUrl": "https://musicbrainz.org/artist/2fa0d3ac-b64c-401a-b0a1-4915ba6cc157"
     },
     {
       "name": "Kahitna",
@@ -616,6 +603,26 @@
       "verificationUrl": "https://musicbrainz.org/artist/d9190b3f-3888-4cf9-b60e-25af432e5450"
     },
     {
+      "name": "Miguel",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "285e1285-aecc-478f-a8da-0c8cf69e1217",
+      "verificationUrl": "https://musicbrainz.org/artist/285e1285-aecc-478f-a8da-0c8cf69e1217"
+    },
+    {
+      "name": "Evanescence",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "f4a31f0a-51dd-4fa7-986d-3095c40c5ed9",
+      "verificationUrl": "https://musicbrainz.org/artist/f4a31f0a-51dd-4fa7-986d-3095c40c5ed9"
+    },
+    {
+      "name": "Ricky Montgomery",
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "c1f1cf38-1fee-4106-871d-ac392a28b91a"
+    },
+    {
       "name": "Tyler, The Creator",
       "status": "foreign",
       "country": "US",
@@ -623,18 +630,16 @@
       "verificationUrl": "https://musicbrainz.org/artist/f6beac20-5dfe-4d1f-ae02-0b0a740aafd6"
     },
     {
-      "name": "Jeff Buckley",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "e6e879c0-3d56-4f12-b3c5-3ce459661a8e",
-      "verificationUrl": "https://musicbrainz.org/artist/e6e879c0-3d56-4f12-b3c5-3ce459661a8e"
+      "name": "IVE",
+      "status": "unverified",
+      "reason": "ambiguous_name"
     },
     {
-      "name": "The Chainsmokers",
+      "name": "Laufey",
       "status": "foreign",
-      "country": "US",
-      "mbid": "91a81925-92f9-4fc9-b897-93cf01226282",
-      "verificationUrl": "https://musicbrainz.org/artist/91a81925-92f9-4fc9-b897-93cf01226282"
+      "country": "IS",
+      "mbid": "21a89505-10a9-4ac0-8388-833bc07b9f86",
+      "verificationUrl": "https://musicbrainz.org/artist/21a89505-10a9-4ac0-8388-833bc07b9f86"
     },
     {
       "name": "Noah",
@@ -649,37 +654,10 @@
       "verificationUrl": "https://musicbrainz.org/artist/650e7db6-b795-4eb5-a702-5ea2fc46c848"
     },
     {
-      "name": "Sufjan Stevens",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c",
-      "verificationUrl": "https://musicbrainz.org/artist/01d3c51b-9b98-418a-8d8e-37f6fab59d8c"
-    },
-    {
-      "name": "Taylor Swift",
+      "name": "Dominic Fike",
       "status": "unverified",
-      "reason": "ambiguous_name"
-    },
-    {
-      "name": "Her's",
-      "status": "foreign",
-      "country": "GB",
-      "mbid": "da357978-095d-4621-a7ee-2c0f336c5e8a",
-      "verificationUrl": "https://musicbrainz.org/artist/da357978-095d-4621-a7ee-2c0f336c5e8a"
-    },
-    {
-      "name": "Frank Ocean",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
-      "verificationUrl": "https://musicbrainz.org/artist/e520459c-dff4-491d-a6e4-c97be35e0044"
-    },
-    {
-      "name": "Hoobastank",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "2fa0d3ac-b64c-401a-b0a1-4915ba6cc157",
-      "verificationUrl": "https://musicbrainz.org/artist/2fa0d3ac-b64c-401a-b0a1-4915ba6cc157"
+      "reason": "country_missing",
+      "mbid": "e337c918-098f-418e-97a2-81dc224b1bf9"
     },
     {
       "name": "Maroon 5",
@@ -689,29 +667,6 @@
       "verificationUrl": "https://musicbrainz.org/artist/0ab49580-c84f-44d4-875f-d83760ea2cfe"
     },
     {
-      "name": "IVE",
-      "status": "unverified",
-      "reason": "ambiguous_name"
-    },
-    {
-      "name": "The Killers",
-      "status": "unverified",
-      "reason": "ambiguous_name"
-    },
-    {
-      "name": "SZA",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "272989c8-5535-492d-a25c-9f58803e027f",
-      "verificationUrl": "https://musicbrainz.org/artist/272989c8-5535-492d-a25c-9f58803e027f"
-    },
-    {
-      "name": "Dominic Fike",
-      "status": "unverified",
-      "reason": "country_missing",
-      "mbid": "e337c918-098f-418e-97a2-81dc224b1bf9"
-    },
-    {
       "name": "Phoebe Bridgers",
       "status": "foreign",
       "country": "US",
@@ -719,11 +674,11 @@
       "verificationUrl": "https://musicbrainz.org/artist/96855c21-b832-4366-ba12-0d2330c36a86"
     },
     {
-      "name": "Sabrina Carpenter",
+      "name": "The Chainsmokers",
       "status": "foreign",
       "country": "US",
-      "mbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
-      "verificationUrl": "https://musicbrainz.org/artist/1882fe91-cdd9-49c9-9956-8e06a3810bd4"
+      "mbid": "91a81925-92f9-4fc9-b897-93cf01226282",
+      "verificationUrl": "https://musicbrainz.org/artist/91a81925-92f9-4fc9-b897-93cf01226282"
     },
     {
       "name": "The Lantis",
@@ -733,11 +688,22 @@
       "verificationUrl": "https://musicbrainz.org/artist/676a26c4-dd64-4b35-b614-9ad4e2c30416"
     },
     {
-      "name": "Omar Apollo",
+      "name": "Oasis",
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    },
+    {
+      "name": "dhruv",
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "57f8c80b-7255-4913-a096-713c6c6c51b4"
+    },
+    {
+      "name": "Frank Ocean",
       "status": "foreign",
       "country": "US",
-      "mbid": "0b966a38-5ad9-43c1-b86b-c07079523165",
-      "verificationUrl": "https://musicbrainz.org/artist/0b966a38-5ad9-43c1-b86b-c07079523165"
+      "mbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
+      "verificationUrl": "https://musicbrainz.org/artist/e520459c-dff4-491d-a6e4-c97be35e0044"
     },
     {
       "name": "Slowdive",
@@ -747,11 +713,70 @@
       "verificationUrl": "https://musicbrainz.org/artist/a16371b9-7d36-497a-a9d4-42b0a0440c5e"
     },
     {
-      "name": "Sheila on 7",
+      "name": "Hivi!",
       "status": "indonesian",
       "country": "ID",
-      "mbid": "f39c0afd-e66a-492b-ab1e-9b6acf98614a",
-      "verificationUrl": "https://musicbrainz.org/artist/f39c0afd-e66a-492b-ab1e-9b6acf98614a"
+      "mbid": "e7a38829-94ea-47e8-9010-b27446b4cc6c",
+      "verificationUrl": "https://musicbrainz.org/artist/e7a38829-94ea-47e8-9010-b27446b4cc6c"
+    },
+    {
+      "name": "Her's",
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "da357978-095d-4621-a7ee-2c0f336c5e8a",
+      "verificationUrl": "https://musicbrainz.org/artist/da357978-095d-4621-a7ee-2c0f336c5e8a"
+    },
+    {
+      "name": "Sabrina Carpenter",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
+      "verificationUrl": "https://musicbrainz.org/artist/1882fe91-cdd9-49c9-9956-8e06a3810bd4"
+    },
+    {
+      "name": "Sufjan Stevens",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c",
+      "verificationUrl": "https://musicbrainz.org/artist/01d3c51b-9b98-418a-8d8e-37f6fab59d8c"
+    },
+    {
+      "name": "Charlie Puth",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+      "verificationUrl": "https://musicbrainz.org/artist/525f1f1c-03f0-4bc8-8dfd-e7521f87631b"
+    },
+    {
+      "name": "SZA",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+      "verificationUrl": "https://musicbrainz.org/artist/272989c8-5535-492d-a25c-9f58803e027f"
+    },
+    {
+      "name": "The Killers",
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    },
+    {
+      "name": "Dua Lipa",
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+      "verificationUrl": "https://musicbrainz.org/artist/6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f"
+    },
+    {
+      "name": "The Police",
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    },
+    {
+      "name": "Pamungkas",
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "5ff9766f-828e-4078-8e0f-f67c31e5b527",
+      "verificationUrl": "https://musicbrainz.org/artist/5ff9766f-828e-4078-8e0f-f67c31e5b527"
     },
     {
       "name": "Mac DeMarco",
@@ -761,28 +786,31 @@
       "verificationUrl": "https://musicbrainz.org/artist/f2492c31-54a8-4347-a1fc-f81f72873bbf"
     },
     {
-      "name": "dhruv",
-      "status": "unverified",
-      "reason": "country_missing",
-      "mbid": "57f8c80b-7255-4913-a096-713c6c6c51b4"
-    },
-    {
       "name": "PinkPantheress",
       "status": "unverified",
       "reason": "country_missing",
       "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d"
     },
     {
-      "name": "Hivi!",
+      "name": "Sheila on 7",
       "status": "indonesian",
       "country": "ID",
-      "mbid": "e7a38829-94ea-47e8-9010-b27446b4cc6c",
-      "verificationUrl": "https://musicbrainz.org/artist/e7a38829-94ea-47e8-9010-b27446b4cc6c"
+      "mbid": "f39c0afd-e66a-492b-ab1e-9b6acf98614a",
+      "verificationUrl": "https://musicbrainz.org/artist/f39c0afd-e66a-492b-ab1e-9b6acf98614a"
     },
     {
-      "name": "The Police",
-      "status": "unverified",
-      "reason": "ambiguous_name"
+      "name": "Avenged Sevenfold",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "24e1b53c-3085-4581-8472-0b0088d2508c",
+      "verificationUrl": "https://musicbrainz.org/artist/24e1b53c-3085-4581-8472-0b0088d2508c"
+    },
+    {
+      "name": "Omar Apollo",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "0b966a38-5ad9-43c1-b86b-c07079523165",
+      "verificationUrl": "https://musicbrainz.org/artist/0b966a38-5ad9-43c1-b86b-c07079523165"
     },
     {
       "name": "Kanye West",
@@ -795,13 +823,6 @@
       "reason": "ambiguous_name"
     },
     {
-      "name": "Avenged Sevenfold",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "24e1b53c-3085-4581-8472-0b0088d2508c",
-      "verificationUrl": "https://musicbrainz.org/artist/24e1b53c-3085-4581-8472-0b0088d2508c"
-    },
-    {
       "name": "Mazzy Star",
       "status": "foreign",
       "country": "US",
@@ -809,25 +830,9 @@
       "verificationUrl": "https://musicbrainz.org/artist/c48d4327-8122-4286-af66-05e1ee6ac4d8"
     },
     {
-      "name": "Keyshia Cole",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "ef73e6ed-9096-4ddb-9799-b94874d0ce33",
-      "verificationUrl": "https://musicbrainz.org/artist/ef73e6ed-9096-4ddb-9799-b94874d0ce33"
-    },
-    {
-      "name": "For Revenge",
-      "status": "indonesian",
-      "country": "ID",
-      "mbid": "3058e843-fba5-4d7a-a1fa-c3a057d0da9b",
-      "verificationUrl": "https://musicbrainz.org/artist/3058e843-fba5-4d7a-a1fa-c3a057d0da9b"
-    },
-    {
-      "name": "Charlie Puth",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
-      "verificationUrl": "https://musicbrainz.org/artist/525f1f1c-03f0-4bc8-8dfd-e7521f87631b"
+      "name": "New West",
+      "status": "unverified",
+      "reason": "ambiguous_name"
     },
     {
       "name": "Payung Teduh",
@@ -837,39 +842,9 @@
       "verificationUrl": "https://musicbrainz.org/artist/aaa019b7-d9ac-4cc3-a35e-0e0cebb6a8bc"
     },
     {
-      "name": "New West",
-      "status": "unverified",
-      "reason": "ambiguous_name"
-    },
-    {
-      "name": "Dua Lipa",
-      "status": "foreign",
-      "country": "GB",
-      "mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
-      "verificationUrl": "https://musicbrainz.org/artist/6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f"
-    },
-    {
-      "name": "Pamungkas",
-      "status": "indonesian",
-      "country": "ID",
-      "mbid": "5ff9766f-828e-4078-8e0f-f67c31e5b527",
-      "verificationUrl": "https://musicbrainz.org/artist/5ff9766f-828e-4078-8e0f-f67c31e5b527"
-    },
-    {
       "name": "Lisa",
       "status": "unverified",
       "reason": "ambiguous_name"
-    },
-    {
-      "name": "TWICE",
-      "status": "unverified",
-      "reason": "ambiguous_name"
-    },
-    {
-      "name": "Temper City",
-      "status": "unverified",
-      "reason": "country_missing",
-      "mbid": "c74a9a82-29bf-486d-bf93-b4516ac3e338"
     },
     {
       "name": "Conan Gray",
@@ -879,6 +854,48 @@
       "verificationUrl": "https://musicbrainz.org/artist/850a8b03-98a7-4fd3-afbd-5e5520b4ef5f"
     },
     {
+      "name": "Temper City",
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "c74a9a82-29bf-486d-bf93-b4516ac3e338"
+    },
+    {
+      "name": "For Revenge",
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "3058e843-fba5-4d7a-a1fa-c3a057d0da9b",
+      "verificationUrl": "https://musicbrainz.org/artist/3058e843-fba5-4d7a-a1fa-c3a057d0da9b"
+    },
+    {
+      "name": "TWICE",
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    },
+    {
+      "name": "Keyshia Cole",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "ef73e6ed-9096-4ddb-9799-b94874d0ce33",
+      "verificationUrl": "https://musicbrainz.org/artist/ef73e6ed-9096-4ddb-9799-b94874d0ce33"
+    },
+    {
+      "name": "The Smiths",
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    },
+    {
+      "name": "Twenty One Pilots",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+      "verificationUrl": "https://musicbrainz.org/artist/a6c6897a-7415-4f8d-b5a5-3a5e05f3be67"
+    },
+    {
+      "name": "Tinashe",
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    },
+    {
       "name": "Dongker",
       "status": "indonesian",
       "country": "ID",
@@ -886,18 +903,34 @@
       "verificationUrl": "https://musicbrainz.org/artist/305f5994-7ae7-4d22-88c6-117cb7a29c5f"
     },
     {
-      "name": "Ten2Five",
-      "status": "indonesian",
-      "country": "ID",
-      "mbid": "79da84d8-b138-4164-89e0-862b96240ffa",
-      "verificationUrl": "https://musicbrainz.org/artist/79da84d8-b138-4164-89e0-862b96240ffa"
+      "name": "Suki Waterhouse",
+      "status": "foreign",
+      "country": "GB",
+      "mbid": "8389ff77-a7a4-4ba4-bf1b-17ded47d41a1",
+      "verificationUrl": "https://musicbrainz.org/artist/8389ff77-a7a4-4ba4-bf1b-17ded47d41a1"
     },
     {
-      "name": "Sixpence None the Richer",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "c2c70ed6-5f10-445c-969f-2c16bc9a4c2e",
-      "verificationUrl": "https://musicbrainz.org/artist/c2c70ed6-5f10-445c-969f-2c16bc9a4c2e"
+      "name": "Dewa 19",
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "a36d5b2b-ccd3-47ec-83fb-73bd69f5687c",
+      "verificationUrl": "https://musicbrainz.org/artist/a36d5b2b-ccd3-47ec-83fb-73bd69f5687c"
+    },
+    {
+      "name": "Lany",
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    },
+    {
+      "name": "Sidney Gish",
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "9cfabb8c-24a3-498d-b383-bb5324cfe30f"
+    },
+    {
+      "name": "Mac Miller",
+      "status": "unverified",
+      "reason": "ambiguous_name"
     },
     {
       "name": "Nidji",
@@ -912,40 +945,11 @@
       "reason": "ambiguous_name"
     },
     {
-      "name": "Suki Waterhouse",
-      "status": "foreign",
-      "country": "GB",
-      "mbid": "8389ff77-a7a4-4ba4-bf1b-17ded47d41a1",
-      "verificationUrl": "https://musicbrainz.org/artist/8389ff77-a7a4-4ba4-bf1b-17ded47d41a1"
-    },
-    {
-      "name": "Tinashe",
-      "status": "unverified",
-      "reason": "ambiguous_name"
-    },
-    {
-      "name": "Charli xcx",
-      "status": "unverified",
-      "reason": "country_missing",
-      "mbid": "260b6184-8828-48eb-945c-bc4cb6fc34ca"
-    },
-    {
-      "name": "Sidney Gish",
-      "status": "unverified",
-      "reason": "country_missing",
-      "mbid": "9cfabb8c-24a3-498d-b383-bb5324cfe30f"
-    },
-    {
-      "name": "Mac Miller",
-      "status": "unverified",
-      "reason": "ambiguous_name"
-    },
-    {
-      "name": "Twenty One Pilots",
+      "name": "Sixpence None the Richer",
       "status": "foreign",
       "country": "US",
-      "mbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
-      "verificationUrl": "https://musicbrainz.org/artist/a6c6897a-7415-4f8d-b5a5-3a5e05f3be67"
+      "mbid": "c2c70ed6-5f10-445c-969f-2c16bc9a4c2e",
+      "verificationUrl": "https://musicbrainz.org/artist/c2c70ed6-5f10-445c-969f-2c16bc9a4c2e"
     },
     {
       "name": "Ifan Seventeen",
@@ -955,23 +959,11 @@
       "verificationUrl": "https://musicbrainz.org/artist/009c06cd-e360-4fcf-b3d8-2ef370b58b93"
     },
     {
-      "name": "Dewa 19",
+      "name": "Ten2Five",
       "status": "indonesian",
       "country": "ID",
-      "mbid": "a36d5b2b-ccd3-47ec-83fb-73bd69f5687c",
-      "verificationUrl": "https://musicbrainz.org/artist/a36d5b2b-ccd3-47ec-83fb-73bd69f5687c"
-    },
-    {
-      "name": "Panchiko",
-      "status": "foreign",
-      "country": "GB",
-      "mbid": "8f64d6ea-3f6c-408c-b2e0-e5334b28dae9",
-      "verificationUrl": "https://musicbrainz.org/artist/8f64d6ea-3f6c-408c-b2e0-e5334b28dae9"
-    },
-    {
-      "name": "The Smiths",
-      "status": "unverified",
-      "reason": "ambiguous_name"
+      "mbid": "79da84d8-b138-4164-89e0-862b96240ffa",
+      "verificationUrl": "https://musicbrainz.org/artist/79da84d8-b138-4164-89e0-862b96240ffa"
     },
     {
       "name": "Kendrick Lamar",
@@ -988,23 +980,17 @@
       "verificationUrl": "https://musicbrainz.org/artist/2d623e82-73e2-4179-9c44-e963980f2d58"
     },
     {
-      "name": "Lany",
-      "status": "unverified",
-      "reason": "ambiguous_name"
-    },
-    {
-      "name": "ENHYPEN",
-      "status": "foreign",
-      "country": "KR",
-      "mbid": "95663592-1447-4579-90f7-c94733476667",
-      "verificationUrl": "https://musicbrainz.org/artist/95663592-1447-4579-90f7-c94733476667"
-    },
-    {
-      "name": "Beach House",
+      "name": "P!nk",
       "status": "foreign",
       "country": "US",
-      "mbid": "d5cc67b8-1cc4-453b-96e8-44487acdebea",
-      "verificationUrl": "https://musicbrainz.org/artist/d5cc67b8-1cc4-453b-96e8-44487acdebea"
+      "mbid": "f4d5cc07-3bc9-4836-9b15-88a08359bc63",
+      "verificationUrl": "https://musicbrainz.org/artist/f4d5cc07-3bc9-4836-9b15-88a08359bc63"
+    },
+    {
+      "name": "Charli xcx",
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "260b6184-8828-48eb-945c-bc4cb6fc34ca"
     },
     {
       "name": "The Strokes",
@@ -1014,11 +1000,11 @@
       "verificationUrl": "https://musicbrainz.org/artist/f181961b-20f7-459e-89de-920ef03c7ed0"
     },
     {
-      "name": "P!nk",
-      "status": "foreign",
-      "country": "US",
-      "mbid": "f4d5cc07-3bc9-4836-9b15-88a08359bc63",
-      "verificationUrl": "https://musicbrainz.org/artist/f4d5cc07-3bc9-4836-9b15-88a08359bc63"
+      "name": "Nadin Amizah",
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "b123f290-a519-4618-a3b0-8ec03e53e027",
+      "verificationUrl": "https://musicbrainz.org/artist/b123f290-a519-4618-a3b0-8ec03e53e027"
     },
     {
       "name": "Lana Del Rey",
@@ -1026,11 +1012,11 @@
       "reason": "ambiguous_name"
     },
     {
-      "name": "Nadin Amizah",
-      "status": "indonesian",
-      "country": "ID",
-      "mbid": "b123f290-a519-4618-a3b0-8ec03e53e027",
-      "verificationUrl": "https://musicbrainz.org/artist/b123f290-a519-4618-a3b0-8ec03e53e027"
+      "name": "BABYMONSTER",
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "5829cd4f-e693-4b03-abe5-1226243c23d6",
+      "verificationUrl": "https://musicbrainz.org/artist/5829cd4f-e693-4b03-abe5-1226243c23d6"
     },
     {
       "name": "Chase Atlantic",
@@ -1040,11 +1026,6 @@
       "verificationUrl": "https://musicbrainz.org/artist/ecab255c-3af3-4154-87ec-2685041ce297"
     },
     {
-      "name": "Nirvana",
-      "status": "unverified",
-      "reason": "ambiguous_name"
-    },
-    {
       "name": "Alkateri",
       "status": "indonesian",
       "country": "ID",
@@ -1052,23 +1033,23 @@
       "verificationUrl": "https://musicbrainz.org/artist/680723e4-28da-4889-bca7-e05517ba10b4"
     },
     {
-      "name": "Piche Kota",
-      "status": "indonesian",
-      "country": "ID",
-      "mbid": "8b6b1a9d-e111-40a7-b4dc-0defea4d4e48",
-      "verificationUrl": "https://musicbrainz.org/artist/8b6b1a9d-e111-40a7-b4dc-0defea4d4e48"
-    },
-    {
-      "name": "Lealona",
-      "status": "unverified",
-      "reason": "artist_not_found"
-    },
-    {
-      "name": "keshi",
+      "name": "Panchiko",
       "status": "foreign",
-      "country": "US",
-      "mbid": "ee74db56-c264-4c23-9504-29e2d8078f36",
-      "verificationUrl": "https://musicbrainz.org/artist/ee74db56-c264-4c23-9504-29e2d8078f36"
+      "country": "GB",
+      "mbid": "8f64d6ea-3f6c-408c-b2e0-e5334b28dae9",
+      "verificationUrl": "https://musicbrainz.org/artist/8f64d6ea-3f6c-408c-b2e0-e5334b28dae9"
+    },
+    {
+      "name": "ENHYPEN",
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "95663592-1447-4579-90f7-c94733476667",
+      "verificationUrl": "https://musicbrainz.org/artist/95663592-1447-4579-90f7-c94733476667"
+    },
+    {
+      "name": "Cafuné",
+      "status": "unverified",
+      "reason": "ambiguous_name"
     },
     {
       "name": "Tuide",
@@ -1078,6 +1059,32 @@
       "verificationUrl": "https://musicbrainz.org/artist/6cb31c35-8fab-4e23-997e-387b0d589d13"
     },
     {
+      "name": "Prince",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "070d193a-845c-479f-980e-bef15710653e",
+      "verificationUrl": "https://musicbrainz.org/artist/070d193a-845c-479f-980e-bef15710653e"
+    },
+    {
+      "name": "Zedd",
+      "status": "foreign",
+      "country": "DE",
+      "mbid": "56c4b861-0922-4c3a-a9b9-3bfcb00f8274",
+      "verificationUrl": "https://musicbrainz.org/artist/56c4b861-0922-4c3a-a9b9-3bfcb00f8274"
+    },
+    {
+      "name": "Ed Sheeran",
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    },
+    {
+      "name": "keshi",
+      "status": "foreign",
+      "country": "US",
+      "mbid": "ee74db56-c264-4c23-9504-29e2d8078f36",
+      "verificationUrl": "https://musicbrainz.org/artist/ee74db56-c264-4c23-9504-29e2d8078f36"
+    },
+    {
       "name": "ATEEZ",
       "status": "foreign",
       "country": "KR",
@@ -1085,248 +1092,207 @@
       "verificationUrl": "https://musicbrainz.org/artist/cf0dbc16-4e24-4957-b5b4-955c8978f690"
     },
     {
-      "name": "Cafuné",
+      "name": "Lealona",
       "status": "unverified",
-      "reason": "ambiguous_name"
-    },
-    {
-      "name": "Andra & The Backbone",
-      "status": "indonesian",
-      "country": "ID",
-      "mbid": "f2a5a7a1-5274-437f-a760-bab4b3d50b90",
-      "verificationUrl": "https://musicbrainz.org/artist/f2a5a7a1-5274-437f-a760-bab4b3d50b90"
-    },
-    {
-      "name": "Eleanor Whisper",
-      "status": "indonesian",
-      "country": "ID",
-      "mbid": "339a327f-e1bb-46c7-95c1-e06daa174ca9",
-      "verificationUrl": "https://musicbrainz.org/artist/339a327f-e1bb-46c7-95c1-e06daa174ca9"
-    },
-    {
-      "name": "Masdo",
-      "status": "foreign",
-      "country": "MY",
-      "mbid": "f87dfa35-e8f4-48d8-89c0-ccaefbd32bc3",
-      "verificationUrl": "https://musicbrainz.org/artist/f87dfa35-e8f4-48d8-89c0-ccaefbd32bc3"
+      "reason": "artist_not_found"
     }
   ],
   "ambiguous": [],
   "unmatchedIndonesianTracks": [
     {
-      "rank": 57,
+      "rank": 58,
       "title": "A Sorrowful Reunion",
       "artist": "Reality Club"
     },
     {
-      "rank": 91,
+      "rank": 85,
       "title": "Panasea",
       "artist": "rumahsakit"
     },
     {
-      "rank": 94,
+      "rank": 103,
       "title": "Magnolia",
       "artist": "Magnolia Celebration"
     },
     {
-      "rank": 114,
+      "rank": 108,
       "title": "Cincin",
       "artist": "Hindia"
     },
     {
-      "rank": 148,
+      "rank": 132,
       "title": "2112",
       "artist": "Reality Club"
     },
     {
-      "rank": 181,
-      "title": "Alexandra",
-      "artist": "Reality Club"
+      "rank": 174,
+      "title": "MMG (My Mine Gueh)",
+      "artist": "Naykilla"
     },
     {
-      "rank": 188,
-      "title": "kota ini tak sama tanpamu",
-      "artist": "Nadhif Basalamah"
+      "rank": 175,
+      "title": "Rumah Ke Rumah",
+      "artist": "Hindia"
     },
     {
-      "rank": 203,
+      "rank": 189,
       "title": "Titik Nadir (feat. Monita Tahalea)",
       "artist": "Kahitna"
     },
     {
-      "rank": 222,
-      "title": "bergema sampai selamanya",
-      "artist": "Nadhif Basalamah"
-    },
-    {
-      "rank": 246,
+      "rank": 224,
       "title": "Bunga Maaf",
       "artist": "The Lantis"
     },
     {
-      "rank": 253,
-      "title": "Sandiwara Semu",
-      "artist": "rumahsakit"
+      "rank": 228,
+      "title": "bergema sampai selamanya",
+      "artist": "Nadhif Basalamah"
     },
     {
-      "rank": 254,
-      "title": "Dan...",
-      "artist": "Sheila on 7"
-    },
-    {
-      "rank": 261,
-      "title": "Kuning",
-      "artist": "rumahsakit"
-    },
-    {
-      "rank": 272,
+      "rank": 234,
       "title": "Pelangi",
       "artist": "Hivi!"
     },
     {
-      "rank": 275,
-      "title": "Kita usahakan rumah itu",
-      "artist": "Sal Priadi"
+      "rank": 246,
+      "title": "Kuning",
+      "artist": "rumahsakit"
     },
     {
-      "rank": 292,
-      "title": "Am I Bothering You?",
-      "artist": "Reality Club"
-    },
-    {
-      "rank": 298,
-      "title": "Serana",
-      "artist": "For Revenge"
-    },
-    {
-      "rank": 308,
-      "title": "Untuk Perempuan yang Sedang di Pelukan",
-      "artist": "Payung Teduh"
-    },
-    {
-      "rank": 313,
+      "rank": 261,
       "title": "Berapa Kali Kita Akan Saling Memaafkan",
       "artist": "Pamungkas"
     },
     {
-      "rank": 318,
+      "rank": 272,
+      "title": "Sandiwara Semu",
+      "artist": "rumahsakit"
+    },
+    {
+      "rank": 275,
+      "title": "Dan...",
+      "artist": "Sheila on 7"
+    },
+    {
+      "rank": 286,
+      "title": "Am I Bothering You?",
+      "artist": "Reality Club"
+    },
+    {
+      "rank": 287,
+      "title": "Kita usahakan rumah itu",
+      "artist": "Sal Priadi"
+    },
+    {
+      "rank": 307,
       "title": "Kita Ke Sana",
       "artist": "Hindia"
     },
     {
-      "rank": 338,
-      "title": "Soulmate",
-      "artist": "Kahitna"
+      "rank": 309,
+      "title": "Untuk Perempuan yang Sedang di Pelukan",
+      "artist": "Payung Teduh"
     },
     {
-      "rank": 346,
+      "rank": 314,
       "title": "Bersenja Gurau",
       "artist": "Raim Laode"
     },
     {
-      "rank": 357,
-      "title": "Gemilang",
-      "artist": "Perunggu"
+      "rank": 324,
+      "title": "Serana",
+      "artist": "For Revenge"
     },
     {
-      "rank": 359,
-      "title": "Lagu Selepas Hujan",
-      "artist": "Dongker"
-    },
-    {
-      "rank": 364,
-      "title": "Akad",
-      "artist": "Payung Teduh"
-    },
-    {
-      "rank": 368,
-      "title": "Hanya Untuk-Mu",
-      "artist": "Ten2Five"
-    },
-    {
-      "rank": 369,
+      "rank": 335,
       "title": "To the Bone",
       "artist": "Pamungkas"
     },
     {
-      "rank": 371,
-      "title": "Rahasia Hati",
-      "artist": "Nidji"
+      "rank": 352,
+      "title": "Gemilang",
+      "artist": "Perunggu"
     },
     {
-      "rank": 381,
-      "title": "disarankan di bandung",
+      "rank": 363,
+      "title": "Lagu Selepas Hujan",
       "artist": "Dongker"
     },
     {
-      "rank": 402,
-      "title": "Jangan Paksa Rindu",
-      "artist": "Ifan Seventeen"
-    },
-    {
-      "rank": 410,
-      "title": "Monolog",
-      "artist": "Pamungkas"
-    },
-    {
-      "rank": 411,
+      "rank": 371,
       "title": "Kangen",
       "artist": "Dewa 19"
     },
     {
-      "rank": 420,
+      "rank": 375,
+      "title": "Soulmate",
+      "artist": "Kahitna"
+    },
+    {
+      "rank": 378,
+      "title": "Rahasia Hati",
+      "artist": "Nidji"
+    },
+    {
+      "rank": 385,
       "title": "Berdansalah, Karir Ini Tak Ada Artinya",
       "artist": "Hindia"
     },
     {
-      "rank": 425,
+      "rank": 389,
+      "title": "disarankan di bandung",
+      "artist": "Dongker"
+    },
+    {
+      "rank": 397,
+      "title": "Jangan Paksa Rindu",
+      "artist": "Ifan Seventeen"
+    },
+    {
+      "rank": 403,
       "title": "Foto kita blur",
       "artist": "Sal Priadi"
     },
     {
-      "rank": 435,
+      "rank": 404,
+      "title": "Hanya Untuk-Mu",
+      "artist": "Ten2Five"
+    },
+    {
+      "rank": 406,
       "title": "Aku Milikmu",
       "artist": "Dewa 19"
     },
     {
-      "rank": 444,
-      "title": "You'll Find Lovers Like You and Me",
-      "artist": "Reality Club"
-    },
-    {
-      "rank": 453,
+      "rank": 417,
       "title": "Lesung Pipi",
       "artist": "Raim Laode"
     },
     {
-      "rank": 457,
+      "rank": 421,
+      "title": "Akad",
+      "artist": "Payung Teduh"
+    },
+    {
+      "rank": 428,
+      "title": "Monolog",
+      "artist": "Pamungkas"
+    },
+    {
+      "rank": 430,
+      "title": "You'll Find Lovers Like You and Me",
+      "artist": "Reality Club"
+    },
+    {
+      "rank": 432,
       "title": "Bertaut",
       "artist": "Nadin Amizah"
     },
     {
-      "rank": 468,
+      "rank": 450,
       "title": "Egosentris",
       "artist": "Alkateri"
-    },
-    {
-      "rank": 474,
-      "title": "Siapkah Kau 'Tuk Jatuh Cinta Lagi",
-      "artist": "Hivi!"
-    },
-    {
-      "rank": 479,
-      "title": "Bahagia Lagi",
-      "artist": "Piche Kota"
-    },
-    {
-      "rank": 495,
-      "title": "Sempurna",
-      "artist": "Andra & The Backbone"
-    },
-    {
-      "rank": 498,
-      "title": "Lalu Biru",
-      "artist": "Eleanor Whisper"
     }
   ]
 }

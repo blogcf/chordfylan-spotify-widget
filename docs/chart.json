@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-30T02:38:17.725Z",
+  "updatedAt": "2026-10-31T02:25:48.022Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7404,
-  "verifiedIndonesianTracks": 53,
+  "indexedPosts": 7410,
+  "verifiedIndonesianTracks": 49,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 46,
+      "rank": 45,
       "title": "everything u are",
       "artist": "Hindia",
       "articleTitle": "Everything U Are - Hindia",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 46,
       "title": "Terbuang Dalam Waktu",
       "artist": "Barasuara",
       "articleTitle": "Terbuang Dalam Waktu - Barasuara",
@@ -38,7 +38,7 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 52,
       "title": "Anything You Want",
       "artist": "Reality Club",
       "articleTitle": "Anything You Want - Reality Club",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "rank": 64,
+      "rank": 65,
       "title": "Ini Abadi",
       "artist": "Perunggu",
       "articleTitle": "Ini Abadi - Perunggu",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "rank": 85,
+      "rank": 84,
       "title": "Ada titik-titik di ujung doa",
       "artist": "Sal Priadi",
       "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
@@ -80,7 +80,7 @@
       }
     },
     {
-      "rank": 99,
+      "rank": 104,
       "title": "Iqro'",
       "artist": "Raim Laode",
       "articleTitle": "Iqro - Raim Laode",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "rank": 149,
+      "rank": 153,
       "title": "Dunia Yang Nanti",
       "artist": "Raim Laode",
       "articleTitle": "Dunia Yang Nanti - Raim Laode",
@@ -108,7 +108,7 @@
       }
     },
     {
-      "rank": 156,
+      "rank": 157,
       "title": "33x",
       "artist": "Perunggu",
       "articleTitle": "33X - Perunggu",
@@ -122,31 +122,31 @@
       }
     },
     {
-      "rank": 159,
-      "title": "MMG (My Mine Gueh)",
-      "artist": "Naykilla",
-      "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
-      "url": "https://www.chordfylan.com/2026/10/mmg-my-mine-gueh-naykilla.html",
-      "sourceUrl": "https://www.last.fm/music/Naykilla/_/MMG+(My+Mine+Gueh)",
+      "rank": 161,
+      "title": "kota ini tak sama tanpamu",
+      "artist": "Nadhif Basalamah",
+      "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
+      "url": "https://www.chordfylan.com/2026/10/kota-ini-tak-sama-tanpamu-nadhif.html",
+      "sourceUrl": "https://www.last.fm/music/Nadhif+Basalamah/_/kota+ini+tak+sama+tanpamu",
       "matchScore": 1,
       "artistVerification": {
         "provider": "MusicBrainz",
-        "mbid": "06c095fd-512a-4bcd-9c0c-1bda68b29848",
-        "url": "https://musicbrainz.org/artist/06c095fd-512a-4bcd-9c0c-1bda68b29848"
+        "mbid": "ccbc2142-b78c-4f52-b5a5-e4869910c123",
+        "url": "https://musicbrainz.org/artist/ccbc2142-b78c-4f52-b5a5-e4869910c123"
       }
     },
     {
-      "rank": 173,
-      "title": "Rumah Ke Rumah",
-      "artist": "Hindia",
-      "articleTitle": "Rumah Ke Rumah - Hindia",
-      "url": "https://www.chordfylan.com/2020/04/rumah-ke-rumah-hindia.html",
-      "sourceUrl": "https://www.last.fm/music/Hindia/_/Rumah+Ke+Rumah",
+      "rank": 164,
+      "title": "Alexandra",
+      "artist": "Reality Club",
+      "articleTitle": "Alexandra - Reality Club",
+      "url": "https://www.chordfylan.com/2023/05/chord-alexandra-reality-club.html",
+      "sourceUrl": "https://www.last.fm/music/Reality+Club/_/Alexandra",
       "matchScore": 1,
       "artistVerification": {
         "provider": "MusicBrainz",
-        "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
-        "url": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
+        "mbid": "70427aaf-7e0c-46a5-a04f-177eeb98d80e",
+        "url": "https://musicbrainz.org/artist/70427aaf-7e0c-46a5-a04f-177eeb98d80e"
       }
     }
   ]

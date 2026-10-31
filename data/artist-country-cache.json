@@ -1871,5 +1871,25 @@
       "mbid": "f4d5cc07-3bc9-4836-9b15-88a08359bc63",
       "verificationUrl": "https://musicbrainz.org/artist/f4d5cc07-3bc9-4836-9b15-88a08359bc63"
     }
+  },
+  "babymonster": {
+    "name": "BABYMONSTER",
+    "checkedAt": "2026-10-31T02:25:45.086Z",
+    "result": {
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "5829cd4f-e693-4b03-abe5-1226243c23d6",
+      "verificationUrl": "https://musicbrainz.org/artist/5829cd4f-e693-4b03-abe5-1226243c23d6"
+    }
+  },
+  "prince": {
+    "name": "Prince",
+    "checkedAt": "2026-10-31T02:25:46.920Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "070d193a-845c-479f-980e-bef15710653e",
+      "verificationUrl": "https://musicbrainz.org/artist/070d193a-845c-479f-980e-bef15710653e"
+    }
   }
 }
