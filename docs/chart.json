@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-31T02:25:48.022Z",
+  "updatedAt": "2026-11-01T02:15:32.310Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7410,
-  "verifiedIndonesianTracks": 49,
+  "indexedPosts": 7445,
+  "verifiedIndonesianTracks": 50,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 45,
+      "rank": 41,
       "title": "everything u are",
       "artist": "Hindia",
       "articleTitle": "Everything U Are - Hindia",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "rank": 46,
+      "rank": 45,
       "title": "Terbuang Dalam Waktu",
       "artist": "Barasuara",
       "articleTitle": "Terbuang Dalam Waktu - Barasuara",
@@ -38,7 +38,7 @@
       }
     },
     {
-      "rank": 52,
+      "rank": 59,
       "title": "Anything You Want",
       "artist": "Reality Club",
       "articleTitle": "Anything You Want - Reality Club",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "rank": 65,
+      "rank": 60,
       "title": "Ini Abadi",
       "artist": "Perunggu",
       "articleTitle": "Ini Abadi - Perunggu",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "rank": 84,
+      "rank": 85,
       "title": "Ada titik-titik di ujung doa",
       "artist": "Sal Priadi",
       "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
@@ -80,7 +80,7 @@
       }
     },
     {
-      "rank": 104,
+      "rank": 114,
       "title": "Iqro'",
       "artist": "Raim Laode",
       "articleTitle": "Iqro - Raim Laode",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "rank": 153,
+      "rank": 146,
       "title": "Dunia Yang Nanti",
       "artist": "Raim Laode",
       "articleTitle": "Dunia Yang Nanti - Raim Laode",
@@ -108,7 +108,7 @@
       }
     },
     {
-      "rank": 157,
+      "rank": 151,
       "title": "33x",
       "artist": "Perunggu",
       "articleTitle": "33X - Perunggu",
@@ -122,7 +122,7 @@
       }
     },
     {
-      "rank": 161,
+      "rank": 154,
       "title": "kota ini tak sama tanpamu",
       "artist": "Nadhif Basalamah",
       "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
@@ -136,7 +136,7 @@
       }
     },
     {
-      "rank": 164,
+      "rank": 161,
       "title": "Alexandra",
       "artist": "Reality Club",
       "articleTitle": "Alexandra - Reality Club",

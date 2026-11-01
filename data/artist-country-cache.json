@@ -1891,5 +1891,13 @@
       "mbid": "070d193a-845c-479f-980e-bef15710653e",
       "verificationUrl": "https://musicbrainz.org/artist/070d193a-845c-479f-980e-bef15710653e"
     }
+  },
+  "sam smith": {
+    "name": "Sam Smith",
+    "checkedAt": "2026-11-01T02:15:31.211Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
   }
 }
