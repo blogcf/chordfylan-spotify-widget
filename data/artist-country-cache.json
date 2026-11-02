@@ -1899,5 +1899,15 @@
       "status": "unverified",
       "reason": "ambiguous_name"
     }
+  },
+  "fourtwnty": {
+    "name": "Fourtwnty",
+    "checkedAt": "2026-11-02T02:33:43.382Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "4f069764-00ad-4e5c-a87b-4a76e29514b9",
+      "verificationUrl": "https://musicbrainz.org/artist/4f069764-00ad-4e5c-a87b-4a76e29514b9"
+    }
   }
 }
