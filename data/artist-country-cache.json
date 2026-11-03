@@ -1909,5 +1909,14 @@
       "mbid": "4f069764-00ad-4e5c-a87b-4a76e29514b9",
       "verificationUrl": "https://musicbrainz.org/artist/4f069764-00ad-4e5c-a87b-4a76e29514b9"
     }
+  },
+  "cocteau twins": {
+    "name": "Cocteau Twins",
+    "checkedAt": "2026-11-03T03:56:37.634Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "000fc734-b7e1-4a01-92d1-f544261b43f5"
+    }
   }
 }

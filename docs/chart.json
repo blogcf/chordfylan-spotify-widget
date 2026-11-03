@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-02T02:33:44.073Z",
+  "updatedAt": "2026-11-03T03:56:38.773Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7475,
-  "verifiedIndonesianTracks": 51,
+  "indexedPosts": 7496,
+  "verifiedIndonesianTracks": 52,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 42,
+      "rank": 39,
       "title": "Terbuang Dalam Waktu",
       "artist": "Barasuara",
       "articleTitle": "Terbuang Dalam Waktu - Barasuara",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 46,
       "title": "everything u are",
       "artist": "Hindia",
       "articleTitle": "Everything U Are - Hindia",
@@ -38,7 +38,7 @@
       }
     },
     {
-      "rank": 60,
+      "rank": 61,
       "title": "Anything You Want",
       "artist": "Reality Club",
       "articleTitle": "Anything You Want - Reality Club",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "rank": 63,
+      "rank": 66,
       "title": "Ini Abadi",
       "artist": "Perunggu",
       "articleTitle": "Ini Abadi - Perunggu",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "rank": 84,
+      "rank": 83,
       "title": "Ada titik-titik di ujung doa",
       "artist": "Sal Priadi",
       "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
@@ -80,21 +80,21 @@
       }
     },
     {
-      "rank": 120,
-      "title": "Iqro'",
-      "artist": "Raim Laode",
-      "articleTitle": "Iqro - Raim Laode",
-      "url": "https://www.chordfylan.com/2026/10/iqro-raim-laode.html",
-      "sourceUrl": "https://www.last.fm/music/Raim+Laode/_/Iqro%27",
+      "rank": 126,
+      "title": "Alexandra",
+      "artist": "Reality Club",
+      "articleTitle": "Alexandra - Reality Club",
+      "url": "https://www.chordfylan.com/2023/05/chord-alexandra-reality-club.html",
+      "sourceUrl": "https://www.last.fm/music/Reality+Club/_/Alexandra",
       "matchScore": 1,
       "artistVerification": {
         "provider": "MusicBrainz",
-        "mbid": "12221a55-3afe-4c16-bac7-38f550e1f6be",
-        "url": "https://musicbrainz.org/artist/12221a55-3afe-4c16-bac7-38f550e1f6be"
+        "mbid": "70427aaf-7e0c-46a5-a04f-177eeb98d80e",
+        "url": "https://musicbrainz.org/artist/70427aaf-7e0c-46a5-a04f-177eeb98d80e"
       }
     },
     {
-      "rank": 138,
+      "rank": 128,
       "title": "kota ini tak sama tanpamu",
       "artist": "Nadhif Basalamah",
       "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
@@ -108,7 +108,7 @@
       }
     },
     {
-      "rank": 146,
+      "rank": 140,
       "title": "33x",
       "artist": "Perunggu",
       "articleTitle": "33X - Perunggu",
@@ -122,12 +122,12 @@
       }
     },
     {
-      "rank": 148,
-      "title": "Dunia Yang Nanti",
+      "rank": 143,
+      "title": "Iqro'",
       "artist": "Raim Laode",
-      "articleTitle": "Dunia Yang Nanti - Raim Laode",
-      "url": "https://www.chordfylan.com/2026/10/dunia-yang-nanti-raim-laode.html",
-      "sourceUrl": "https://www.last.fm/music/Raim+Laode/_/Dunia+Yang+Nanti",
+      "articleTitle": "Iqro - Raim Laode",
+      "url": "https://www.chordfylan.com/2026/10/iqro-raim-laode.html",
+      "sourceUrl": "https://www.last.fm/music/Raim+Laode/_/Iqro%27",
       "matchScore": 1,
       "artistVerification": {
         "provider": "MusicBrainz",
@@ -136,17 +136,17 @@
       }
     },
     {
-      "rank": 149,
-      "title": "Alexandra",
-      "artist": "Reality Club",
-      "articleTitle": "Alexandra - Reality Club",
-      "url": "https://www.chordfylan.com/2023/05/chord-alexandra-reality-club.html",
-      "sourceUrl": "https://www.last.fm/music/Reality+Club/_/Alexandra",
+      "rank": 159,
+      "title": "Berapa Kali Kita Akan Saling Memaafkan",
+      "artist": "Pamungkas",
+      "articleTitle": "Berapa Kali Kita Akan Saling Memaafkan - Pamungkas",
+      "url": "https://www.chordfylan.com/2026/10/berapa-kali-kita-akan-saling-memaafkan.html",
+      "sourceUrl": "https://www.last.fm/music/Pamungkas/_/Berapa+Kali+Kita+Akan+Saling+Memaafkan",
       "matchScore": 1,
       "artistVerification": {
         "provider": "MusicBrainz",
-        "mbid": "70427aaf-7e0c-46a5-a04f-177eeb98d80e",
-        "url": "https://musicbrainz.org/artist/70427aaf-7e0c-46a5-a04f-177eeb98d80e"
+        "mbid": "5ff9766f-828e-4078-8e0f-f67c31e5b527",
+        "url": "https://musicbrainz.org/artist/5ff9766f-828e-4078-8e0f-f67c31e5b527"
       }
     }
   ]
