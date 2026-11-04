@@ -1918,5 +1918,23 @@
       "reason": "country_missing",
       "mbid": "000fc734-b7e1-4a01-92d1-f544261b43f5"
     }
+  },
+  "jisoo": {
+    "name": "JISOO",
+    "checkedAt": "2026-11-04T03:00:49.641Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "halsey": {
+    "name": "Halsey",
+    "checkedAt": "2026-11-04T03:00:50.565Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "3377f3bb-60fc-4403-aea9-7e800612e060",
+      "verificationUrl": "https://musicbrainz.org/artist/3377f3bb-60fc-4403-aea9-7e800612e060"
+    }
   }
 }
