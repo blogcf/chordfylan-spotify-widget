@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-04T03:00:51.680Z",
+  "updatedAt": "2026-11-05T03:31:27.548Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7539,
-  "verifiedIndonesianTracks": 51,
+  "indexedPosts": 7582,
+  "verifiedIndonesianTracks": 52,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 38,
+      "rank": 40,
       "title": "Terbuang Dalam Waktu",
       "artist": "Barasuara",
       "articleTitle": "Terbuang Dalam Waktu - Barasuara",
@@ -38,7 +38,7 @@
       }
     },
     {
-      "rank": 57,
+      "rank": 59,
       "title": "Anything You Want",
       "artist": "Reality Club",
       "articleTitle": "Anything You Want - Reality Club",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "rank": 90,
+      "rank": 92,
       "title": "Ada titik-titik di ujung doa",
       "artist": "Sal Priadi",
       "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
@@ -80,7 +80,7 @@
       }
     },
     {
-      "rank": 123,
+      "rank": 124,
       "title": "Alexandra",
       "artist": "Reality Club",
       "articleTitle": "Alexandra - Reality Club",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "rank": 134,
+      "rank": 135,
       "title": "kota ini tak sama tanpamu",
       "artist": "Nadhif Basalamah",
       "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
@@ -108,7 +108,7 @@
       }
     },
     {
-      "rank": 146,
+      "rank": 148,
       "title": "33x",
       "artist": "Perunggu",
       "articleTitle": "33X - Perunggu",
@@ -122,7 +122,7 @@
       }
     },
     {
-      "rank": 163,
+      "rank": 151,
       "title": "Berapa Kali Kita Akan Saling Memaafkan",
       "artist": "Pamungkas",
       "articleTitle": "Berapa Kali Kita Akan Saling Memaafkan - Pamungkas",
@@ -136,7 +136,7 @@
       }
     },
     {
-      "rank": 169,
+      "rank": 155,
       "title": "MMG (My Mine Gueh)",
       "artist": "Naykilla",
       "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
