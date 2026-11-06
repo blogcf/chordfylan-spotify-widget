@@ -1946,5 +1946,15 @@
       "mbid": "eeb1195b-f213-4ce1-b28c-8565211f8e43",
       "verificationUrl": "https://musicbrainz.org/artist/eeb1195b-f213-4ce1-b28c-8565211f8e43"
     }
+  },
+  "post malone": {
+    "name": "Post Malone",
+    "checkedAt": "2026-11-06T03:27:50.173Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+      "verificationUrl": "https://musicbrainz.org/artist/b1e26560-60e5-4236-bbdb-9aa5a8d5ee19"
+    }
   }
 }
