@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-06T03:27:51.327Z",
+  "updatedAt": "2026-11-07T02:50:52.332Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7620,
-  "verifiedIndonesianTracks": 51,
+  "indexedPosts": 7623,
+  "verifiedIndonesianTracks": 49,
   "matchCount": 10,
   "matches": [
     {
@@ -24,7 +24,7 @@
       }
     },
     {
-      "rank": 53,
+      "rank": 55,
       "title": "everything u are",
       "artist": "Hindia",
       "articleTitle": "Everything U Are - Hindia",
@@ -38,7 +38,7 @@
       }
     },
     {
-      "rank": 58,
+      "rank": 64,
       "title": "Anything You Want",
       "artist": "Reality Club",
       "articleTitle": "Anything You Want - Reality Club",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "rank": 65,
+      "rank": 71,
       "title": "Ini Abadi",
       "artist": "Perunggu",
       "articleTitle": "Ini Abadi - Perunggu",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "rank": 94,
+      "rank": 89,
       "title": "Ada titik-titik di ujung doa",
       "artist": "Sal Priadi",
       "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
@@ -80,7 +80,7 @@
       }
     },
     {
-      "rank": 124,
+      "rank": 126,
       "title": "Alexandra",
       "artist": "Reality Club",
       "articleTitle": "Alexandra - Reality Club",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "rank": 137,
+      "rank": 127,
       "title": "kota ini tak sama tanpamu",
       "artist": "Nadhif Basalamah",
       "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
@@ -108,21 +108,7 @@
       }
     },
     {
-      "rank": 139,
-      "title": "33x",
-      "artist": "Perunggu",
-      "articleTitle": "33X - Perunggu",
-      "url": "https://www.chordfylan.com/2026/10/33x-perunggu.html",
-      "sourceUrl": "https://www.last.fm/music/Perunggu/_/33x",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "54c4a836-5417-49cf-a0c3-4cd9f0ba617c",
-        "url": "https://musicbrainz.org/artist/54c4a836-5417-49cf-a0c3-4cd9f0ba617c"
-      }
-    },
-    {
-      "rank": 142,
+      "rank": 132,
       "title": "MMG (My Mine Gueh)",
       "artist": "Naykilla",
       "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
@@ -137,6 +123,20 @@
     },
     {
       "rank": 151,
+      "title": "33x",
+      "artist": "Perunggu",
+      "articleTitle": "33X - Perunggu",
+      "url": "https://www.chordfylan.com/2026/10/33x-perunggu.html",
+      "sourceUrl": "https://www.last.fm/music/Perunggu/_/33x",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "54c4a836-5417-49cf-a0c3-4cd9f0ba617c",
+        "url": "https://musicbrainz.org/artist/54c4a836-5417-49cf-a0c3-4cd9f0ba617c"
+      }
+    },
+    {
+      "rank": 159,
       "title": "Berapa Kali Kita Akan Saling Memaafkan",
       "artist": "Pamungkas",
       "articleTitle": "Berapa Kali Kita Akan Saling Memaafkan - Pamungkas",
