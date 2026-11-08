@@ -1956,5 +1956,15 @@
       "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
       "verificationUrl": "https://musicbrainz.org/artist/b1e26560-60e5-4236-bbdb-9aa5a8d5ee19"
     }
+  },
+  "mahalini": {
+    "name": "Mahalini",
+    "checkedAt": "2026-11-08T02:31:16.142Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "d7f6827c-f1f0-4804-acf4-0d627282cc57",
+      "verificationUrl": "https://musicbrainz.org/artist/d7f6827c-f1f0-4804-acf4-0d627282cc57"
+    }
   }
 }

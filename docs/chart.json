@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-07T02:50:52.332Z",
+  "updatedAt": "2026-11-08T02:31:17.353Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7623,
-  "verifiedIndonesianTracks": 49,
+  "indexedPosts": 7630,
+  "verifiedIndonesianTracks": 53,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 42,
+      "rank": 44,
       "title": "Terbuang Dalam Waktu",
       "artist": "Barasuara",
       "articleTitle": "Terbuang Dalam Waktu - Barasuara",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "rank": 55,
+      "rank": 61,
       "title": "everything u are",
       "artist": "Hindia",
       "articleTitle": "Everything U Are - Hindia",
@@ -38,7 +38,7 @@
       }
     },
     {
-      "rank": 64,
+      "rank": 63,
       "title": "Anything You Want",
       "artist": "Reality Club",
       "articleTitle": "Anything You Want - Reality Club",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "rank": 71,
+      "rank": 75,
       "title": "Ini Abadi",
       "artist": "Perunggu",
       "articleTitle": "Ini Abadi - Perunggu",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "rank": 89,
+      "rank": 87,
       "title": "Ada titik-titik di ujung doa",
       "artist": "Sal Priadi",
       "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
@@ -80,21 +80,7 @@
       }
     },
     {
-      "rank": 126,
-      "title": "Alexandra",
-      "artist": "Reality Club",
-      "articleTitle": "Alexandra - Reality Club",
-      "url": "https://www.chordfylan.com/2023/05/chord-alexandra-reality-club.html",
-      "sourceUrl": "https://www.last.fm/music/Reality+Club/_/Alexandra",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "70427aaf-7e0c-46a5-a04f-177eeb98d80e",
-        "url": "https://musicbrainz.org/artist/70427aaf-7e0c-46a5-a04f-177eeb98d80e"
-      }
-    },
-    {
-      "rank": 127,
+      "rank": 113,
       "title": "kota ini tak sama tanpamu",
       "artist": "Nadhif Basalamah",
       "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
@@ -108,7 +94,7 @@
       }
     },
     {
-      "rank": 132,
+      "rank": 126,
       "title": "MMG (My Mine Gueh)",
       "artist": "Naykilla",
       "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
@@ -122,7 +108,21 @@
       }
     },
     {
-      "rank": 151,
+      "rank": 129,
+      "title": "Alexandra",
+      "artist": "Reality Club",
+      "articleTitle": "Alexandra - Reality Club",
+      "url": "https://www.chordfylan.com/2023/05/chord-alexandra-reality-club.html",
+      "sourceUrl": "https://www.last.fm/music/Reality+Club/_/Alexandra",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "70427aaf-7e0c-46a5-a04f-177eeb98d80e",
+        "url": "https://musicbrainz.org/artist/70427aaf-7e0c-46a5-a04f-177eeb98d80e"
+      }
+    },
+    {
+      "rank": 152,
       "title": "33x",
       "artist": "Perunggu",
       "articleTitle": "33X - Perunggu",
@@ -136,7 +136,7 @@
       }
     },
     {
-      "rank": 159,
+      "rank": 176,
       "title": "Berapa Kali Kita Akan Saling Memaafkan",
       "artist": "Pamungkas",
       "articleTitle": "Berapa Kali Kita Akan Saling Memaafkan - Pamungkas",
