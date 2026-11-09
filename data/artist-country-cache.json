@@ -1966,5 +1966,50 @@
       "mbid": "d7f6827c-f1f0-4804-acf4-0d627282cc57",
       "verificationUrl": "https://musicbrainz.org/artist/d7f6827c-f1f0-4804-acf4-0d627282cc57"
     }
+  },
+  "dream ivory": {
+    "name": "Dream, Ivory",
+    "checkedAt": "2026-11-09T02:41:42.498Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "efek rumah kaca": {
+    "name": "Efek Rumah Kaca",
+    "checkedAt": "2026-11-09T02:41:42.680Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "df5507cd-4ff3-45bb-ad45-ab85dc1e2ace",
+      "verificationUrl": "https://musicbrainz.org/artist/df5507cd-4ff3-45bb-ad45-ab85dc1e2ace"
+    }
+  },
+  "d4vd": {
+    "name": "d4vd",
+    "checkedAt": "2026-11-09T02:41:44.014Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "d8e07579-ff5a-41f2-b7a7-c71880b8287a",
+      "verificationUrl": "https://musicbrainz.org/artist/d8e07579-ff5a-41f2-b7a7-c71880b8287a"
+    }
+  },
+  "idgitaf": {
+    "name": "Idgitaf",
+    "checkedAt": "2026-11-09T02:41:45.178Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "c35459e5-f29c-465a-81f0-7ea2f93193a5"
+    }
+  },
+  "drake": {
+    "name": "Drake",
+    "checkedAt": "2026-11-09T02:41:46.605Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
   }
 }

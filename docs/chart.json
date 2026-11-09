@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-08T02:31:17.353Z",
+  "updatedAt": "2026-11-09T02:41:47.927Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7630,
-  "verifiedIndonesianTracks": 53,
+  "indexedPosts": 7637,
+  "verifiedIndonesianTracks": 54,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 44,
+      "rank": 47,
       "title": "Terbuang Dalam Waktu",
       "artist": "Barasuara",
       "articleTitle": "Terbuang Dalam Waktu - Barasuara",
@@ -24,21 +24,7 @@
       }
     },
     {
-      "rank": 61,
-      "title": "everything u are",
-      "artist": "Hindia",
-      "articleTitle": "Everything U Are - Hindia",
-      "url": "https://www.chordfylan.com/2026/10/everything-u-are-hindia.html",
-      "sourceUrl": "https://www.last.fm/music/Hindia/_/everything+u+are",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
-        "url": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
-      }
-    },
-    {
-      "rank": 63,
+      "rank": 55,
       "title": "Anything You Want",
       "artist": "Reality Club",
       "articleTitle": "Anything You Want - Reality Club",
@@ -52,7 +38,21 @@
       }
     },
     {
-      "rank": 75,
+      "rank": 66,
+      "title": "everything u are",
+      "artist": "Hindia",
+      "articleTitle": "Everything U Are - Hindia",
+      "url": "https://www.chordfylan.com/2026/10/everything-u-are-hindia.html",
+      "sourceUrl": "https://www.last.fm/music/Hindia/_/everything+u+are",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
+        "url": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
+      }
+    },
+    {
+      "rank": 77,
       "title": "Ini Abadi",
       "artist": "Perunggu",
       "articleTitle": "Ini Abadi - Perunggu",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "rank": 87,
+      "rank": 83,
       "title": "Ada titik-titik di ujung doa",
       "artist": "Sal Priadi",
       "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
@@ -80,21 +80,7 @@
       }
     },
     {
-      "rank": 113,
-      "title": "kota ini tak sama tanpamu",
-      "artist": "Nadhif Basalamah",
-      "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
-      "url": "https://www.chordfylan.com/2026/10/kota-ini-tak-sama-tanpamu-nadhif.html",
-      "sourceUrl": "https://www.last.fm/music/Nadhif+Basalamah/_/kota+ini+tak+sama+tanpamu",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "ccbc2142-b78c-4f52-b5a5-e4869910c123",
-        "url": "https://musicbrainz.org/artist/ccbc2142-b78c-4f52-b5a5-e4869910c123"
-      }
-    },
-    {
-      "rank": 126,
+      "rank": 119,
       "title": "MMG (My Mine Gueh)",
       "artist": "Naykilla",
       "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
@@ -108,7 +94,21 @@
       }
     },
     {
-      "rank": 129,
+      "rank": 124,
+      "title": "kota ini tak sama tanpamu",
+      "artist": "Nadhif Basalamah",
+      "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
+      "url": "https://www.chordfylan.com/2026/10/kota-ini-tak-sama-tanpamu-nadhif.html",
+      "sourceUrl": "https://www.last.fm/music/Nadhif+Basalamah/_/kota+ini+tak+sama+tanpamu",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "ccbc2142-b78c-4f52-b5a5-e4869910c123",
+        "url": "https://musicbrainz.org/artist/ccbc2142-b78c-4f52-b5a5-e4869910c123"
+      }
+    },
+    {
+      "rank": 127,
       "title": "Alexandra",
       "artist": "Reality Club",
       "articleTitle": "Alexandra - Reality Club",
@@ -122,7 +122,7 @@
       }
     },
     {
-      "rank": 152,
+      "rank": 143,
       "title": "33x",
       "artist": "Perunggu",
       "articleTitle": "33X - Perunggu",
@@ -136,7 +136,7 @@
       }
     },
     {
-      "rank": 176,
+      "rank": 188,
       "title": "Berapa Kali Kita Akan Saling Memaafkan",
       "artist": "Pamungkas",
       "articleTitle": "Berapa Kali Kita Akan Saling Memaafkan - Pamungkas",
