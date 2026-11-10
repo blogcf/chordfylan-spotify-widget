@@ -1,30 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-09T02:41:47.927Z",
+  "updatedAt": "2026-11-10T04:38:34.847Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7637,
-  "verifiedIndonesianTracks": 54,
+  "indexedPosts": 7642,
+  "verifiedIndonesianTracks": 50,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 47,
-      "title": "Terbuang Dalam Waktu",
-      "artist": "Barasuara",
-      "articleTitle": "Terbuang Dalam Waktu - Barasuara",
-      "url": "https://www.chordfylan.com/2023/09/terbuang-dalam-waktu-barasuara.html",
-      "sourceUrl": "https://www.last.fm/music/Barasuara/_/Terbuang+Dalam+Waktu",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "21a3321e-1ddf-499f-90cb-f92eaae072ce",
-        "url": "https://musicbrainz.org/artist/21a3321e-1ddf-499f-90cb-f92eaae072ce"
-      }
-    },
-    {
-      "rank": 55,
+      "rank": 57,
       "title": "Anything You Want",
       "artist": "Reality Club",
       "articleTitle": "Anything You Want - Reality Club",
@@ -35,6 +21,20 @@
         "provider": "MusicBrainz",
         "mbid": "70427aaf-7e0c-46a5-a04f-177eeb98d80e",
         "url": "https://musicbrainz.org/artist/70427aaf-7e0c-46a5-a04f-177eeb98d80e"
+      }
+    },
+    {
+      "rank": 64,
+      "title": "Terbuang Dalam Waktu",
+      "artist": "Barasuara",
+      "articleTitle": "Terbuang Dalam Waktu - Barasuara",
+      "url": "https://www.chordfylan.com/2023/09/terbuang-dalam-waktu-barasuara.html",
+      "sourceUrl": "https://www.last.fm/music/Barasuara/_/Terbuang+Dalam+Waktu",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "21a3321e-1ddf-499f-90cb-f92eaae072ce",
+        "url": "https://musicbrainz.org/artist/21a3321e-1ddf-499f-90cb-f92eaae072ce"
       }
     },
     {
@@ -52,7 +52,7 @@
       }
     },
     {
-      "rank": 77,
+      "rank": 81,
       "title": "Ini Abadi",
       "artist": "Perunggu",
       "articleTitle": "Ini Abadi - Perunggu",
@@ -80,21 +80,7 @@
       }
     },
     {
-      "rank": 119,
-      "title": "MMG (My Mine Gueh)",
-      "artist": "Naykilla",
-      "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
-      "url": "https://www.chordfylan.com/2026/10/mmg-my-mine-gueh-naykilla.html",
-      "sourceUrl": "https://www.last.fm/music/Naykilla/_/MMG+(My+Mine+Gueh)",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "06c095fd-512a-4bcd-9c0c-1bda68b29848",
-        "url": "https://musicbrainz.org/artist/06c095fd-512a-4bcd-9c0c-1bda68b29848"
-      }
-    },
-    {
-      "rank": 124,
+      "rank": 109,
       "title": "kota ini tak sama tanpamu",
       "artist": "Nadhif Basalamah",
       "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
@@ -108,7 +94,7 @@
       }
     },
     {
-      "rank": 127,
+      "rank": 116,
       "title": "Alexandra",
       "artist": "Reality Club",
       "articleTitle": "Alexandra - Reality Club",
@@ -122,7 +108,21 @@
       }
     },
     {
-      "rank": 143,
+      "rank": 126,
+      "title": "MMG (My Mine Gueh)",
+      "artist": "Naykilla",
+      "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
+      "url": "https://www.chordfylan.com/2026/10/mmg-my-mine-gueh-naykilla.html",
+      "sourceUrl": "https://www.last.fm/music/Naykilla/_/MMG+(My+Mine+Gueh)",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "06c095fd-512a-4bcd-9c0c-1bda68b29848",
+        "url": "https://musicbrainz.org/artist/06c095fd-512a-4bcd-9c0c-1bda68b29848"
+      }
+    },
+    {
+      "rank": 140,
       "title": "33x",
       "artist": "Perunggu",
       "articleTitle": "33X - Perunggu",
@@ -136,17 +136,17 @@
       }
     },
     {
-      "rank": 188,
-      "title": "Berapa Kali Kita Akan Saling Memaafkan",
-      "artist": "Pamungkas",
-      "articleTitle": "Berapa Kali Kita Akan Saling Memaafkan - Pamungkas",
-      "url": "https://www.chordfylan.com/2026/10/berapa-kali-kita-akan-saling-memaafkan.html",
-      "sourceUrl": "https://www.last.fm/music/Pamungkas/_/Berapa+Kali+Kita+Akan+Saling+Memaafkan",
+      "rank": 206,
+      "title": "Rumah Ke Rumah",
+      "artist": "Hindia",
+      "articleTitle": "Rumah Ke Rumah - Hindia",
+      "url": "https://www.chordfylan.com/2020/04/rumah-ke-rumah-hindia.html",
+      "sourceUrl": "https://www.last.fm/music/Hindia/_/Rumah+Ke+Rumah",
       "matchScore": 1,
       "artistVerification": {
         "provider": "MusicBrainz",
-        "mbid": "5ff9766f-828e-4078-8e0f-f67c31e5b527",
-        "url": "https://musicbrainz.org/artist/5ff9766f-828e-4078-8e0f-f67c31e5b527"
+        "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
+        "url": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
       }
     }
   ]

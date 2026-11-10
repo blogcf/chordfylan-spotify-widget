@@ -2011,5 +2011,25 @@
       "status": "unverified",
       "reason": "ambiguous_name"
     }
+  },
+  "nathaniel constantin": {
+    "name": "Nathaniel Constantin",
+    "checkedAt": "2026-11-10T04:38:33.057Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "7e0b3d09-5547-4f90-8921-01108c6303b8",
+      "verificationUrl": "https://musicbrainz.org/artist/7e0b3d09-5547-4f90-8921-01108c6303b8"
+    }
+  },
+  "denny caknan": {
+    "name": "Denny Caknan",
+    "checkedAt": "2026-11-10T04:38:33.895Z",
+    "result": {
+      "status": "indonesian",
+      "country": "ID",
+      "mbid": "e6706b6b-5524-40ce-88b2-ac5e0fa58fad",
+      "verificationUrl": "https://musicbrainz.org/artist/e6706b6b-5524-40ce-88b2-ac5e0fa58fad"
+    }
   }
 }
