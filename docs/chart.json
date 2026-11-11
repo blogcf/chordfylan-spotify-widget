@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-10T04:38:34.847Z",
+  "updatedAt": "2026-11-11T02:49:00.392Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7642,
-  "verifiedIndonesianTracks": 50,
+  "indexedPosts": 7654,
+  "verifiedIndonesianTracks": 53,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 57,
+      "rank": 56,
       "title": "Anything You Want",
       "artist": "Reality Club",
       "articleTitle": "Anything You Want - Reality Club",
@@ -24,21 +24,7 @@
       }
     },
     {
-      "rank": 64,
-      "title": "Terbuang Dalam Waktu",
-      "artist": "Barasuara",
-      "articleTitle": "Terbuang Dalam Waktu - Barasuara",
-      "url": "https://www.chordfylan.com/2023/09/terbuang-dalam-waktu-barasuara.html",
-      "sourceUrl": "https://www.last.fm/music/Barasuara/_/Terbuang+Dalam+Waktu",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "21a3321e-1ddf-499f-90cb-f92eaae072ce",
-        "url": "https://musicbrainz.org/artist/21a3321e-1ddf-499f-90cb-f92eaae072ce"
-      }
-    },
-    {
-      "rank": 66,
+      "rank": 61,
       "title": "everything u are",
       "artist": "Hindia",
       "articleTitle": "Everything U Are - Hindia",
@@ -52,7 +38,21 @@
       }
     },
     {
-      "rank": 81,
+      "rank": 65,
+      "title": "Terbuang Dalam Waktu",
+      "artist": "Barasuara",
+      "articleTitle": "Terbuang Dalam Waktu - Barasuara",
+      "url": "https://www.chordfylan.com/2023/09/terbuang-dalam-waktu-barasuara.html",
+      "sourceUrl": "https://www.last.fm/music/Barasuara/_/Terbuang+Dalam+Waktu",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "21a3321e-1ddf-499f-90cb-f92eaae072ce",
+        "url": "https://musicbrainz.org/artist/21a3321e-1ddf-499f-90cb-f92eaae072ce"
+      }
+    },
+    {
+      "rank": 83,
       "title": "Ini Abadi",
       "artist": "Perunggu",
       "articleTitle": "Ini Abadi - Perunggu",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "rank": 83,
+      "rank": 90,
       "title": "Ada titik-titik di ujung doa",
       "artist": "Sal Priadi",
       "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
@@ -80,7 +80,7 @@
       }
     },
     {
-      "rank": 109,
+      "rank": 107,
       "title": "kota ini tak sama tanpamu",
       "artist": "Nadhif Basalamah",
       "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "rank": 116,
+      "rank": 122,
       "title": "Alexandra",
       "artist": "Reality Club",
       "articleTitle": "Alexandra - Reality Club",
@@ -108,7 +108,7 @@
       }
     },
     {
-      "rank": 126,
+      "rank": 142,
       "title": "MMG (My Mine Gueh)",
       "artist": "Naykilla",
       "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
@@ -122,7 +122,7 @@
       }
     },
     {
-      "rank": 140,
+      "rank": 143,
       "title": "33x",
       "artist": "Perunggu",
       "articleTitle": "33X - Perunggu",
@@ -136,17 +136,17 @@
       }
     },
     {
-      "rank": 206,
-      "title": "Rumah Ke Rumah",
-      "artist": "Hindia",
-      "articleTitle": "Rumah Ke Rumah - Hindia",
-      "url": "https://www.chordfylan.com/2020/04/rumah-ke-rumah-hindia.html",
-      "sourceUrl": "https://www.last.fm/music/Hindia/_/Rumah+Ke+Rumah",
+      "rank": 161,
+      "title": "Dunia Yang Nanti",
+      "artist": "Raim Laode",
+      "articleTitle": "Dunia Yang Nanti - Raim Laode",
+      "url": "https://www.chordfylan.com/2026/10/dunia-yang-nanti-raim-laode.html",
+      "sourceUrl": "https://www.last.fm/music/Raim+Laode/_/Dunia+Yang+Nanti",
       "matchScore": 1,
       "artistVerification": {
         "provider": "MusicBrainz",
-        "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
-        "url": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
+        "mbid": "12221a55-3afe-4c16-bac7-38f550e1f6be",
+        "url": "https://musicbrainz.org/artist/12221a55-3afe-4c16-bac7-38f550e1f6be"
       }
     }
   ]
