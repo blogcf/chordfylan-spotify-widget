@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-11T02:49:00.392Z",
+  "updatedAt": "2026-11-12T03:49:52.482Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
-  "candidates": 500,
-  "indexedPosts": 7654,
+  "candidates": 499,
+  "indexedPosts": 7658,
   "verifiedIndonesianTracks": 53,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 56,
+      "rank": 58,
       "title": "Anything You Want",
       "artist": "Reality Club",
       "articleTitle": "Anything You Want - Reality Club",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "rank": 61,
+      "rank": 67,
       "title": "everything u are",
       "artist": "Hindia",
       "articleTitle": "Everything U Are - Hindia",
@@ -38,7 +38,7 @@
       }
     },
     {
-      "rank": 65,
+      "rank": 68,
       "title": "Terbuang Dalam Waktu",
       "artist": "Barasuara",
       "articleTitle": "Terbuang Dalam Waktu - Barasuara",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "rank": 83,
+      "rank": 88,
       "title": "Ini Abadi",
       "artist": "Perunggu",
       "articleTitle": "Ini Abadi - Perunggu",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "rank": 90,
+      "rank": 92,
       "title": "Ada titik-titik di ujung doa",
       "artist": "Sal Priadi",
       "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
@@ -80,7 +80,7 @@
       }
     },
     {
-      "rank": 107,
+      "rank": 114,
       "title": "kota ini tak sama tanpamu",
       "artist": "Nadhif Basalamah",
       "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "rank": 122,
+      "rank": 116,
       "title": "Alexandra",
       "artist": "Reality Club",
       "articleTitle": "Alexandra - Reality Club",
@@ -108,7 +108,7 @@
       }
     },
     {
-      "rank": 142,
+      "rank": 129,
       "title": "MMG (My Mine Gueh)",
       "artist": "Naykilla",
       "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
@@ -122,7 +122,7 @@
       }
     },
     {
-      "rank": 143,
+      "rank": 154,
       "title": "33x",
       "artist": "Perunggu",
       "articleTitle": "33X - Perunggu",
@@ -136,7 +136,7 @@
       }
     },
     {
-      "rank": 161,
+      "rank": 159,
       "title": "Dunia Yang Nanti",
       "artist": "Raim Laode",
       "articleTitle": "Dunia Yang Nanti - Raim Laode",

@@ -2031,5 +2031,15 @@
       "mbid": "e6706b6b-5524-40ce-88b2-ac5e0fa58fad",
       "verificationUrl": "https://musicbrainz.org/artist/e6706b6b-5524-40ce-88b2-ac5e0fa58fad"
     }
+  },
+  "adrianne lenker": {
+    "name": "Adrianne Lenker",
+    "checkedAt": "2026-11-12T03:49:51.558Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "763cb144-afdb-471e-bd86-d4f5b9b58641",
+      "verificationUrl": "https://musicbrainz.org/artist/763cb144-afdb-471e-bd86-d4f5b9b58641"
+    }
   }
 }
