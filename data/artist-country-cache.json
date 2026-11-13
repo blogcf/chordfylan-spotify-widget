@@ -2041,5 +2041,14 @@
       "mbid": "763cb144-afdb-471e-bd86-d4f5b9b58641",
       "verificationUrl": "https://musicbrainz.org/artist/763cb144-afdb-471e-bd86-d4f5b9b58641"
     }
+  },
+  "vierra": {
+    "name": "Vierra",
+    "checkedAt": "2026-11-13T03:26:28.238Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "51652b1c-ece0-4107-b81a-91be33587f98"
+    }
   }
 }
