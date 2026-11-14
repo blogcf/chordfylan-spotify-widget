@@ -2050,5 +2050,25 @@
       "reason": "country_missing",
       "mbid": "51652b1c-ece0-4107-b81a-91be33587f98"
     }
+  },
+  "xg": {
+    "name": "XG",
+    "checkedAt": "2026-11-14T03:19:39.781Z",
+    "result": {
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "8dfe067c-ae90-472e-80f2-fcee9be4e158",
+      "verificationUrl": "https://musicbrainz.org/artist/8dfe067c-ae90-472e-80f2-fcee9be4e158"
+    }
+  },
+  "stephen sanchez": {
+    "name": "Stephen Sanchez",
+    "checkedAt": "2026-11-14T03:19:40.368Z",
+    "result": {
+      "status": "foreign",
+      "country": "US",
+      "mbid": "a9c38fd2-04be-4bc6-a3bc-96508b226508",
+      "verificationUrl": "https://musicbrainz.org/artist/a9c38fd2-04be-4bc6-a3bc-96508b226508"
+    }
   }
 }

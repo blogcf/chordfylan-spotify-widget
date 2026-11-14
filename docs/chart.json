@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-13T03:26:29.528Z",
+  "updatedAt": "2026-11-14T03:19:41.369Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 499,
-  "indexedPosts": 7670,
-  "verifiedIndonesianTracks": 52,
+  "indexedPosts": 7672,
+  "verifiedIndonesianTracks": 50,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 56,
+      "rank": 48,
       "title": "Anything You Want",
       "artist": "Reality Club",
       "articleTitle": "Anything You Want - Reality Club",
@@ -24,21 +24,7 @@
       }
     },
     {
-      "rank": 67,
-      "title": "Terbuang Dalam Waktu",
-      "artist": "Barasuara",
-      "articleTitle": "Terbuang Dalam Waktu - Barasuara",
-      "url": "https://www.chordfylan.com/2023/09/terbuang-dalam-waktu-barasuara.html",
-      "sourceUrl": "https://www.last.fm/music/Barasuara/_/Terbuang+Dalam+Waktu",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "21a3321e-1ddf-499f-90cb-f92eaae072ce",
-        "url": "https://musicbrainz.org/artist/21a3321e-1ddf-499f-90cb-f92eaae072ce"
-      }
-    },
-    {
-      "rank": 71,
+      "rank": 74,
       "title": "everything u are",
       "artist": "Hindia",
       "articleTitle": "Everything U Are - Hindia",
@@ -49,6 +35,20 @@
         "provider": "MusicBrainz",
         "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
         "url": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
+      }
+    },
+    {
+      "rank": 75,
+      "title": "Terbuang Dalam Waktu",
+      "artist": "Barasuara",
+      "articleTitle": "Terbuang Dalam Waktu - Barasuara",
+      "url": "https://www.chordfylan.com/2023/09/terbuang-dalam-waktu-barasuara.html",
+      "sourceUrl": "https://www.last.fm/music/Barasuara/_/Terbuang+Dalam+Waktu",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "21a3321e-1ddf-499f-90cb-f92eaae072ce",
+        "url": "https://musicbrainz.org/artist/21a3321e-1ddf-499f-90cb-f92eaae072ce"
       }
     },
     {
@@ -66,21 +66,7 @@
       }
     },
     {
-      "rank": 103,
-      "title": "Ada titik-titik di ujung doa",
-      "artist": "Sal Priadi",
-      "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
-      "url": "https://www.chordfylan.com/2026/10/ada-titik-titik-di-ujung-doa-sal-priadi.html",
-      "sourceUrl": "https://www.last.fm/music/Sal+Priadi/_/Ada+titik-titik+di+ujung+doa",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "b789cb1f-3805-4c1c-ac6c-c6cca2787f55",
-        "url": "https://musicbrainz.org/artist/b789cb1f-3805-4c1c-ac6c-c6cca2787f55"
-      }
-    },
-    {
-      "rank": 123,
+      "rank": 120,
       "title": "Alexandra",
       "artist": "Reality Club",
       "articleTitle": "Alexandra - Reality Club",
@@ -94,7 +80,7 @@
       }
     },
     {
-      "rank": 127,
+      "rank": 126,
       "title": "kota ini tak sama tanpamu",
       "artist": "Nadhif Basalamah",
       "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
@@ -108,7 +94,21 @@
       }
     },
     {
-      "rank": 143,
+      "rank": 138,
+      "title": "Ada titik-titik di ujung doa",
+      "artist": "Sal Priadi",
+      "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
+      "url": "https://www.chordfylan.com/2026/10/ada-titik-titik-di-ujung-doa-sal-priadi.html",
+      "sourceUrl": "https://www.last.fm/music/Sal+Priadi/_/Ada+titik-titik+di+ujung+doa",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "b789cb1f-3805-4c1c-ac6c-c6cca2787f55",
+        "url": "https://musicbrainz.org/artist/b789cb1f-3805-4c1c-ac6c-c6cca2787f55"
+      }
+    },
+    {
+      "rank": 142,
       "title": "33x",
       "artist": "Perunggu",
       "articleTitle": "33X - Perunggu",
@@ -122,21 +122,7 @@
       }
     },
     {
-      "rank": 155,
-      "title": "MMG (My Mine Gueh)",
-      "artist": "Naykilla",
-      "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
-      "url": "https://www.chordfylan.com/2026/10/mmg-my-mine-gueh-naykilla.html",
-      "sourceUrl": "https://www.last.fm/music/Naykilla/_/MMG+(My+Mine+Gueh)",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "06c095fd-512a-4bcd-9c0c-1bda68b29848",
-        "url": "https://musicbrainz.org/artist/06c095fd-512a-4bcd-9c0c-1bda68b29848"
-      }
-    },
-    {
-      "rank": 168,
+      "rank": 177,
       "title": "Dunia Yang Nanti",
       "artist": "Raim Laode",
       "articleTitle": "Dunia Yang Nanti - Raim Laode",
@@ -147,6 +133,20 @@
         "provider": "MusicBrainz",
         "mbid": "12221a55-3afe-4c16-bac7-38f550e1f6be",
         "url": "https://musicbrainz.org/artist/12221a55-3afe-4c16-bac7-38f550e1f6be"
+      }
+    },
+    {
+      "rank": 179,
+      "title": "MMG (My Mine Gueh)",
+      "artist": "Naykilla",
+      "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
+      "url": "https://www.chordfylan.com/2026/10/mmg-my-mine-gueh-naykilla.html",
+      "sourceUrl": "https://www.last.fm/music/Naykilla/_/MMG+(My+Mine+Gueh)",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "06c095fd-512a-4bcd-9c0c-1bda68b29848",
+        "url": "https://musicbrainz.org/artist/06c095fd-512a-4bcd-9c0c-1bda68b29848"
       }
     }
   ]
