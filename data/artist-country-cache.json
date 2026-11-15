@@ -2070,5 +2070,15 @@
       "mbid": "a9c38fd2-04be-4bc6-a3bc-96508b226508",
       "verificationUrl": "https://musicbrainz.org/artist/a9c38fd2-04be-4bc6-a3bc-96508b226508"
     }
+  },
+  "ruth b": {
+    "name": "Ruth B.",
+    "checkedAt": "2026-11-15T02:42:08.025Z",
+    "result": {
+      "status": "foreign",
+      "country": "CA",
+      "mbid": "fa44d136-fa40-4187-b522-8e262b41ac7a",
+      "verificationUrl": "https://musicbrainz.org/artist/fa44d136-fa40-4187-b522-8e262b41ac7a"
+    }
   }
 }
