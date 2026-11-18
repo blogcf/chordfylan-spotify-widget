@@ -1,7 +1,7 @@
 {
   "olivia rodrigo": {
     "name": "Olivia Rodrigo",
-    "checkedAt": "2026-10-18T09:52:36.540Z",
+    "checkedAt": "2026-11-18T04:25:55.615Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -11,7 +11,7 @@
   },
   "bts": {
     "name": "BTS",
-    "checkedAt": "2026-10-18T09:52:37.488Z",
+    "checkedAt": "2026-11-18T04:25:57.904Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -19,7 +19,7 @@
   },
   "adela": {
     "name": "ADÉLA",
-    "checkedAt": "2026-10-18T09:52:38.736Z",
+    "checkedAt": "2026-11-18T04:25:58.857Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -27,7 +27,7 @@
   },
   "the 1975": {
     "name": "The 1975",
-    "checkedAt": "2026-10-18T09:52:39.987Z",
+    "checkedAt": "2026-11-18T04:25:57.451Z",
     "result": {
       "status": "foreign",
       "country": "GB",
@@ -37,7 +37,7 @@
   },
   "malcolm todd": {
     "name": "Malcolm Todd",
-    "checkedAt": "2026-10-18T09:52:41.231Z",
+    "checkedAt": "2026-11-18T04:26:02.301Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -47,7 +47,7 @@
   },
   "agust d": {
     "name": "Agust D",
-    "checkedAt": "2026-10-18T09:52:42.627Z",
+    "checkedAt": "2026-11-18T04:26:07.485Z",
     "result": {
       "status": "foreign",
       "country": "KR",
@@ -57,7 +57,7 @@
   },
   "katy perry": {
     "name": "Katy Perry",
-    "checkedAt": "2026-10-18T09:52:43.743Z",
+    "checkedAt": "2026-11-18T04:26:04.925Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -67,7 +67,7 @@
   },
   "daniel caesar": {
     "name": "Daniel Caesar",
-    "checkedAt": "2026-10-18T09:52:44.985Z",
+    "checkedAt": "2026-11-18T04:26:03.673Z",
     "result": {
       "status": "foreign",
       "country": "CA",
@@ -77,7 +77,7 @@
   },
   "rm": {
     "name": "RM",
-    "checkedAt": "2026-10-18T09:52:46.235Z",
+    "checkedAt": "2026-11-18T04:26:18.683Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -85,7 +85,7 @@
   },
   "the script": {
     "name": "The Script",
-    "checkedAt": "2026-10-18T09:52:47.488Z",
+    "checkedAt": "2026-11-18T04:26:06.200Z",
     "result": {
       "status": "foreign",
       "country": "IE",
@@ -95,7 +95,7 @@
   },
   "jimin": {
     "name": "Jimin",
-    "checkedAt": "2026-10-18T09:52:50.366Z",
+    "checkedAt": "2026-11-18T04:26:33.865Z",
     "result": {
       "status": "foreign",
       "country": "KR",
@@ -105,7 +105,7 @@
   },
   "j hope": {
     "name": "j-hope",
-    "checkedAt": "2026-10-18T09:52:50.516Z",
+    "checkedAt": "2026-11-18T04:26:21.218Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -113,7 +113,7 @@
   },
   "ariana grande": {
     "name": "Ariana Grande",
-    "checkedAt": "2026-10-18T09:52:53.390Z",
+    "checkedAt": "2026-11-18T04:26:23.682Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -123,7 +123,7 @@
   },
   "shawn mendes": {
     "name": "Shawn Mendes",
-    "checkedAt": "2026-10-18T09:52:53.533Z",
+    "checkedAt": "2026-11-18T04:26:31.087Z",
     "result": {
       "status": "foreign",
       "country": "CA",
@@ -133,7 +133,7 @@
   },
   "tulus": {
     "name": "Tulus",
-    "checkedAt": "2026-10-18T09:52:56.413Z",
+    "checkedAt": "2026-11-18T04:26:28.616Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -141,7 +141,7 @@
   },
   "billie eilish": {
     "name": "Billie Eilish",
-    "checkedAt": "2026-10-18T09:52:56.564Z",
+    "checkedAt": "2026-11-18T04:26:08.690Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -149,7 +149,7 @@
   },
   "sombr": {
     "name": "sombr",
-    "checkedAt": "2026-10-18T09:52:59.436Z",
+    "checkedAt": "2026-11-18T04:26:13.676Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -159,7 +159,7 @@
   },
   "bleachers": {
     "name": "Bleachers",
-    "checkedAt": "2026-10-18T09:52:59.583Z",
+    "checkedAt": "2026-11-18T04:26:16.228Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -169,7 +169,7 @@
   },
   "arctic monkeys": {
     "name": "Arctic Monkeys",
-    "checkedAt": "2026-10-18T09:53:02.457Z",
+    "checkedAt": "2026-11-18T04:26:11.052Z",
     "result": {
       "status": "foreign",
       "country": "GB",
@@ -179,7 +179,7 @@
   },
   "radiohead": {
     "name": "Radiohead",
-    "checkedAt": "2026-10-18T09:53:02.605Z",
+    "checkedAt": "2026-11-18T04:26:12.276Z",
     "result": {
       "status": "foreign",
       "country": "GB",
@@ -189,7 +189,7 @@
   },
   "green day": {
     "name": "Green Day",
-    "checkedAt": "2026-10-18T09:53:05.510Z",
+    "checkedAt": "2026-11-18T04:26:24.929Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -199,17 +199,15 @@
   },
   "reality club": {
     "name": "Reality Club",
-    "checkedAt": "2026-10-18T09:53:05.695Z",
+    "checkedAt": "2026-11-18T04:26:19.928Z",
     "result": {
-      "status": "indonesian",
-      "country": "ID",
-      "mbid": "70427aaf-7e0c-46a5-a04f-177eeb98d80e",
-      "verificationUrl": "https://musicbrainz.org/artist/70427aaf-7e0c-46a5-a04f-177eeb98d80e"
+      "status": "unverified",
+      "reason": "ambiguous_name"
     }
   },
   "hindia": {
     "name": "Hindia",
-    "checkedAt": "2026-10-18T09:53:08.533Z",
+    "checkedAt": "2026-11-18T04:26:53.806Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -219,7 +217,7 @@
   },
   "jin": {
     "name": "Jin",
-    "checkedAt": "2026-10-18T09:53:08.717Z",
+    "checkedAt": "2026-11-18T04:26:49.989Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -227,7 +225,7 @@
   },
   "justin bieber": {
     "name": "Justin Bieber",
-    "checkedAt": "2026-10-18T09:53:11.555Z",
+    "checkedAt": "2026-11-18T04:26:41.300Z",
     "result": {
       "status": "foreign",
       "country": "CA",
@@ -237,7 +235,7 @@
   },
   "paramore": {
     "name": "Paramore",
-    "checkedAt": "2026-10-18T09:53:11.703Z",
+    "checkedAt": "2026-11-18T04:26:12.430Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -245,7 +243,7 @@
   },
   "barasuara": {
     "name": "Barasuara",
-    "checkedAt": "2026-10-18T09:53:12.953Z",
+    "checkedAt": "2026-11-18T04:26:38.799Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -255,7 +253,7 @@
   },
   "the goo goo dolls": {
     "name": "The Goo Goo Dolls",
-    "checkedAt": "2026-10-18T09:53:14.280Z",
+    "checkedAt": "2026-11-18T04:26:37.522Z",
     "result": {
       "status": "unverified",
       "reason": "artist_not_found"
@@ -263,7 +261,7 @@
   },
   "niki": {
     "name": "Niki",
-    "checkedAt": "2026-10-18T09:53:15.461Z",
+    "checkedAt": "2026-11-18T04:26:18.557Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -271,7 +269,7 @@
   },
   "gigi perez": {
     "name": "Gigi Perez",
-    "checkedAt": "2026-10-18T09:53:16.706Z",
+    "checkedAt": "2026-11-18T04:26:27.278Z",
     "result": {
       "status": "unverified",
       "reason": "country_missing",
@@ -280,7 +278,7 @@
   },
   "ravyn lenae": {
     "name": "Ravyn Lenae",
-    "checkedAt": "2026-10-18T09:53:19.579Z",
+    "checkedAt": "2026-11-18T04:27:07.354Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -290,7 +288,7 @@
   },
   "steve lacy": {
     "name": "Steve Lacy",
-    "checkedAt": "2026-10-18T09:53:19.726Z",
+    "checkedAt": "2026-11-18T04:26:31.271Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -298,7 +296,7 @@
   },
   "backstreet boys": {
     "name": "Backstreet Boys",
-    "checkedAt": "2026-10-18T09:53:20.997Z",
+    "checkedAt": "2026-11-18T04:26:59.969Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -308,7 +306,7 @@
   },
   "ashe": {
     "name": "Ashe",
-    "checkedAt": "2026-10-18T09:53:22.231Z",
+    "checkedAt": "2026-11-18T04:26:02.480Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -316,7 +314,7 @@
   },
   "djo": {
     "name": "Djo",
-    "checkedAt": "2026-10-18T09:53:23.482Z",
+    "checkedAt": "2026-11-18T04:26:14.928Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -324,7 +322,7 @@
   },
   "coldplay": {
     "name": "Coldplay",
-    "checkedAt": "2026-10-18T09:53:24.731Z",
+    "checkedAt": "2026-11-18T04:26:32.484Z",
     "result": {
       "status": "foreign",
       "country": "GB",
@@ -334,7 +332,7 @@
   },
   "cigarettes after sex": {
     "name": "Cigarettes After Sex",
-    "checkedAt": "2026-10-18T09:53:27.605Z",
+    "checkedAt": "2026-11-18T04:26:39.989Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -344,7 +342,7 @@
   },
   "perunggu": {
     "name": "Perunggu",
-    "checkedAt": "2026-10-18T09:53:27.750Z",
+    "checkedAt": "2026-11-18T04:26:57.341Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -354,7 +352,7 @@
   },
   "bruno mars": {
     "name": "Bruno Mars",
-    "checkedAt": "2026-10-18T09:53:29.005Z",
+    "checkedAt": "2026-11-18T04:27:17.548Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -364,7 +362,7 @@
   },
   "clairo": {
     "name": "Clairo",
-    "checkedAt": "2026-10-18T09:53:30.252Z",
+    "checkedAt": "2026-11-18T04:26:44.983Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -374,7 +372,7 @@
   },
   "hearts2hearts": {
     "name": "Hearts2Hearts",
-    "checkedAt": "2026-10-18T09:53:31.505Z",
+    "checkedAt": "2026-11-18T04:27:07.502Z",
     "result": {
       "status": "foreign",
       "country": "KR",
@@ -384,7 +382,7 @@
   },
   "alex crichton": {
     "name": "Alex Crichton",
-    "checkedAt": "2026-10-18T09:53:32.753Z",
+    "checkedAt": "2026-11-18T04:26:52.483Z",
     "result": {
       "status": "unverified",
       "reason": "country_missing",
@@ -393,7 +391,7 @@
   },
   "enau": {
     "name": "eńau",
-    "checkedAt": "2026-10-18T09:53:35.628Z",
+    "checkedAt": "2026-11-18T04:27:12.508Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -401,7 +399,7 @@
   },
   "mitski": {
     "name": "Mitski",
-    "checkedAt": "2026-10-18T09:53:35.783Z",
+    "checkedAt": "2026-11-18T04:26:28.740Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -411,7 +409,7 @@
   },
   "sal priadi": {
     "name": "Sal Priadi",
-    "checkedAt": "2026-10-18T09:53:37.098Z",
+    "checkedAt": "2026-11-18T04:27:40.086Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -421,7 +419,7 @@
   },
   "feast": {
     "name": ".Feast",
-    "checkedAt": "2026-10-18T09:53:38.276Z",
+    "checkedAt": "2026-11-18T04:27:01.242Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -429,7 +427,7 @@
   },
   "naykilla": {
     "name": "Naykilla",
-    "checkedAt": "2026-10-18T09:53:39.527Z",
+    "checkedAt": "2026-11-18T04:28:07.554Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -439,7 +437,7 @@
   },
   "my chemical romance": {
     "name": "My Chemical Romance",
-    "checkedAt": "2026-10-18T09:53:40.775Z",
+    "checkedAt": "2026-11-18T04:26:34.989Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -449,7 +447,7 @@
   },
   "she and him": {
     "name": "She & Him",
-    "checkedAt": "2026-10-18T09:53:43.649Z",
+    "checkedAt": "2026-11-18T04:26:47.522Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -459,7 +457,7 @@
   },
   "the weeknd": {
     "name": "The Weeknd",
-    "checkedAt": "2026-10-18T09:53:45.421Z",
+    "checkedAt": "2026-11-18T04:27:13.791Z",
     "result": {
       "status": "foreign",
       "country": "CA",
@@ -469,7 +467,7 @@
   },
   "overnight": {
     "name": "Overnight",
-    "checkedAt": "2026-10-18T09:53:45.571Z",
+    "checkedAt": "2026-11-18T04:26:48.737Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -477,7 +475,7 @@
   },
   "wave to earth": {
     "name": "wave to earth",
-    "checkedAt": "2026-10-18T09:53:46.831Z",
+    "checkedAt": "2026-11-18T04:26:54.984Z",
     "result": {
       "status": "foreign",
       "country": "KR",
@@ -487,7 +485,7 @@
   },
   "jung kook": {
     "name": "Jung Kook",
-    "checkedAt": "2026-10-18T09:53:48.111Z",
+    "checkedAt": "2026-11-18T04:27:11.093Z",
     "result": {
       "status": "foreign",
       "country": "KR",
@@ -497,7 +495,7 @@
   },
   "sienna spiro": {
     "name": "Sienna Spiro",
-    "checkedAt": "2026-10-18T09:53:49.323Z",
+    "checkedAt": "2026-11-18T04:27:08.738Z",
     "result": {
       "status": "foreign",
       "country": "GB",
@@ -507,7 +505,7 @@
   },
   "cortis": {
     "name": "CORTIS",
-    "checkedAt": "2026-10-18T09:53:50.671Z",
+    "checkedAt": "2026-11-18T04:27:20.006Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -515,7 +513,7 @@
   },
   "lord huron": {
     "name": "Lord Huron",
-    "checkedAt": "2026-10-18T09:53:51.821Z",
+    "checkedAt": "2026-11-18T04:27:02.484Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -525,7 +523,7 @@
   },
   "nadhif basalamah": {
     "name": "Nadhif Basalamah",
-    "checkedAt": "2026-10-18T09:53:53.166Z",
+    "checkedAt": "2026-11-18T04:27:54.908Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -535,7 +533,7 @@
   },
   "v": {
     "name": "V",
-    "checkedAt": "2026-10-18T09:53:54.325Z",
+    "checkedAt": "2026-11-18T04:27:28.659Z",
     "result": {
       "status": "unverified",
       "reason": "country_missing",
@@ -544,7 +542,7 @@
   },
   "magnolia celebration": {
     "name": "Magnolia Celebration",
-    "checkedAt": "2026-10-18T09:53:55.739Z",
+    "checkedAt": "2026-11-18T04:26:58.790Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -554,7 +552,7 @@
   },
   "lady gaga": {
     "name": "Lady Gaga",
-    "checkedAt": "2026-10-18T09:53:56.819Z",
+    "checkedAt": "2026-11-18T04:27:22.527Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -564,7 +562,7 @@
   },
   "rumahsakit": {
     "name": "rumahsakit",
-    "checkedAt": "2026-10-18T09:53:58.070Z",
+    "checkedAt": "2026-11-18T04:26:42.488Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -574,7 +572,7 @@
   },
   "boa": {
     "name": "bôa",
-    "checkedAt": "2026-10-18T09:53:59.323Z",
+    "checkedAt": "2026-11-18T04:26:36.239Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -582,7 +580,7 @@
   },
   "the walters": {
     "name": "The Walters",
-    "checkedAt": "2026-10-18T09:54:00.567Z",
+    "checkedAt": "2026-11-18T04:26:58.591Z",
     "result": {
       "status": "unverified",
       "reason": "country_missing",
@@ -591,7 +589,7 @@
   },
   "the marias": {
     "name": "The Marías",
-    "checkedAt": "2026-10-18T09:54:01.850Z",
+    "checkedAt": "2026-11-18T04:27:03.953Z",
     "result": {
       "status": "unverified",
       "reason": "country_missing",
@@ -600,7 +598,7 @@
   },
   "the neighbourhood": {
     "name": "The Neighbourhood",
-    "checkedAt": "2026-10-18T09:54:03.074Z",
+    "checkedAt": "2026-11-18T04:27:04.988Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -608,7 +606,7 @@
   },
   "joji": {
     "name": "Joji",
-    "checkedAt": "2026-10-18T09:54:04.327Z",
+    "checkedAt": "2026-11-18T04:27:31.316Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -616,7 +614,7 @@
   },
   "one direction": {
     "name": "One Direction",
-    "checkedAt": "2026-10-18T09:54:05.569Z",
+    "checkedAt": "2026-11-18T04:27:31.163Z",
     "result": {
       "status": "unverified",
       "reason": "country_missing",
@@ -625,7 +623,7 @@
   },
   "harry styles": {
     "name": "Harry Styles",
-    "checkedAt": "2026-10-18T09:54:06.823Z",
+    "checkedAt": "2026-11-18T04:26:47.338Z",
     "result": {
       "status": "unverified",
       "reason": "country_missing",
@@ -634,7 +632,7 @@
   },
   "ricky montgomery": {
     "name": "Ricky Montgomery",
-    "checkedAt": "2026-10-18T09:54:12.881Z",
+    "checkedAt": "2026-11-18T04:27:15.051Z",
     "result": {
       "status": "unverified",
       "reason": "country_missing",
@@ -643,7 +641,7 @@
   },
   "lngshot": {
     "name": "LNGSHOT",
-    "checkedAt": "2026-10-18T09:54:13.027Z",
+    "checkedAt": "2026-11-18T04:27:17.335Z",
     "result": {
       "status": "foreign",
       "country": "KR",
@@ -653,7 +651,7 @@
   },
   "gracie abrams": {
     "name": "Gracie Abrams",
-    "checkedAt": "2026-10-18T09:54:14.289Z",
+    "checkedAt": "2026-11-18T04:27:50.054Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -663,7 +661,7 @@
   },
   "chappell roan": {
     "name": "Chappell Roan",
-    "checkedAt": "2026-10-18T09:54:15.527Z",
+    "checkedAt": "2026-11-18T04:27:55.084Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -673,7 +671,7 @@
   },
   "keane": {
     "name": "Keane",
-    "checkedAt": "2026-10-18T09:54:16.784Z",
+    "checkedAt": "2026-11-18T04:26:51.255Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -681,7 +679,7 @@
   },
   "tyler the creator": {
     "name": "Tyler, The Creator",
-    "checkedAt": "2026-10-18T09:54:19.654Z",
+    "checkedAt": "2026-11-18T04:27:24.843Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -691,7 +689,7 @@
   },
   "girl in red": {
     "name": "girl in red",
-    "checkedAt": "2026-10-18T09:54:19.882Z",
+    "checkedAt": "2026-11-18T04:28:47.313Z",
     "result": {
       "status": "foreign",
       "country": "NO",
@@ -701,7 +699,7 @@
   },
   "olivia dean": {
     "name": "Olivia Dean",
-    "checkedAt": "2026-10-18T09:54:22.680Z",
+    "checkedAt": "2026-11-18T04:27:32.556Z",
     "result": {
       "status": "foreign",
       "country": "GB",
@@ -711,7 +709,7 @@
   },
   "her s": {
     "name": "Her's",
-    "checkedAt": "2026-10-18T09:54:22.830Z",
+    "checkedAt": "2026-11-18T04:27:35.149Z",
     "result": {
       "status": "foreign",
       "country": "GB",
@@ -721,7 +719,7 @@
   },
   "newjeans": {
     "name": "NewJeans",
-    "checkedAt": "2026-10-18T09:54:24.076Z",
+    "checkedAt": "2026-11-18T04:27:33.827Z",
     "result": {
       "status": "foreign",
       "country": "KR",
@@ -731,7 +729,7 @@
   },
   "raim laode": {
     "name": "Raim Laode",
-    "checkedAt": "2026-10-18T09:54:25.334Z",
+    "checkedAt": "2026-11-18T04:28:01.304Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -741,7 +739,7 @@
   },
   "maroon 5": {
     "name": "Maroon 5",
-    "checkedAt": "2026-10-18T09:54:26.573Z",
+    "checkedAt": "2026-11-18T04:27:36.306Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -751,17 +749,15 @@
   },
   "aespa": {
     "name": "aespa",
-    "checkedAt": "2026-10-18T09:54:27.855Z",
+    "checkedAt": "2026-11-18T04:27:58.804Z",
     "result": {
-      "status": "foreign",
-      "country": "KR",
-      "mbid": "b51c672b-85e0-48fe-8648-470a2422229f",
-      "verificationUrl": "https://musicbrainz.org/artist/b51c672b-85e0-48fe-8648-470a2422229f"
+      "status": "unverified",
+      "reason": "ambiguous_name"
     }
   },
   "laufey": {
     "name": "Laufey",
-    "checkedAt": "2026-10-18T09:54:30.705Z",
+    "checkedAt": "2026-11-18T04:27:47.678Z",
     "result": {
       "status": "foreign",
       "country": "IS",
@@ -771,7 +767,7 @@
   },
   "tv girl": {
     "name": "TV Girl",
-    "checkedAt": "2026-10-18T09:54:30.852Z",
+    "checkedAt": "2026-11-18T04:27:18.739Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -781,7 +777,7 @@
   },
   "rex orange county": {
     "name": "Rex Orange County",
-    "checkedAt": "2026-10-18T09:54:32.103Z",
+    "checkedAt": "2026-11-18T04:26:22.431Z",
     "result": {
       "status": "unverified",
       "reason": "country_missing",
@@ -790,7 +786,7 @@
   },
   "adrian khalif": {
     "name": "Adrian Khalif",
-    "checkedAt": "2026-10-18T09:54:33.350Z",
+    "checkedAt": "2026-11-18T04:28:04.919Z",
     "result": {
       "status": "unverified",
       "reason": "country_missing",
@@ -799,7 +795,7 @@
   },
   "charlie puth": {
     "name": "Charlie Puth",
-    "checkedAt": "2026-10-18T09:54:34.609Z",
+    "checkedAt": "2026-11-18T04:28:00.054Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -809,7 +805,7 @@
   },
   "marcell": {
     "name": "Marcell",
-    "checkedAt": "2026-10-18T09:54:37.480Z",
+    "checkedAt": "2026-11-18T04:27:48.818Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -817,7 +813,7 @@
   },
   "sufjan stevens": {
     "name": "Sufjan Stevens",
-    "checkedAt": "2026-10-18T09:54:37.654Z",
+    "checkedAt": "2026-11-18T04:27:43.813Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -827,7 +823,7 @@
   },
   "cup of joe": {
     "name": "Cup of Joe",
-    "checkedAt": "2026-10-18T09:54:38.876Z",
+    "checkedAt": "2026-11-18T04:27:56.305Z",
     "result": {
       "status": "foreign",
       "country": "PH",
@@ -837,7 +833,7 @@
   },
   "lizzy mcalpine": {
     "name": "Lizzy McAlpine",
-    "checkedAt": "2026-10-18T09:54:41.777Z",
+    "checkedAt": "2026-11-18T04:28:12.556Z",
     "result": {
       "status": "unverified",
       "reason": "country_missing",
@@ -846,7 +842,7 @@
   },
   "tame impala": {
     "name": "Tame Impala",
-    "checkedAt": "2026-10-18T09:54:43.548Z",
+    "checkedAt": "2026-11-18T04:27:41.305Z",
     "result": {
       "status": "foreign",
       "country": "AU",
@@ -866,7 +862,7 @@
   },
   "illit": {
     "name": "ILLIT",
-    "checkedAt": "2026-10-18T09:54:44.950Z",
+    "checkedAt": "2026-11-18T04:26:43.737Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -874,7 +870,7 @@
   },
   "new west": {
     "name": "New West",
-    "checkedAt": "2026-10-18T09:54:47.824Z",
+    "checkedAt": "2026-11-18T04:27:27.435Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -882,7 +878,7 @@
   },
   "taylor swift": {
     "name": "Taylor Swift",
-    "checkedAt": "2026-10-18T09:54:47.972Z",
+    "checkedAt": "2026-11-18T04:27:51.463Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -890,7 +886,7 @@
   },
   "sza": {
     "name": "SZA",
-    "checkedAt": "2026-10-18T09:54:49.259Z",
+    "checkedAt": "2026-11-18T04:27:28.805Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -900,7 +896,7 @@
   },
   "hoobastank": {
     "name": "Hoobastank",
-    "checkedAt": "2026-10-18T09:54:50.497Z",
+    "checkedAt": "2026-11-18T04:27:45.058Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -910,7 +906,7 @@
   },
   "beabadoobee": {
     "name": "beabadoobee",
-    "checkedAt": "2026-10-18T09:54:51.722Z",
+    "checkedAt": "2026-11-18T04:27:38.805Z",
     "result": {
       "status": "unverified",
       "reason": "country_missing",
@@ -919,7 +915,7 @@
   },
   "the cranberries": {
     "name": "The Cranberries",
-    "checkedAt": "2026-10-18T09:54:53.141Z",
+    "checkedAt": "2026-11-18T04:27:25.009Z",
     "result": {
       "status": "foreign",
       "country": "IE",
@@ -929,7 +925,7 @@
   },
   "rihanna": {
     "name": "Rihanna",
-    "checkedAt": "2026-10-18T09:54:54.227Z",
+    "checkedAt": "2026-11-18T04:27:42.561Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -937,7 +933,7 @@
   },
   "dua lipa": {
     "name": "Dua Lipa",
-    "checkedAt": "2026-10-18T09:54:55.482Z",
+    "checkedAt": "2026-11-18T04:29:14.961Z",
     "result": {
       "status": "foreign",
       "country": "GB",
@@ -947,7 +943,7 @@
   },
   "conan gray": {
     "name": "Conan Gray",
-    "checkedAt": "2026-10-18T09:54:56.725Z",
+    "checkedAt": "2026-11-18T04:28:07.421Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -957,7 +953,7 @@
   },
   "jeff buckley": {
     "name": "Jeff Buckley",
-    "checkedAt": "2026-10-18T09:54:57.979Z",
+    "checkedAt": "2026-11-18T04:27:11.237Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -967,7 +963,7 @@
   },
   "dominic fike": {
     "name": "Dominic Fike",
-    "checkedAt": "2026-10-18T09:55:00.911Z",
+    "checkedAt": "2026-11-18T04:28:41.348Z",
     "result": {
       "status": "unverified",
       "reason": "country_missing",
@@ -976,7 +972,7 @@
   },
   "oasis": {
     "name": "Oasis",
-    "checkedAt": "2026-10-18T09:55:01.078Z",
+    "checkedAt": "2026-11-18T04:29:08.715Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -992,7 +988,7 @@
   },
   "evanescence": {
     "name": "Evanescence",
-    "checkedAt": "2026-10-18T09:55:03.600Z",
+    "checkedAt": "2026-11-18T04:27:57.627Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1002,7 +998,7 @@
   },
   "mazzy star": {
     "name": "Mazzy Star",
-    "checkedAt": "2026-10-18T09:55:04.870Z",
+    "checkedAt": "2026-11-18T04:29:11.268Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1012,7 +1008,7 @@
   },
   "lauv": {
     "name": "Lauv",
-    "checkedAt": "2026-10-18T09:55:06.058Z",
+    "checkedAt": "2026-11-18T04:28:05.057Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1022,7 +1018,7 @@
   },
   "sabrina carpenter": {
     "name": "Sabrina Carpenter",
-    "checkedAt": "2026-10-18T09:55:07.310Z",
+    "checkedAt": "2026-11-18T04:28:23.624Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1041,7 +1037,7 @@
   },
   "slowdive": {
     "name": "Slowdive",
-    "checkedAt": "2026-10-18T09:55:09.813Z",
+    "checkedAt": "2026-11-18T04:28:10.177Z",
     "result": {
       "status": "foreign",
       "country": "GB",
@@ -1051,7 +1047,7 @@
   },
   "pamungkas": {
     "name": "Pamungkas",
-    "checkedAt": "2026-10-18T09:55:11.067Z",
+    "checkedAt": "2026-11-18T04:28:33.626Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -1061,7 +1057,7 @@
   },
   "the lantis": {
     "name": "The Lantis",
-    "checkedAt": "2026-10-18T09:55:12.318Z",
+    "checkedAt": "2026-11-18T04:27:52.560Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -1071,7 +1067,7 @@
   },
   "the killers": {
     "name": "The Killers",
-    "checkedAt": "2026-10-18T09:55:13.567Z",
+    "checkedAt": "2026-11-18T04:28:31.179Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -1079,7 +1075,7 @@
   },
   "phoebe bridgers": {
     "name": "Phoebe Bridgers",
-    "checkedAt": "2026-10-18T09:55:14.932Z",
+    "checkedAt": "2026-11-18T04:27:46.308Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1089,7 +1085,7 @@
   },
   "noah": {
     "name": "Noah",
-    "checkedAt": "2026-10-18T09:55:16.069Z",
+    "checkedAt": "2026-11-18T04:27:38.662Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -1097,7 +1093,7 @@
   },
   "sheila on 7": {
     "name": "Sheila on 7",
-    "checkedAt": "2026-10-18T09:55:17.319Z",
+    "checkedAt": "2026-11-18T04:28:41.091Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -1107,7 +1103,7 @@
   },
   "omar apollo": {
     "name": "Omar Apollo",
-    "checkedAt": "2026-10-18T09:55:18.568Z",
+    "checkedAt": "2026-11-18T04:28:58.708Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1117,7 +1113,7 @@
   },
   "kahitna": {
     "name": "Kahitna",
-    "checkedAt": "2026-10-18T09:55:19.817Z",
+    "checkedAt": "2026-11-18T04:28:27.216Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -1127,7 +1123,7 @@
   },
   "mac miller": {
     "name": "Mac Miller",
-    "checkedAt": "2026-10-18T09:55:21.069Z",
+    "checkedAt": "2026-11-18T04:28:24.880Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -1135,7 +1131,7 @@
   },
   "katseye": {
     "name": "KATSEYE",
-    "checkedAt": "2026-10-18T09:55:22.317Z",
+    "checkedAt": "2026-11-18T04:29:21.129Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1145,7 +1141,7 @@
   },
   "the chainsmokers": {
     "name": "The Chainsmokers",
-    "checkedAt": "2026-10-18T09:55:23.741Z",
+    "checkedAt": "2026-11-18T04:28:11.309Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1155,7 +1151,7 @@
   },
   "temper city": {
     "name": "Temper City",
-    "checkedAt": "2026-10-18T09:55:24.819Z",
+    "checkedAt": "2026-11-18T04:28:28.624Z",
     "result": {
       "status": "unverified",
       "reason": "country_missing",
@@ -1164,7 +1160,7 @@
   },
   "keyshia cole": {
     "name": "Keyshia Cole",
-    "checkedAt": "2026-10-18T09:55:26.069Z",
+    "checkedAt": "2026-11-18T04:28:32.372Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1193,7 +1189,7 @@
   },
   "avenged sevenfold": {
     "name": "Avenged Sevenfold",
-    "checkedAt": "2026-10-18T09:55:29.953Z",
+    "checkedAt": "2026-11-18T04:28:51.217Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1203,7 +1199,7 @@
   },
   "frank ocean": {
     "name": "Frank Ocean",
-    "checkedAt": "2026-10-18T09:55:31.239Z",
+    "checkedAt": "2026-11-18T04:28:02.557Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1213,7 +1209,7 @@
   },
   "dongker": {
     "name": "Dongker",
-    "checkedAt": "2026-10-18T09:55:32.323Z",
+    "checkedAt": "2026-11-18T04:28:15.055Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -1223,7 +1219,7 @@
   },
   "lana del rey": {
     "name": "Lana Del Rey",
-    "checkedAt": "2026-10-18T09:55:33.574Z",
+    "checkedAt": "2026-11-18T04:28:37.301Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -1241,7 +1237,7 @@
   },
   "miguel": {
     "name": "Miguel",
-    "checkedAt": "2026-10-18T09:55:36.198Z",
+    "checkedAt": "2026-11-18T04:28:17.561Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1251,7 +1247,7 @@
   },
   "hivi": {
     "name": "Hivi!",
-    "checkedAt": "2026-10-18T09:55:38.955Z",
+    "checkedAt": "2026-11-18T04:28:44.960Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -1261,7 +1257,7 @@
   },
   "sixpence none the richer": {
     "name": "Sixpence None the Richer",
-    "checkedAt": "2026-10-18T09:55:39.104Z",
+    "checkedAt": "2026-11-18T04:28:27.371Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1279,7 +1275,7 @@
   },
   "the strokes": {
     "name": "The Strokes",
-    "checkedAt": "2026-10-18T09:55:41.588Z",
+    "checkedAt": "2026-11-18T04:29:11.063Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1289,7 +1285,7 @@
   },
   "ten2five": {
     "name": "Ten2Five",
-    "checkedAt": "2026-10-18T09:55:42.852Z",
+    "checkedAt": "2026-11-18T04:27:21.235Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -1299,7 +1295,7 @@
   },
   "payung teduh": {
     "name": "Payung Teduh",
-    "checkedAt": "2026-10-18T09:55:44.112Z",
+    "checkedAt": "2026-11-18T04:28:34.926Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -1309,7 +1305,7 @@
   },
   "the police": {
     "name": "The Police",
-    "checkedAt": "2026-10-18T09:55:46.987Z",
+    "checkedAt": "2026-11-18T04:28:08.804Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -1317,7 +1313,7 @@
   },
   "twice": {
     "name": "TWICE",
-    "checkedAt": "2026-10-18T09:55:47.154Z",
+    "checkedAt": "2026-11-18T04:28:53.856Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -1325,7 +1321,7 @@
   },
   "suki waterhouse": {
     "name": "Suki Waterhouse",
-    "checkedAt": "2026-10-18T09:55:48.384Z",
+    "checkedAt": "2026-11-18T04:28:30.971Z",
     "result": {
       "status": "foreign",
       "country": "GB",
@@ -1345,7 +1341,7 @@
   },
   "charli xcx": {
     "name": "Charli xcx",
-    "checkedAt": "2026-10-18T09:55:50.888Z",
+    "checkedAt": "2026-11-18T04:29:07.459Z",
     "result": {
       "status": "unverified",
       "reason": "country_missing",
@@ -1354,7 +1350,7 @@
   },
   "the adams": {
     "name": "The Adams",
-    "checkedAt": "2026-10-18T09:55:52.133Z",
+    "checkedAt": "2026-11-18T04:29:02.471Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -1362,7 +1358,7 @@
   },
   "kehlani": {
     "name": "Kehlani",
-    "checkedAt": "2026-10-18T09:55:55.005Z",
+    "checkedAt": "2026-11-18T04:28:54.962Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1372,7 +1368,7 @@
   },
   "mac demarco": {
     "name": "Mac DeMarco",
-    "checkedAt": "2026-10-18T09:55:55.150Z",
+    "checkedAt": "2026-11-18T04:28:22.377Z",
     "result": {
       "status": "foreign",
       "country": "CA",
@@ -1382,7 +1378,7 @@
   },
   "ellie goulding": {
     "name": "Ellie Goulding",
-    "checkedAt": "2026-10-18T09:55:56.406Z",
+    "checkedAt": "2026-11-18T04:28:37.425Z",
     "result": {
       "status": "foreign",
       "country": "GB",
@@ -1392,7 +1388,7 @@
   },
   "linkin park": {
     "name": "Linkin Park",
-    "checkedAt": "2026-10-18T09:55:57.649Z",
+    "checkedAt": "2026-11-18T04:29:07.307Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -1400,7 +1396,7 @@
   },
   "dhruv": {
     "name": "dhruv",
-    "checkedAt": "2026-10-18T09:55:58.911Z",
+    "checkedAt": "2026-11-18T04:28:17.407Z",
     "result": {
       "status": "unverified",
       "reason": "country_missing",
@@ -1419,7 +1415,7 @@
   },
   "justin timberlake": {
     "name": "Justin Timberlake",
-    "checkedAt": "2026-10-18T09:56:03.028Z",
+    "checkedAt": "2026-11-18T04:29:01.062Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1429,7 +1425,7 @@
   },
   "sidney gish": {
     "name": "Sidney Gish",
-    "checkedAt": "2026-10-18T09:56:03.218Z",
+    "checkedAt": "2026-11-18T04:28:38.674Z",
     "result": {
       "status": "unverified",
       "reason": "country_missing",
@@ -1438,7 +1434,7 @@
   },
   "chase atlantic": {
     "name": "Chase Atlantic",
-    "checkedAt": "2026-10-18T09:56:06.050Z",
+    "checkedAt": "2026-11-18T04:29:18.725Z",
     "result": {
       "status": "foreign",
       "country": "AU",
@@ -1458,7 +1454,7 @@
   },
   "for revenge": {
     "name": "For Revenge",
-    "checkedAt": "2026-10-18T09:56:07.452Z",
+    "checkedAt": "2026-11-18T04:29:04.960Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -1468,7 +1464,7 @@
   },
   "kendrick lamar": {
     "name": "Kendrick Lamar",
-    "checkedAt": "2026-10-18T09:56:08.698Z",
+    "checkedAt": "2026-11-18T04:28:14.909Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1498,7 +1494,7 @@
   },
   "panchiko": {
     "name": "Panchiko",
-    "checkedAt": "2026-10-18T09:56:12.452Z",
+    "checkedAt": "2026-11-18T04:28:43.734Z",
     "result": {
       "status": "foreign",
       "country": "GB",
@@ -1508,7 +1504,7 @@
   },
   "eleanor whisper": {
     "name": "Eleanor Whisper",
-    "checkedAt": "2026-10-18T09:56:13.703Z",
+    "checkedAt": "2026-11-18T04:28:48.711Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -1518,7 +1514,7 @@
   },
   "alkateri": {
     "name": "Alkateri",
-    "checkedAt": "2026-10-18T09:56:15.046Z",
+    "checkedAt": "2026-11-18T04:28:57.312Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -1528,7 +1524,7 @@
   },
   "the smiths": {
     "name": "The Smiths",
-    "checkedAt": "2026-10-18T09:56:16.206Z",
+    "checkedAt": "2026-11-18T04:28:42.471Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -1536,7 +1532,7 @@
   },
   "fstvlst": {
     "name": "FSTVLST",
-    "checkedAt": "2026-10-18T09:56:19.075Z",
+    "checkedAt": "2026-11-18T04:29:01.215Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -1546,7 +1542,7 @@
   },
   "onerepublic": {
     "name": "OneRepublic",
-    "checkedAt": "2026-10-18T09:56:19.221Z",
+    "checkedAt": "2026-11-18T04:28:52.463Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1556,7 +1552,7 @@
   },
   "nidji": {
     "name": "Nidji",
-    "checkedAt": "2026-10-18T09:56:20.473Z",
+    "checkedAt": "2026-11-18T04:28:51.058Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -1566,7 +1562,7 @@
   },
   "don toliver": {
     "name": "Don Toliver",
-    "checkedAt": "2026-10-18T09:56:21.725Z",
+    "checkedAt": "2026-11-18T04:29:12.460Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1576,7 +1572,7 @@
   },
   "dewa 19": {
     "name": "Dewa 19",
-    "checkedAt": "2026-10-18T09:56:22.974Z",
+    "checkedAt": "2026-11-18T04:29:03.709Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -1594,7 +1590,7 @@
   },
   "kiiikiii": {
     "name": "KiiiKiii",
-    "checkedAt": "2026-10-18T09:56:25.475Z",
+    "checkedAt": "2026-11-18T04:29:17.458Z",
     "result": {
       "status": "foreign",
       "country": "KR",
@@ -1612,7 +1608,7 @@
   },
   "keshi": {
     "name": "keshi",
-    "checkedAt": "2026-10-18T09:56:29.604Z",
+    "checkedAt": "2026-11-18T04:29:13.717Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1632,7 +1628,7 @@
   },
   "cafune": {
     "name": "Cafuné",
-    "checkedAt": "2026-10-18T09:56:31.043Z",
+    "checkedAt": "2026-11-18T04:28:57.545Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -1657,7 +1653,7 @@
   },
   "lealona": {
     "name": "Lealona",
-    "checkedAt": "2026-10-19T01:18:39.054Z",
+    "checkedAt": "2026-11-18T04:28:20.999Z",
     "result": {
       "status": "unverified",
       "reason": "artist_not_found"
@@ -1665,7 +1661,7 @@
   },
   "hotel ugly": {
     "name": "Hotel Ugly",
-    "checkedAt": "2026-10-19T01:18:40.304Z",
+    "checkedAt": "2026-11-18T04:29:17.312Z",
     "result": {
       "status": "unverified",
       "reason": "country_missing",
@@ -1684,7 +1680,7 @@
   },
   "twenty one pilots": {
     "name": "Twenty One Pilots",
-    "checkedAt": "2026-10-19T01:18:42.804Z",
+    "checkedAt": "2026-11-18T04:28:47.463Z",
     "result": {
       "status": "foreign",
       "country": "US",
@@ -1714,7 +1710,7 @@
   },
   "strawberry guy": {
     "name": "Strawberry Guy",
-    "checkedAt": "2026-10-19T01:18:47.067Z",
+    "checkedAt": "2026-11-18T04:28:21.121Z",
     "result": {
       "status": "foreign",
       "country": "GB",
@@ -2079,6 +2075,24 @@
       "country": "CA",
       "mbid": "fa44d136-fa40-4187-b522-8e262b41ac7a",
       "verificationUrl": "https://musicbrainz.org/artist/fa44d136-fa40-4187-b522-8e262b41ac7a"
+    }
+  },
+  "5 seconds of summer": {
+    "name": "5 Seconds of Summer",
+    "checkedAt": "2026-11-18T04:29:21.280Z",
+    "result": {
+      "status": "foreign",
+      "country": "AU",
+      "mbid": "830e5c4e-6b7d-431d-86ab-00c751281dc5",
+      "verificationUrl": "https://musicbrainz.org/artist/830e5c4e-6b7d-431d-86ab-00c751281dc5"
+    }
+  },
+  "yena": {
+    "name": "Yena",
+    "checkedAt": "2026-11-18T04:29:22.506Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
     }
   }
 }
