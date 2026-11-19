@@ -1670,7 +1670,7 @@
   },
   "andra and the backbone": {
     "name": "Andra & The Backbone",
-    "checkedAt": "2026-10-19T01:18:41.563Z",
+    "checkedAt": "2026-11-19T04:13:15.628Z",
     "result": {
       "status": "indonesian",
       "country": "ID",
@@ -2090,6 +2090,22 @@
   "yena": {
     "name": "Yena",
     "checkedAt": "2026-11-18T04:29:22.506Z",
+    "result": {
+      "status": "unverified",
+      "reason": "ambiguous_name"
+    }
+  },
+  "muslih fvnky": {
+    "name": "Muslih Fvnky",
+    "checkedAt": "2026-11-19T04:13:13.508Z",
+    "result": {
+      "status": "unverified",
+      "reason": "artist_not_found"
+    }
+  },
+  "neck deep": {
+    "name": "Neck Deep",
+    "checkedAt": "2026-11-19T04:13:14.379Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"

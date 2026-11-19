@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-18T04:29:23.370Z",
+  "updatedAt": "2026-11-19T04:13:16.357Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7714,
-  "verifiedIndonesianTracks": 45,
+  "indexedPosts": 7730,
+  "verifiedIndonesianTracks": 44,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 61,
+      "rank": 59,
       "title": "Terbuang Dalam Waktu",
       "artist": "Barasuara",
       "articleTitle": "Terbuang Dalam Waktu - Barasuara",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "rank": 77,
+      "rank": 70,
       "title": "everything u are",
       "artist": "Hindia",
       "articleTitle": "Everything U Are - Hindia",
@@ -38,7 +38,7 @@
       }
     },
     {
-      "rank": 82,
+      "rank": 89,
       "title": "Ini Abadi",
       "artist": "Perunggu",
       "articleTitle": "Ini Abadi - Perunggu",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "rank": 144,
+      "rank": 129,
       "title": "33x",
       "artist": "Perunggu",
       "articleTitle": "33X - Perunggu",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "rank": 160,
+      "rank": 169,
       "title": "Ada titik-titik di ujung doa",
       "artist": "Sal Priadi",
       "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
@@ -80,35 +80,7 @@
       }
     },
     {
-      "rank": 185,
-      "title": "kota ini tak sama tanpamu",
-      "artist": "Nadhif Basalamah",
-      "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
-      "url": "https://www.chordfylan.com/2026/10/kota-ini-tak-sama-tanpamu-nadhif.html",
-      "sourceUrl": "https://www.last.fm/music/Nadhif+Basalamah/_/kota+ini+tak+sama+tanpamu",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "ccbc2142-b78c-4f52-b5a5-e4869910c123",
-        "url": "https://musicbrainz.org/artist/ccbc2142-b78c-4f52-b5a5-e4869910c123"
-      }
-    },
-    {
       "rank": 186,
-      "title": "Rumah Ke Rumah",
-      "artist": "Hindia",
-      "articleTitle": "Rumah Ke Rumah - Hindia",
-      "url": "https://www.chordfylan.com/2020/04/rumah-ke-rumah-hindia.html",
-      "sourceUrl": "https://www.last.fm/music/Hindia/_/Rumah+Ke+Rumah",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
-        "url": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
-      }
-    },
-    {
-      "rank": 203,
       "title": "Iqro'",
       "artist": "Raim Laode",
       "articleTitle": "Iqro - Raim Laode",
@@ -122,21 +94,49 @@
       }
     },
     {
-      "rank": 213,
-      "title": "MMG (My Mine Gueh)",
-      "artist": "Naykilla",
-      "articleTitle": "Mmg (My Mine Gueh) - Naykilla",
-      "url": "https://www.chordfylan.com/2026/10/mmg-my-mine-gueh-naykilla.html",
-      "sourceUrl": "https://www.last.fm/music/Naykilla/_/MMG+(My+Mine+Gueh)",
+      "rank": 198,
+      "title": "Rumah Ke Rumah",
+      "artist": "Hindia",
+      "articleTitle": "Rumah Ke Rumah - Hindia",
+      "url": "https://www.chordfylan.com/2020/04/rumah-ke-rumah-hindia.html",
+      "sourceUrl": "https://www.last.fm/music/Hindia/_/Rumah+Ke+Rumah",
       "matchScore": 1,
       "artistVerification": {
         "provider": "MusicBrainz",
-        "mbid": "06c095fd-512a-4bcd-9c0c-1bda68b29848",
-        "url": "https://musicbrainz.org/artist/06c095fd-512a-4bcd-9c0c-1bda68b29848"
+        "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
+        "url": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
       }
     },
     {
-      "rank": 214,
+      "rank": 200,
+      "title": "kota ini tak sama tanpamu",
+      "artist": "Nadhif Basalamah",
+      "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
+      "url": "https://www.chordfylan.com/2026/10/kota-ini-tak-sama-tanpamu-nadhif.html",
+      "sourceUrl": "https://www.last.fm/music/Nadhif+Basalamah/_/kota+ini+tak+sama+tanpamu",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "ccbc2142-b78c-4f52-b5a5-e4869910c123",
+        "url": "https://musicbrainz.org/artist/ccbc2142-b78c-4f52-b5a5-e4869910c123"
+      }
+    },
+    {
+      "rank": 219,
+      "title": "Kuning",
+      "artist": "rumahsakit",
+      "articleTitle": "Kuning - Rumahsakit",
+      "url": "https://www.chordfylan.com/2023/07/kuning-rumahsakit.html",
+      "sourceUrl": "https://www.last.fm/music/rumahsakit/_/Kuning",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "255b6820-69d9-49ed-b745-57959ab316b8",
+        "url": "https://musicbrainz.org/artist/255b6820-69d9-49ed-b745-57959ab316b8"
+      }
+    },
+    {
+      "rank": 220,
       "title": "Dunia Yang Nanti",
       "artist": "Raim Laode",
       "articleTitle": "Dunia Yang Nanti - Raim Laode",
