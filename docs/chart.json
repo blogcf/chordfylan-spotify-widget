@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-19T04:13:16.357Z",
+  "updatedAt": "2026-11-20T03:59:55.654Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7730,
-  "verifiedIndonesianTracks": 44,
+  "indexedPosts": 7732,
+  "verifiedIndonesianTracks": 46,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 59,
+      "rank": 50,
       "title": "Terbuang Dalam Waktu",
       "artist": "Barasuara",
       "articleTitle": "Terbuang Dalam Waktu - Barasuara",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "rank": 70,
+      "rank": 65,
       "title": "everything u are",
       "artist": "Hindia",
       "articleTitle": "Everything U Are - Hindia",
@@ -38,7 +38,7 @@
       }
     },
     {
-      "rank": 89,
+      "rank": 85,
       "title": "Ini Abadi",
       "artist": "Perunggu",
       "articleTitle": "Ini Abadi - Perunggu",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "rank": 129,
+      "rank": 125,
       "title": "33x",
       "artist": "Perunggu",
       "articleTitle": "33X - Perunggu",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "rank": 169,
+      "rank": 154,
       "title": "Ada titik-titik di ujung doa",
       "artist": "Sal Priadi",
       "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
@@ -80,21 +80,7 @@
       }
     },
     {
-      "rank": 186,
-      "title": "Iqro'",
-      "artist": "Raim Laode",
-      "articleTitle": "Iqro - Raim Laode",
-      "url": "https://www.chordfylan.com/2026/10/iqro-raim-laode.html",
-      "sourceUrl": "https://www.last.fm/music/Raim+Laode/_/Iqro%27",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "12221a55-3afe-4c16-bac7-38f550e1f6be",
-        "url": "https://musicbrainz.org/artist/12221a55-3afe-4c16-bac7-38f550e1f6be"
-      }
-    },
-    {
-      "rank": 198,
+      "rank": 178,
       "title": "Rumah Ke Rumah",
       "artist": "Hindia",
       "articleTitle": "Rumah Ke Rumah - Hindia",
@@ -108,7 +94,21 @@
       }
     },
     {
-      "rank": 200,
+      "rank": 182,
+      "title": "Iqro'",
+      "artist": "Raim Laode",
+      "articleTitle": "Iqro - Raim Laode",
+      "url": "https://www.chordfylan.com/2026/10/iqro-raim-laode.html",
+      "sourceUrl": "https://www.last.fm/music/Raim+Laode/_/Iqro%27",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "12221a55-3afe-4c16-bac7-38f550e1f6be",
+        "url": "https://musicbrainz.org/artist/12221a55-3afe-4c16-bac7-38f550e1f6be"
+      }
+    },
+    {
+      "rank": 184,
       "title": "kota ini tak sama tanpamu",
       "artist": "Nadhif Basalamah",
       "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
@@ -122,7 +122,7 @@
       }
     },
     {
-      "rank": 219,
+      "rank": 228,
       "title": "Kuning",
       "artist": "rumahsakit",
       "articleTitle": "Kuning - Rumahsakit",
@@ -136,7 +136,7 @@
       }
     },
     {
-      "rank": 220,
+      "rank": 233,
       "title": "Dunia Yang Nanti",
       "artist": "Raim Laode",
       "articleTitle": "Dunia Yang Nanti - Raim Laode",

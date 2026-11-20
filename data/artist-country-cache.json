@@ -852,7 +852,7 @@
   },
   "swedish house mafia": {
     "name": "Swedish House Mafia",
-    "checkedAt": "2026-10-18T09:54:43.697Z",
+    "checkedAt": "2026-11-20T03:59:51.081Z",
     "result": {
       "status": "foreign",
       "country": "SE",
@@ -1600,7 +1600,7 @@
   },
   "nirvana": {
     "name": "Nirvana",
-    "checkedAt": "2026-10-18T09:56:26.726Z",
+    "checkedAt": "2026-11-20T03:59:49.878Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -1636,7 +1636,7 @@
   },
   "ed sheeran": {
     "name": "Ed Sheeran",
-    "checkedAt": "2026-10-18T09:56:32.254Z",
+    "checkedAt": "2026-11-20T03:59:52.330Z",
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
@@ -1740,7 +1740,7 @@
   },
   "zedd": {
     "name": "Zedd",
-    "checkedAt": "2026-10-21T01:38:22.550Z",
+    "checkedAt": "2026-11-20T03:59:47.629Z",
     "result": {
       "status": "foreign",
       "country": "DE",
@@ -2109,6 +2109,25 @@
     "result": {
       "status": "unverified",
       "reason": "ambiguous_name"
+    }
+  },
+  "tomorrow x together": {
+    "name": "TOMORROW X TOGETHER",
+    "checkedAt": "2026-11-20T03:59:48.585Z",
+    "result": {
+      "status": "foreign",
+      "country": "KR",
+      "mbid": "9d027d72-790e-40ec-bbb7-61aa613457de",
+      "verificationUrl": "https://musicbrainz.org/artist/9d027d72-790e-40ec-bbb7-61aa613457de"
+    }
+  },
+  "underscores": {
+    "name": "underscores",
+    "checkedAt": "2026-11-20T03:59:54.718Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c"
     }
   }
 }
