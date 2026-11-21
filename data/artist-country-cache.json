@@ -1170,7 +1170,7 @@
   },
   "enhypen": {
     "name": "ENHYPEN",
-    "checkedAt": "2026-10-18T09:55:27.319Z",
+    "checkedAt": "2026-11-21T04:00:40.498Z",
     "result": {
       "status": "foreign",
       "country": "KR",
@@ -2128,6 +2128,25 @@
       "status": "unverified",
       "reason": "country_missing",
       "mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c"
+    }
+  },
+  "avril lavigne": {
+    "name": "Avril Lavigne",
+    "checkedAt": "2026-11-21T04:00:41.726Z",
+    "result": {
+      "status": "foreign",
+      "country": "CA",
+      "mbid": "0103c1cc-4a09-4a5d-a344-56ad99a77193",
+      "verificationUrl": "https://musicbrainz.org/artist/0103c1cc-4a09-4a5d-a344-56ad99a77193"
+    }
+  },
+  "late night drive home": {
+    "name": "late night drive home",
+    "checkedAt": "2026-11-21T04:00:41.874Z",
+    "result": {
+      "status": "unverified",
+      "reason": "country_missing",
+      "mbid": "99f3a519-e742-4f9a-bbc7-b3f280c6266f"
     }
   }
 }
