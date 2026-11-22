@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-21T04:00:43.114Z",
+  "updatedAt": "2026-11-22T03:15:02.572Z",
   "source": "Last.fm Indonesia + MusicBrainz artist origin",
   "sourceUrl": "https://www.last.fm",
   "country": "Indonesia",
   "candidates": 500,
-  "indexedPosts": 7734,
-  "verifiedIndonesianTracks": 49,
+  "indexedPosts": 8302,
+  "verifiedIndonesianTracks": 45,
   "matchCount": 10,
   "matches": [
     {
-      "rank": 49,
+      "rank": 45,
       "title": "Terbuang Dalam Waktu",
       "artist": "Barasuara",
       "articleTitle": "Terbuang Dalam Waktu - Barasuara",
@@ -24,7 +24,7 @@
       }
     },
     {
-      "rank": 60,
+      "rank": 59,
       "title": "everything u are",
       "artist": "Hindia",
       "articleTitle": "Everything U Are - Hindia",
@@ -38,7 +38,7 @@
       }
     },
     {
-      "rank": 87,
+      "rank": 86,
       "title": "Ini Abadi",
       "artist": "Perunggu",
       "articleTitle": "Ini Abadi - Perunggu",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "rank": 114,
+      "rank": 112,
       "title": "33x",
       "artist": "Perunggu",
       "articleTitle": "33X - Perunggu",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "rank": 152,
+      "rank": 145,
       "title": "Ada titik-titik di ujung doa",
       "artist": "Sal Priadi",
       "articleTitle": "Ada Titik-Titik Di Ujung Doa - Sal Priadi",
@@ -80,21 +80,7 @@
       }
     },
     {
-      "rank": 169,
-      "title": "Rumah Ke Rumah",
-      "artist": "Hindia",
-      "articleTitle": "Rumah Ke Rumah - Hindia",
-      "url": "https://www.chordfylan.com/2020/04/rumah-ke-rumah-hindia.html",
-      "sourceUrl": "https://www.last.fm/music/Hindia/_/Rumah+Ke+Rumah",
-      "matchScore": 1,
-      "artistVerification": {
-        "provider": "MusicBrainz",
-        "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
-        "url": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
-      }
-    },
-    {
-      "rank": 173,
+      "rank": 166,
       "title": "kota ini tak sama tanpamu",
       "artist": "Nadhif Basalamah",
       "articleTitle": "Kota Ini Tak Sama Tanpamu - Nadhif Basalamah (With Aziz Harun & Aisha Retno)",
@@ -108,7 +94,7 @@
       }
     },
     {
-      "rank": 177,
+      "rank": 191,
       "title": "Iqro'",
       "artist": "Raim Laode",
       "articleTitle": "Iqro - Raim Laode",
@@ -122,7 +108,21 @@
       }
     },
     {
-      "rank": 221,
+      "rank": 192,
+      "title": "Rumah Ke Rumah",
+      "artist": "Hindia",
+      "articleTitle": "Rumah Ke Rumah - Hindia",
+      "url": "https://www.chordfylan.com/2020/04/rumah-ke-rumah-hindia.html",
+      "sourceUrl": "https://www.last.fm/music/Hindia/_/Rumah+Ke+Rumah",
+      "matchScore": 1,
+      "artistVerification": {
+        "provider": "MusicBrainz",
+        "mbid": "bca05979-5463-4409-8c4d-e15c6b24bdb5",
+        "url": "https://musicbrainz.org/artist/bca05979-5463-4409-8c4d-e15c6b24bdb5"
+      }
+    },
+    {
+      "rank": 217,
       "title": "Dunia Yang Nanti",
       "artist": "Raim Laode",
       "articleTitle": "Dunia Yang Nanti - Raim Laode",
@@ -136,7 +136,7 @@
       }
     },
     {
-      "rank": 225,
+      "rank": 234,
       "title": "Kuning",
       "artist": "rumahsakit",
       "articleTitle": "Kuning - Rumahsakit",
